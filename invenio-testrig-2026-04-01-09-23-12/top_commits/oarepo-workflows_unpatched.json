@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "a169fb3",
+    "message": "[skip ci] Bump version to 2.0.0dev10"
+  },
+  {
+    "hash": "1aa1633",
+    "message": "Records with none workflow search (#46)"
+  },
+  {
+    "hash": "4685826",
+    "message": "[skip ci] Bump version to 2.0.0dev9"
+  },
+  {
+    "hash": "f4ea398",
+    "message": "create permission in WorkflowRecordPermissionPolicyMixin changed (#45)"
+  },
+  {
+    "hash": "e8dd549",
+    "message": "[skip ci] Bump version to 2.0.0dev8"
+  },
+  {
+    "hash": "9b2246d",
+    "message": "Review process changes (#44)"
+  },
+  {
+    "hash": "626c9bf",
+    "message": "[skip ci] Bump version to 2.0.0dev7"
+  },
+  {
+    "hash": "8cd2f61",
+    "message": "Review process changes (#43)"
+  },
+  {
+    "hash": "9d7879b",
+    "message": "[skip ci] Bump version to 2.0.0dev6"
+  },
+  {
+    "hash": "2e344c6",
+    "message": "Model API changes and readme (#42)"
+  },
+  {
+    "hash": "d5fba53",
+    "message": "[skip ci] Bump version to 2.0.0dev5"
+  },
+  {
+    "hash": "64bdc83",
+    "message": "Python 3.14 (#41)"
+  },
+  {
+    "hash": "f847aaf",
+    "message": "Bump version to 2.0.0dev4"
+  },
+  {
+    "hash": "a918f8b",
+    "message": "request escalations and transitions can't be none (#40)"
+  },
+  {
+    "hash": "23ad27d",
+    "message": "Bump version to 2.0.0dev3"
+  },
+  {
+    "hash": "7c81232",
+    "message": "fixes for RDM-14 - typing (#38)"
+  },
+  {
+    "hash": "f4caf3b",
+    "message": "Bump version to 2.0.0dev2"
+  },
+  {
+    "hash": "d9b68bf",
+    "message": "Updated workflows to RDM13"
+  },
+  {
+    "hash": "f599acf",
+    "message": "Merge pull request #36 from oarepo/IfInState_as_recipient_generator"
+  },
+  {
+    "hash": "7281eda",
+    "message": "generators fix"
+  },
+  {
+    "hash": "33d4be6",
+    "message": "get record state"
+  },
+  {
+    "hash": "dcebfb6",
+    "message": "check if record is a dict"
+  },
+  {
+    "hash": "243141e",
+    "message": "IfInState as recipients generator"
+  },
+  {
+    "hash": "46a9208",
+    "message": "Merge pull request #35 from oarepo/state_change_notification_in_post_commit"
+  },
+  {
+    "hash": "ab2b7be",
+    "message": "feat: calling state change notifiers in post_commit phase, not immediatelly"
+  },
+  {
+    "hash": "fa3867d",
+    "message": "Merge pull request #32 from oarepo/search-permissions"
+  },
+  {
+    "hash": "ab7e242",
+    "message": "Making search permissions workable in tests with system_process"
+  },
+  {
+    "hash": "0c60288",
+    "message": "Merge pull request #31 from oarepo/search-permission-in-workflows"
+  },
+  {
+    "hash": "08bd0d2",
+    "message": "fix: can_search requests has been changed to anonymous as well to remove exception in secret links"
+  },
+  {
+    "hash": "009da19",
+    "message": "Merge pull request #30 from oarepo/enable-list-in-ifinstate"
+  },
+  {
+    "hash": "30997f4",
+    "message": "Enable list of states for IfInState"
+  },
+  {
+    "hash": "d3aff13",
+    "message": "Merge pull request #29 from oarepo/alzbetapokorna/be-662-omb-rdm-append-rdmparentschema-to-base-classes-of-generated"
+  },
+  {
+    "hash": "e607e12",
+    "message": "rdm based workflow schema"
+  },
+  {
+    "hash": "293de07",
+    "message": "Merge pull request #28 from oarepo/miroslavsimek/bio-70-endpoint-to-search-all-records-regardless-of-their"
+  },
+  {
+    "hash": "b011e75",
+    "message": "Search all records permission"
+  },
+  {
+    "hash": "cf36e66",
+    "message": "Merge pull request #27 from oarepo/extra-permissions"
+  },
+  {
+    "hash": "467eb20",
+    "message": "Added extra permissions"
+  },
+  {
+    "hash": "9d68627",
+    "message": "Merge pull request #21 from oarepo/miroslavsimek/be-632-workflow-fails-in-ifinstate-if-then_else_-condition-branch"
+  },
+  {
+    "hash": "72ee02c",
+    "message": "Merge branch 'main' into miroslavsimek/be-632-workflow-fails-in-ifinstate-if-then_else_-condition-branch"
+  },
+  {
+    "hash": "102228e",
+    "message": "Merge pull request #26 from oarepo/escalations"
+  },
+  {
+    "hash": "84586d3",
+    "message": "Version bump"
+  },
+  {
+    "hash": "9a9ff66",
+    "message": "WorkflowRequestEscalation dunder methods, RecipientEntityReference variable rename"
+  },
+  {
+    "hash": "62b9b86",
+    "message": "Merge pull request #25 from oarepo/component-order"
+  },
+  {
+    "hash": "2864a4d",
+    "message": "Component order, repr for debugging"
+  },
+  {
+    "hash": "facfabf",
+    "message": "Merge pull request #24 from oarepo/manage-files-permission"
+  },
+  {
+    "hash": "5523c60",
+    "message": "can_manage_files permission"
+  },
+  {
+    "hash": "d69c6e3",
+    "message": "Merge pull request #23 from oarepo/miroslavsimek/be-641-rdm-permissions"
+  },
+  {
+    "hash": "f8634d4",
+    "message": "Added search clears and refreshes"
+  },
+  {
+    "hash": "582c656",
+    "message": "Merge pull request #22 from oarepo/miroslavsimek/be-641-rdm-permissions"
+  },
+  {
+    "hash": "49feb2d",
+    "message": "making workflow policies rdm enabled"
+  }
+]

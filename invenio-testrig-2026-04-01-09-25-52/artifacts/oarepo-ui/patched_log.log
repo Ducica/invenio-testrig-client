@@ -1,0 +1,1465 @@
+Downloading .runner.sh from oarepo repository...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 34864  100 34864    0     0   860k      0 --:--:-- --:--:-- --:--:--  872k
+No test-setup.sh found, skipping extra test setup.
+Installed 3 packages in 10ms
+ opensearch Pulling 
+ redis Pulling 
+ rabbitmq Pulling 
+ minio Pulling 
+ postgresql Pulling 
+ b83ce1c86227 Pulling fs layer 
+ f94d28849fa3 Pulling fs layer 
+ 81260b173076 Pulling fs layer 
+ f9c0805c25ee Pulling fs layer 
+ 1008deaf6ec4 Pulling fs layer 
+ 71e9fc939447 Pulling fs layer 
+ c1bc68842c41 Pulling fs layer 
+ 0288b5a0d7e7 Pulling fs layer 
+ 34013573f278 Pulling fs layer 
+ 71e9fc939447 Waiting 
+ c1bc68842c41 Waiting 
+ 0288b5a0d7e7 Waiting 
+ 34013573f278 Waiting 
+ f9c0805c25ee Waiting 
+ 1008deaf6ec4 Waiting 
+ 6db0909c4473 Pulling fs layer 
+ 0ad69469b2c1 Pulling fs layer 
+ 28f8763f6967 Pulling fs layer 
+ a2d3656de701 Pulling fs layer 
+ d57e1896e18b Pulling fs layer 
+ 670819b67d90 Pulling fs layer 
+ 6db0909c4473 Waiting 
+ 4f4fb700ef54 Pulling fs layer 
+ baa7297a0cd4 Pulling fs layer 
+ 28f8763f6967 Waiting 
+ 0ad69469b2c1 Waiting 
+ a2d3656de701 Waiting 
+ d57e1896e18b Waiting 
+ 4f4fb700ef54 Waiting 
+ 670819b67d90 Waiting 
+ baa7297a0cd4 Waiting 
+ 20043066d3d5 Pulling fs layer 
+ 3fadc669ef11 Pulling fs layer 
+ 7084ac8f4ab6 Pulling fs layer 
+ beb0d870d438 Pulling fs layer 
+ d63c4408fdb7 Pulling fs layer 
+ efa05c660812 Pulling fs layer 
+ f4e7f62f4b80 Pulling fs layer 
+ 5e1c03b67a78 Pulling fs layer 
+ 14e6209d5fa8 Pulling fs layer 
+ d686b50ce172 Pulling fs layer 
+ 20043066d3d5 Waiting 
+ 3fadc669ef11 Waiting 
+ 7084ac8f4ab6 Waiting 
+ beb0d870d438 Waiting 
+ d63c4408fdb7 Waiting 
+ efa05c660812 Waiting 
+ f4e7f62f4b80 Waiting 
+ 5e1c03b67a78 Waiting 
+ 14e6209d5fa8 Waiting 
+ d686b50ce172 Waiting 
+ f9dd052e142d Pulling fs layer 
+ e8c6d4883897 Pulling fs layer 
+ 648eb81b3252 Pulling fs layer 
+ eb77aa907276 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 0ffa8f8aba1e Pulling fs layer 
+ 2e81b9cb93cd Pulling fs layer 
+ f9dd052e142d Waiting 
+ e8c6d4883897 Waiting 
+ 648eb81b3252 Waiting 
+ eb77aa907276 Waiting 
+ 4f4fb700ef54 Waiting 
+ 0ffa8f8aba1e Waiting 
+ 2e81b9cb93cd Waiting 
+ b0a0cf830b12 Pulling fs layer 
+ dda3d8fbd5ed Pulling fs layer 
+ 283a477db7bb Pulling fs layer 
+ 91d2729fa4d5 Pulling fs layer 
+ 9739ced65621 Pulling fs layer 
+ ae3bb1b347a4 Pulling fs layer 
+ f8406d9c00ea Pulling fs layer 
+ c199bff16b05 Pulling fs layer 
+ e0d55fdb4d15 Pulling fs layer 
+ c1cb13b19080 Pulling fs layer 
+ 873532e5f8c7 Pulling fs layer 
+ 050d9f8c3b1c Pulling fs layer 
+ 710e142705f8 Pulling fs layer 
+ cb628c265f09 Pulling fs layer 
+ b0a0cf830b12 Waiting 
+ dda3d8fbd5ed Waiting 
+ 283a477db7bb Waiting 
+ 91d2729fa4d5 Waiting 
+ 9739ced65621 Waiting 
+ ae3bb1b347a4 Waiting 
+ f8406d9c00ea Waiting 
+ c199bff16b05 Waiting 
+ c1cb13b19080 Waiting 
+ e0d55fdb4d15 Waiting 
+ 873532e5f8c7 Waiting 
+ 710e142705f8 Waiting 
+ 050d9f8c3b1c Waiting 
+ cb628c265f09 Waiting 
+ f94d28849fa3 Downloading [>                                                  ]  16.71kB/1.637MB
+ 81260b173076 Downloading [>                                                  ]  1.774kB/122.7kB
+ b83ce1c86227 Downloading [>                                                  ]  74.26kB/7.241MB
+ 81260b173076 Downloading [==================================================>]  122.7kB/122.7kB
+ 81260b173076 Verifying Checksum 
+ 81260b173076 Download complete 
+ b83ce1c86227 Verifying Checksum 
+ b83ce1c86227 Download complete 
+ b83ce1c86227 Extracting [>                                                  ]   98.3kB/7.241MB
+ f94d28849fa3 Downloading [======================>                            ]  723.9kB/1.637MB
+ f9c0805c25ee Downloading [>                                                  ]  396.2kB/39.45MB
+ 1008deaf6ec4 Downloading [>                                                  ]  114.1kB/11.19MB
+ f94d28849fa3 Verifying Checksum 
+ f94d28849fa3 Download complete 
+ b83ce1c86227 Extracting [==============>                                    ]  2.163MB/7.241MB
+ f9c0805c25ee Downloading [=======================>                           ]   18.2MB/39.45MB
+ 1008deaf6ec4 Download complete 
+ 71e9fc939447 Downloading [>                                                  ]  24.93kB/2.402MB
+ 71e9fc939447 Download complete 
+ f9c0805c25ee Verifying Checksum 
+ f9c0805c25ee Download complete 
+ c1bc68842c41 Downloading [>                                                  ]  3.069kB/180.3kB
+ c1bc68842c41 Download complete 
+ b83ce1c86227 Extracting [============================================>      ]  6.488MB/7.241MB
+ b83ce1c86227 Extracting [==================================================>]  7.241MB/7.241MB
+ b83ce1c86227 Pull complete 
+ f94d28849fa3 Extracting [=>                                                 ]  32.77kB/1.637MB
+ 0288b5a0d7e7 Downloading [=>                                                 ]     406B/11.88kB
+ 0288b5a0d7e7 Downloading [==================================================>]  11.88kB/11.88kB
+ 0288b5a0d7e7 Verifying Checksum 
+ 0288b5a0d7e7 Download complete 
+ 34013573f278 Downloading [=========================================>         ]     408B/496B
+ 34013573f278 Downloading [==================================================>]     496B/496B
+ 34013573f278 Verifying Checksum 
+ 34013573f278 Download complete 
+ f94d28849fa3 Extracting [==================================================>]  1.637MB/1.637MB
+ f94d28849fa3 Extracting [==================================================>]  1.637MB/1.637MB
+ 6db0909c4473 Downloading [>                                                  ]    298kB/28.24MB
+ 0ad69469b2c1 Downloading [==================>                                ]     408B/1.101kB
+ 0ad69469b2c1 Downloading [==================================================>]  1.101kB/1.101kB
+ 0ad69469b2c1 Verifying Checksum 
+ 0ad69469b2c1 Download complete 
+ 28f8763f6967 Downloading [======================>                            ]     388B/874B
+ 28f8763f6967 Downloading [==================================================>]     874B/874B
+ 28f8763f6967 Download complete 
+ 6db0909c4473 Downloading [===========================>                       ]  15.45MB/28.24MB
+ a2d3656de701 Downloading [>                                                  ]  15.38kB/1.438MB
+ d57e1896e18b Downloading [>                                                  ]  155.6kB/15.35MB
+ 6db0909c4473 Verifying Checksum 
+ 6db0909c4473 Download complete 
+ a2d3656de701 Verifying Checksum 
+ a2d3656de701 Download complete 
+ 6db0909c4473 Extracting [>                                                  ]  294.9kB/28.24MB
+ d57e1896e18b Downloading [=======================>                           ]  7.166MB/15.35MB
+ 670819b67d90 Downloading [==================================================>]      94B/94B
+ 670819b67d90 Verifying Checksum 
+ 670819b67d90 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ d57e1896e18b Verifying Checksum 
+ d57e1896e18b Download complete 
+ 6db0909c4473 Extracting [=========>                                         ]  5.308MB/28.24MB
+ baa7297a0cd4 Downloading [=================================>                 ]     388B/571B
+ baa7297a0cd4 Downloading [==================================================>]     571B/571B
+ baa7297a0cd4 Verifying Checksum 
+ baa7297a0cd4 Download complete 
+ 20043066d3d5 Downloading [>                                                  ]  310.2kB/29.72MB
+ 3fadc669ef11 Downloading [>                                                  ]  445.4kB/43.48MB
+ 7084ac8f4ab6 Downloading [>                                                  ]  76.17kB/7.468MB
+ 6db0909c4473 Extracting [================>                                  ]  9.142MB/28.24MB
+ 20043066d3d5 Downloading [=======================>                           ]   13.8MB/29.72MB
+ 3fadc669ef11 Downloading [====================>                              ]  17.71MB/43.48MB
+ 7084ac8f4ab6 Verifying Checksum 
+ 7084ac8f4ab6 Download complete 
+ 6db0909c4473 Extracting [==================>                                ]  10.62MB/28.24MB
+ 20043066d3d5 Verifying Checksum 
+ 20043066d3d5 Download complete 
+ 3fadc669ef11 Downloading [==========================================>        ]  36.75MB/43.48MB
+ beb0d870d438 Downloading [==>                                                ]     407B/9.462kB
+ beb0d870d438 Downloading [==================================================>]  9.462kB/9.462kB
+ beb0d870d438 Verifying Checksum 
+ beb0d870d438 Download complete 
+ 20043066d3d5 Extracting [>                                                  ]  327.7kB/29.72MB
+ 3fadc669ef11 Verifying Checksum 
+ 3fadc669ef11 Download complete 
+ 6db0909c4473 Extracting [======================>                            ]  12.98MB/28.24MB
+ d63c4408fdb7 Downloading [>                                                  ]  213.9kB/21.31MB
+ f4e7f62f4b80 Downloading [==================================================>]     109B/109B
+ f4e7f62f4b80 Verifying Checksum 
+ f4e7f62f4b80 Download complete 
+ efa05c660812 Downloading [==================================================>]     189B/189B
+ efa05c660812 Verifying Checksum 
+ efa05c660812 Download complete 
+ 20043066d3d5 Extracting [======>                                            ]  3.604MB/29.72MB
+ 6db0909c4473 Extracting [=============================>                     ]  16.52MB/28.24MB
+ d63c4408fdb7 Downloading [==================================>                ]  14.78MB/21.31MB
+ 5e1c03b67a78 Downloading [===============================>                   ]     388B/620B
+ 5e1c03b67a78 Downloading [==================================================>]     620B/620B
+ 5e1c03b67a78 Verifying Checksum 
+ 5e1c03b67a78 Download complete 
+ d63c4408fdb7 Verifying Checksum 
+ d63c4408fdb7 Download complete 
+ 14e6209d5fa8 Downloading [========================>                          ]     408B/833B
+ 14e6209d5fa8 Downloading [==================================================>]     833B/833B
+ 14e6209d5fa8 Verifying Checksum 
+ 14e6209d5fa8 Download complete 
+ 20043066d3d5 Extracting [===========>                                       ]  6.554MB/29.72MB
+ 6db0909c4473 Extracting [=====================================>             ]  21.23MB/28.24MB
+ d686b50ce172 Downloading [>                                                  ]  126.9kB/12.47MB
+ e8c6d4883897 Downloading [>                                                  ]  44.06kB/4.398MB
+ f9dd052e142d Downloading [>                                                  ]  527.3kB/52.33MB
+ 20043066d3d5 Extracting [==============>                                    ]   8.52MB/29.72MB
+ e8c6d4883897 Downloading [==================================================>]  4.398MB/4.398MB
+ e8c6d4883897 Verifying Checksum 
+ e8c6d4883897 Download complete 
+ 6db0909c4473 Extracting [=========================================>         ]  23.59MB/28.24MB
+ d686b50ce172 Verifying Checksum 
+ d686b50ce172 Download complete 
+ f9dd052e142d Downloading [==================>                                ]  19.14MB/52.33MB
+ 648eb81b3252 Downloading [=============>                                     ]     407B/1.561kB
+ 648eb81b3252 Downloading [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Verifying Checksum 
+ 648eb81b3252 Download complete 
+ 20043066d3d5 Extracting [=================>                                 ]  10.16MB/29.72MB
+ eb77aa907276 Downloading [>                                                  ]  527.3kB/907.7MB
+ f9dd052e142d Downloading [=============================================>     ]  47.27MB/52.33MB
+ f9dd052e142d Verifying Checksum 
+ f9dd052e142d Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ eb77aa907276 Downloading [=>                                                 ]  19.81MB/907.7MB
+ 20043066d3d5 Extracting [======================>                            ]  13.11MB/29.72MB
+ 0ffa8f8aba1e Downloading [==================================================>]     226B/226B
+ 0ffa8f8aba1e Verifying Checksum 
+ 0ffa8f8aba1e Download complete 
+ 6db0909c4473 Extracting [==========================================>        ]  23.89MB/28.24MB
+ 2e81b9cb93cd Downloading [==========>                                        ]     395B/1.859kB
+ 2e81b9cb93cd Downloading [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Verifying Checksum 
+ 2e81b9cb93cd Download complete 
+ f9dd052e142d Extracting [>                                                  ]  524.3kB/52.33MB
+ eb77aa907276 Downloading [==>                                                ]  41.78MB/907.7MB
+ 20043066d3d5 Extracting [==========================>                        ]  15.73MB/29.72MB
+ dda3d8fbd5ed Downloading [=================>                                 ]     407B/1.165kB
+ dda3d8fbd5ed Downloading [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Verifying Checksum 
+ dda3d8fbd5ed Download complete 
+ 6db0909c4473 Extracting [============================================>      ]  25.36MB/28.24MB
+ b0a0cf830b12 Downloading [>                                                  ]  297.9kB/29.15MB
+ eb77aa907276 Downloading [===>                                               ]  61.56MB/907.7MB
+ 283a477db7bb Downloading [>                                                  ]  46.48kB/4.533MB
+ 20043066d3d5 Extracting [==============================>                    ]  18.02MB/29.72MB
+ b0a0cf830b12 Downloading [===================>                               ]  11.32MB/29.15MB
+ f9dd052e142d Extracting [=>                                                 ]  1.049MB/52.33MB
+ eb77aa907276 Downloading [====>                                              ]  82.37MB/907.7MB
+ 283a477db7bb Downloading [================>                                  ]  1.527MB/4.533MB
+ b0a0cf830b12 Verifying Checksum 
+ b0a0cf830b12 Download complete 
+ 6db0909c4473 Extracting [===============================================>   ]  26.84MB/28.24MB
+ 20043066d3d5 Extracting [=================================>                 ]  19.99MB/29.72MB
+ f9dd052e142d Extracting [==>                                                ]  2.097MB/52.33MB
+ eb77aa907276 Downloading [=====>                                             ]  102.6MB/907.7MB
+ 283a477db7bb Verifying Checksum 
+ 283a477db7bb Download complete 
+ b0a0cf830b12 Extracting [>                                                  ]  294.9kB/29.15MB
+ 91d2729fa4d5 Downloading [>                                                  ]  15.34kB/1.45MB
+ 91d2729fa4d5 Verifying Checksum 
+ 91d2729fa4d5 Download complete 
+ 20043066d3d5 Extracting [====================================>              ]  21.95MB/29.72MB
+ f9dd052e142d Extracting [===>                                               ]  3.146MB/52.33MB
+ 9739ced65621 Downloading [>                                                  ]  84.65kB/8.069MB
+ eb77aa907276 Downloading [=======>                                           ]  127.8MB/907.7MB
+ 6db0909c4473 Extracting [================================================>  ]  27.13MB/28.24MB
+ b0a0cf830b12 Extracting [==>                                                ]   1.18MB/29.15MB
+ ae3bb1b347a4 Downloading [>                                                  ]  12.68kB/1.196MB
+ 20043066d3d5 Extracting [=======================================>           ]  23.59MB/29.72MB
+ 9739ced65621 Downloading [================================>                  ]  5.238MB/8.069MB
+ b0a0cf830b12 Extracting [=====>                                             ]  2.949MB/29.15MB
+ eb77aa907276 Downloading [========>                                          ]  150.8MB/907.7MB
+ 9739ced65621 Verifying Checksum 
+ 9739ced65621 Download complete 
+ ae3bb1b347a4 Verifying Checksum 
+ ae3bb1b347a4 Download complete 
+ f94d28849fa3 Pull complete 
+ 81260b173076 Extracting [=============>                                     ]  32.77kB/122.7kB
+ 81260b173076 Extracting [==================================================>]  122.7kB/122.7kB
+ eb77aa907276 Downloading [=========>                                         ]  169.5MB/907.7MB
+ f8406d9c00ea Downloading [==================================================>]     116B/116B
+ f8406d9c00ea Verifying Checksum 
+ f8406d9c00ea Download complete 
+ c199bff16b05 Downloading [======>                                            ]     407B/3.145kB
+ c199bff16b05 Downloading [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Verifying Checksum 
+ c199bff16b05 Download complete 
+ 81260b173076 Pull complete 
+ 20043066d3d5 Extracting [=========================================>         ]   24.9MB/29.72MB
+ b0a0cf830b12 Extracting [========>                                          ]  4.719MB/29.15MB
+ c1cb13b19080 Downloading [=>                                                 ]     375B/9.925kB
+ c1cb13b19080 Verifying Checksum 
+ c1cb13b19080 Download complete 
+ eb77aa907276 Downloading [=========>                                         ]  176.5MB/907.7MB
+ e0d55fdb4d15 Downloading [>                                                  ]  527.3kB/109MB
+ 873532e5f8c7 Downloading [==================================================>]     128B/128B
+ 873532e5f8c7 Verifying Checksum 
+ 873532e5f8c7 Download complete 
+ eb77aa907276 Downloading [===========>                                       ]  204.8MB/907.7MB
+ b0a0cf830b12 Extracting [=========>                                         ]  5.308MB/29.15MB
+ e0d55fdb4d15 Downloading [>                                                  ]  2.149MB/109MB
+ f9dd052e142d Extracting [====>                                              ]  4.719MB/52.33MB
+ 050d9f8c3b1c Downloading [==================================================>]     169B/169B
+ eb77aa907276 Downloading [============>                                      ]  232.7MB/907.7MB
+ 050d9f8c3b1c Verifying Checksum 
+ 050d9f8c3b1c Download complete 
+ b0a0cf830b12 Extracting [===========>                                       ]  6.488MB/29.15MB
+ e0d55fdb4d15 Downloading [==>                                                ]  4.836MB/109MB
+ eb77aa907276 Downloading [==============>                                    ]    261MB/907.7MB
+ b0a0cf830b12 Extracting [============>                                      ]  7.373MB/29.15MB
+ 710e142705f8 Downloading [===>                                               ]     407B/5.421kB
+ 710e142705f8 Downloading [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Verifying Checksum 
+ 710e142705f8 Download complete 
+ e0d55fdb4d15 Downloading [===>                                               ]  8.597MB/109MB
+ eb77aa907276 Downloading [==============>                                    ]  271.7MB/907.7MB
+ f9dd052e142d Extracting [=====>                                             ]  5.243MB/52.33MB
+ b0a0cf830b12 Extracting [==============>                                    ]  8.552MB/29.15MB
+ f9c0805c25ee Extracting [>                                                  ]    426kB/39.45MB
+ eb77aa907276 Downloading [===============>                                   ]  286.1MB/907.7MB
+ cb628c265f09 Downloading [==================================================>]     184B/184B
+ cb628c265f09 Verifying Checksum 
+ cb628c265f09 Download complete 
+ e0d55fdb4d15 Downloading [=======>                                           ]  16.08MB/109MB
+ eb77aa907276 Downloading [=================>                                 ]  316.1MB/907.7MB
+ b0a0cf830b12 Extracting [===============>                                   ]  8.847MB/29.15MB
+ e0d55fdb4d15 Downloading [============>                                      ]   26.8MB/109MB
+ f9c0805c25ee Extracting [=======>                                           ]  5.538MB/39.45MB
+ 6db0909c4473 Extracting [================================================>  ]  27.43MB/28.24MB
+ f9dd052e142d Extracting [=====>                                             ]  5.767MB/52.33MB
+ 20043066d3d5 Extracting [==========================================>        ]  25.56MB/29.72MB
+ eb77aa907276 Downloading [==================>                                ]  339.6MB/907.7MB
+ e0d55fdb4d15 Downloading [=====================>                             ]  47.64MB/109MB
+ b0a0cf830b12 Extracting [================>                                  ]  9.437MB/29.15MB
+ f9c0805c25ee Extracting [=========>                                         ]  7.242MB/39.45MB
+ 6db0909c4473 Extracting [=================================================> ]  27.72MB/28.24MB
+ 20043066d3d5 Extracting [============================================>      ]  26.54MB/29.72MB
+ f9dd052e142d Extracting [=======>                                           ]   7.34MB/52.33MB
+ eb77aa907276 Downloading [===================>                               ]  358.9MB/907.7MB
+ e0d55fdb4d15 Downloading [================================>                  ]  70.65MB/109MB
+ b0a0cf830b12 Extracting [================>                                  ]  9.732MB/29.15MB
+ f9c0805c25ee Extracting [==========>                                        ]   8.52MB/39.45MB
+ 6db0909c4473 Extracting [=================================================> ]  28.02MB/28.24MB
+ 20043066d3d5 Extracting [==============================================>    ]  27.53MB/29.72MB
+ eb77aa907276 Downloading [====================>                              ]  377.7MB/907.7MB
+ e0d55fdb4d15 Downloading [=========================================>         ]   89.9MB/109MB
+ f9dd052e142d Extracting [========>                                          ]  8.913MB/52.33MB
+ b0a0cf830b12 Extracting [==================>                                ]  10.62MB/29.15MB
+ f9c0805c25ee Extracting [============>                                      ]  9.798MB/39.45MB
+ 20043066d3d5 Extracting [==============================================>    ]  27.85MB/29.72MB
+ eb77aa907276 Downloading [======================>                            ]  400.7MB/907.7MB
+ e0d55fdb4d15 Downloading [=================================================> ]  107.5MB/109MB
+ e0d55fdb4d15 Verifying Checksum 
+ e0d55fdb4d15 Download complete 
+ 6db0909c4473 Extracting [==================================================>]  28.24MB/28.24MB
+ f9dd052e142d Extracting [==========>                                        ]  10.49MB/52.33MB
+ f9c0805c25ee Extracting [==============>                                    ]  11.08MB/39.45MB
+ eb77aa907276 Downloading [======================>                            ]  413.5MB/907.7MB
+ b0a0cf830b12 Extracting [===================>                               ]   11.5MB/29.15MB
+ 20043066d3d5 Extracting [===============================================>   ]  28.18MB/29.72MB
+ f9c0805c25ee Extracting [=================>                                 ]  13.63MB/39.45MB
+ f9dd052e142d Extracting [===========>                                       ]  12.06MB/52.33MB
+ eb77aa907276 Downloading [=======================>                           ]  435.5MB/907.7MB
+ 6db0909c4473 Pull complete 
+ 0ad69469b2c1 Extracting [==================================================>]  1.101kB/1.101kB
+ 0ad69469b2c1 Extracting [==================================================>]  1.101kB/1.101kB
+ b0a0cf830b12 Extracting [=======================>                           ]  13.57MB/29.15MB
+ 20043066d3d5 Extracting [=================================================> ]  29.16MB/29.72MB
+ eb77aa907276 Downloading [=========================>                         ]  459.6MB/907.7MB
+ f9c0805c25ee Extracting [===================>                               ]  15.76MB/39.45MB
+ f9dd052e142d Extracting [==============>                                    ]  14.68MB/52.33MB
+ b0a0cf830b12 Extracting [===========================>                       ]  15.93MB/29.15MB
+ 0ad69469b2c1 Pull complete 
+ 28f8763f6967 Extracting [==================================================>]     874B/874B
+ 28f8763f6967 Extracting [==================================================>]     874B/874B
+ eb77aa907276 Downloading [==========================>                        ]  479.9MB/907.7MB
+ f9c0805c25ee Extracting [======================>                            ]  17.47MB/39.45MB
+ f9dd052e142d Extracting [================>                                  ]  16.78MB/52.33MB
+ 20043066d3d5 Extracting [=================================================> ]  29.49MB/29.72MB
+ b0a0cf830b12 Extracting [===============================>                   ]  18.28MB/29.15MB
+ eb77aa907276 Downloading [===========================>                       ]  501.9MB/907.7MB
+ f9c0805c25ee Extracting [===========================>                       ]  21.73MB/39.45MB
+ f9dd052e142d Extracting [===================>                               ]  19.92MB/52.33MB
+ eb77aa907276 Downloading [============================>                      ]  517.4MB/907.7MB
+ f9c0805c25ee Extracting [=============================>                     ]  23.43MB/39.45MB
+ b0a0cf830b12 Extracting [====================================>              ]  21.23MB/29.15MB
+ f9dd052e142d Extracting [=====================>                             ]  22.54MB/52.33MB
+ 20043066d3d5 Extracting [==================================================>]  29.72MB/29.72MB
+ eb77aa907276 Downloading [=============================>                     ]  540.9MB/907.7MB
+ f9c0805c25ee Extracting [==================================>                ]  27.26MB/39.45MB
+ eb77aa907276 Downloading [==============================>                    ]  553.8MB/907.7MB
+ b0a0cf830b12 Extracting [========================================>          ]  23.89MB/29.15MB
+ f9dd052e142d Extracting [=========================>                         ]  26.21MB/52.33MB
+ f9c0805c25ee Extracting [====================================>              ]  28.97MB/39.45MB
+ eb77aa907276 Downloading [===============================>                   ]  562.9MB/907.7MB
+ b0a0cf830b12 Extracting [=========================================>         ]  24.48MB/29.15MB
+ f9c0805c25ee Extracting [======================================>            ]  30.24MB/39.45MB
+ eb77aa907276 Downloading [================================>                  ]  587.5MB/907.7MB
+ f9dd052e142d Extracting [==========================>                        ]  27.26MB/52.33MB
+ 20043066d3d5 Pull complete 
+ f9c0805c25ee Extracting [==========================================>        ]  33.23MB/39.45MB
+ eb77aa907276 Downloading [=================================>                 ]    610MB/907.7MB
+ f9dd052e142d Extracting [===========================>                       ]  28.31MB/52.33MB
+ b0a0cf830b12 Extracting [==========================================>        ]  24.77MB/29.15MB
+ eb77aa907276 Downloading [==================================>                ]  628.2MB/907.7MB
+ f9c0805c25ee Extracting [================================================>  ]  37.91MB/39.45MB
+ f9c0805c25ee Extracting [==================================================>]  39.45MB/39.45MB
+ f9dd052e142d Extracting [============================>                      ]  29.36MB/52.33MB
+ b0a0cf830b12 Extracting [==============================================>    ]  27.13MB/29.15MB
+ eb77aa907276 Downloading [===================================>               ]  650.2MB/907.7MB
+ eb77aa907276 Downloading [===================================>               ]  651.8MB/907.7MB
+ eb77aa907276 Downloading [====================================>              ]  657.6MB/907.7MB
+ b0a0cf830b12 Extracting [===============================================>   ]  27.72MB/29.15MB
+ eb77aa907276 Downloading [=====================================>             ]  683.9MB/907.7MB
+ f9dd052e142d Extracting [=============================>                     ]  30.41MB/52.33MB
+ eb77aa907276 Downloading [=======================================>           ]  712.8MB/907.7MB
+ eb77aa907276 Downloading [=========================================>         ]  745.5MB/907.7MB
+ eb77aa907276 Downloading [=========================================>         ]  761.6MB/907.7MB
+ f9dd052e142d Extracting [==============================>                    ]  31.98MB/52.33MB
+ 3fadc669ef11 Extracting [>                                                  ]  458.8kB/43.48MB
+ eb77aa907276 Downloading [===========================================>       ]  782.5MB/907.7MB
+ 3fadc669ef11 Extracting [======>                                            ]  5.505MB/43.48MB
+ 3fadc669ef11 Extracting [=================>                                 ]  15.14MB/43.48MB
+ eb77aa907276 Downloading [===========================================>       ]    783MB/907.7MB
+ f9dd052e142d Extracting [===============================>                   ]  33.03MB/52.33MB
+ 3fadc669ef11 Extracting [======================>                            ]  19.73MB/43.48MB
+ eb77aa907276 Downloading [============================================>      ]  810.3MB/907.7MB
+ eb77aa907276 Downloading [=============================================>     ]  824.8MB/907.7MB
+ f9dd052e142d Extracting [================================>                  ]  34.08MB/52.33MB
+ 3fadc669ef11 Extracting [==========================>                        ]   23.4MB/43.48MB
+ b0a0cf830b12 Extracting [================================================>  ]  28.31MB/29.15MB
+ eb77aa907276 Downloading [==============================================>    ]  851.1MB/907.7MB
+ 3fadc669ef11 Extracting [===============================>                   ]  27.07MB/43.48MB
+ eb77aa907276 Downloading [===============================================>   ]  868.7MB/907.7MB
+ f9dd052e142d Extracting [==================================>                ]  35.65MB/52.33MB
+ 28f8763f6967 Pull complete 
+ a2d3656de701 Extracting [=>                                                 ]  32.77kB/1.438MB
+ f9c0805c25ee Pull complete 
+ 1008deaf6ec4 Extracting [>                                                  ]  131.1kB/11.19MB
+ 3fadc669ef11 Extracting [================================>                  ]  27.98MB/43.48MB
+ eb77aa907276 Downloading [=================================================> ]  892.2MB/907.7MB
+ b0a0cf830b12 Extracting [==================================================>]  29.15MB/29.15MB
+ a2d3656de701 Extracting [===================================>               ]  1.016MB/1.438MB
+ 1008deaf6ec4 Extracting [=======>                                           ]  1.573MB/11.19MB
+ a2d3656de701 Extracting [==================================================>]  1.438MB/1.438MB
+ a2d3656de701 Extracting [==================================================>]  1.438MB/1.438MB
+ eb77aa907276 Verifying Checksum 
+ eb77aa907276 Download complete 
+ b0a0cf830b12 Pull complete 
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ 3fadc669ef11 Extracting [==================================>                ]  30.28MB/43.48MB
+ f9dd052e142d Extracting [===================================>               ]   36.7MB/52.33MB
+ dda3d8fbd5ed Pull complete 
+ 283a477db7bb Extracting [>                                                  ]  65.54kB/4.533MB
+ a2d3656de701 Pull complete 
+ d57e1896e18b Extracting [>                                                  ]  163.8kB/15.35MB
+ 1008deaf6ec4 Extracting [==================>                                ]  4.063MB/11.19MB
+ 3fadc669ef11 Extracting [=====================================>             ]  32.57MB/43.48MB
+ 283a477db7bb Extracting [========================>                          ]  2.228MB/4.533MB
+ d57e1896e18b Extracting [===========>                                       ]  3.604MB/15.35MB
+ 1008deaf6ec4 Extracting [=================================>                 ]  7.471MB/11.19MB
+ f9dd052e142d Extracting [====================================>              ]  37.75MB/52.33MB
+ 3fadc669ef11 Extracting [=========================================>         ]  35.78MB/43.48MB
+ 283a477db7bb Extracting [=================================================> ]  4.522MB/4.533MB
+ d57e1896e18b Extracting [=====================>                             ]  6.717MB/15.35MB
+ 283a477db7bb Extracting [==================================================>]  4.533MB/4.533MB
+ 1008deaf6ec4 Extracting [================================================>  ]  10.75MB/11.19MB
+ 1008deaf6ec4 Extracting [==================================================>]  11.19MB/11.19MB
+ 1008deaf6ec4 Pull complete 
+ 3fadc669ef11 Extracting [=============================================>     ]  39.45MB/43.48MB
+ 71e9fc939447 Extracting [>                                                  ]  32.77kB/2.402MB
+ d57e1896e18b Extracting [=============================>                     ]  9.011MB/15.35MB
+ 283a477db7bb Pull complete 
+ 71e9fc939447 Extracting [==================================================>]  2.402MB/2.402MB
+ 91d2729fa4d5 Extracting [=>                                                 ]  32.77kB/1.45MB
+ f9dd052e142d Extracting [======================================>            ]  39.85MB/52.33MB
+ 71e9fc939447 Pull complete 
+ c1bc68842c41 Extracting [=========>                                         ]  32.77kB/180.3kB
+ c1bc68842c41 Extracting [==================================================>]  180.3kB/180.3kB
+ c1bc68842c41 Extracting [==================================================>]  180.3kB/180.3kB
+ 3fadc669ef11 Extracting [================================================>  ]  42.21MB/43.48MB
+ c1bc68842c41 Pull complete 
+ 0288b5a0d7e7 Extracting [==================================================>]  11.88kB/11.88kB
+ 0288b5a0d7e7 Extracting [==================================================>]  11.88kB/11.88kB
+ 91d2729fa4d5 Extracting [==================================================>]   1.45MB/1.45MB
+ d57e1896e18b Extracting [========================================>          ]  12.45MB/15.35MB
+ 3fadc669ef11 Extracting [==================================================>]  43.48MB/43.48MB
+ 0288b5a0d7e7 Pull complete 
+ 34013573f278 Extracting [==================================================>]     496B/496B
+ 34013573f278 Extracting [==================================================>]     496B/496B
+ 3fadc669ef11 Pull complete 
+ 7084ac8f4ab6 Extracting [>                                                  ]   98.3kB/7.468MB
+ 91d2729fa4d5 Pull complete 
+ 34013573f278 Pull complete 
+ 9739ced65621 Extracting [>                                                  ]   98.3kB/8.069MB
+ minio Pulled 
+ f9dd052e142d Extracting [=======================================>           ]  40.89MB/52.33MB
+ d57e1896e18b Extracting [=================================================> ]  15.24MB/15.35MB
+ d57e1896e18b Extracting [==================================================>]  15.35MB/15.35MB
+ 7084ac8f4ab6 Extracting [=====>                                             ]  884.7kB/7.468MB
+ 9739ced65621 Extracting [==============>                                    ]  2.359MB/8.069MB
+ f9dd052e142d Extracting [========================================>          ]  42.47MB/52.33MB
+ d57e1896e18b Pull complete 
+ 670819b67d90 Extracting [==================================================>]      94B/94B
+ 670819b67d90 Extracting [==================================================>]      94B/94B
+ 670819b67d90 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ baa7297a0cd4 Extracting [==================================================>]     571B/571B
+ baa7297a0cd4 Extracting [==================================================>]     571B/571B
+ baa7297a0cd4 Pull complete 
+ redis Pulled 
+ 7084ac8f4ab6 Extracting [==========================>                        ]  3.932MB/7.468MB
+ 9739ced65621 Extracting [=======================>                           ]  3.834MB/8.069MB
+ f9dd052e142d Extracting [==========================================>        ]  44.56MB/52.33MB
+ 7084ac8f4ab6 Extracting [==================================================>]  7.468MB/7.468MB
+ 7084ac8f4ab6 Extracting [==================================================>]  7.468MB/7.468MB
+ 7084ac8f4ab6 Pull complete 
+ beb0d870d438 Extracting [==================================================>]  9.462kB/9.462kB
+ beb0d870d438 Extracting [==================================================>]  9.462kB/9.462kB
+ 9739ced65621 Extracting [=============================>                     ]  4.817MB/8.069MB
+ beb0d870d438 Pull complete 
+ f9dd052e142d Extracting [=============================================>     ]  47.19MB/52.33MB
+ d63c4408fdb7 Extracting [>                                                  ]  229.4kB/21.31MB
+ 9739ced65621 Extracting [======================================>            ]  6.193MB/8.069MB
+ f9dd052e142d Extracting [==============================================>    ]  48.76MB/52.33MB
+ d63c4408fdb7 Extracting [=======>                                           ]  3.211MB/21.31MB
+ 9739ced65621 Extracting [==================================================>]  8.069MB/8.069MB
+ 9739ced65621 Pull complete 
+ ae3bb1b347a4 Extracting [=>                                                 ]  32.77kB/1.196MB
+ d63c4408fdb7 Extracting [==================>                                ]  7.799MB/21.31MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Pull complete 
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Pull complete 
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ d63c4408fdb7 Extracting [======================>                            ]  9.634MB/21.31MB
+ c199bff16b05 Pull complete 
+ e0d55fdb4d15 Extracting [>                                                  ]  557.1kB/109MB
+ d63c4408fdb7 Extracting [===============================>                   ]  13.53MB/21.31MB
+ f9dd052e142d Extracting [=================================================> ]  51.38MB/52.33MB
+ e0d55fdb4d15 Extracting [==>                                                ]  5.571MB/109MB
+ d63c4408fdb7 Extracting [====================================>              ]   15.6MB/21.31MB
+ e0d55fdb4d15 Extracting [===>                                               ]  8.356MB/109MB
+ d63c4408fdb7 Extracting [=======================================>           ]  16.97MB/21.31MB
+ f9dd052e142d Extracting [=================================================> ]   51.9MB/52.33MB
+ f9dd052e142d Extracting [==================================================>]  52.33MB/52.33MB
+ f9dd052e142d Pull complete 
+ e8c6d4883897 Extracting [>                                                  ]  65.54kB/4.398MB
+ e0d55fdb4d15 Extracting [====>                                              ]  10.58MB/109MB
+ d63c4408fdb7 Extracting [===========================================>       ]  18.35MB/21.31MB
+ e8c6d4883897 Extracting [======================>                            ]  1.966MB/4.398MB
+ e0d55fdb4d15 Extracting [======>                                            ]  13.93MB/109MB
+ d63c4408fdb7 Extracting [================================================>  ]  20.64MB/21.31MB
+ e8c6d4883897 Extracting [====================================>              ]  3.211MB/4.398MB
+ e0d55fdb4d15 Extracting [=======>                                           ]  17.27MB/109MB
+ e8c6d4883897 Extracting [========================================>          ]  3.539MB/4.398MB
+ e8c6d4883897 Extracting [==================================================>]  4.398MB/4.398MB
+ e0d55fdb4d15 Extracting [=========>                                         ]  21.73MB/109MB
+ d63c4408fdb7 Extracting [================================================>  ]  20.87MB/21.31MB
+ e0d55fdb4d15 Extracting [===========>                                       ]  24.51MB/109MB
+ e8c6d4883897 Pull complete 
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ d63c4408fdb7 Extracting [==================================================>]  21.31MB/21.31MB
+ 648eb81b3252 Pull complete 
+ d63c4408fdb7 Pull complete 
+ efa05c660812 Extracting [==================================================>]     189B/189B
+ efa05c660812 Extracting [==================================================>]     189B/189B
+ efa05c660812 Pull complete 
+ f4e7f62f4b80 Extracting [==================================================>]     109B/109B
+ f4e7f62f4b80 Extracting [==================================================>]     109B/109B
+ f4e7f62f4b80 Pull complete 
+ 5e1c03b67a78 Extracting [==================================================>]     620B/620B
+ 5e1c03b67a78 Extracting [==================================================>]     620B/620B
+ 5e1c03b67a78 Pull complete 
+ 14e6209d5fa8 Extracting [==================================================>]     833B/833B
+ 14e6209d5fa8 Extracting [==================================================>]     833B/833B
+ e0d55fdb4d15 Extracting [=============>                                     ]  28.41MB/109MB
+ 14e6209d5fa8 Pull complete 
+ d686b50ce172 Extracting [>                                                  ]  131.1kB/12.47MB
+ eb77aa907276 Extracting [>                                                  ]  557.1kB/907.7MB
+ e0d55fdb4d15 Extracting [================>                                  ]  35.09MB/109MB
+ d686b50ce172 Extracting [==============>                                    ]   3.67MB/12.47MB
+ eb77aa907276 Extracting [>                                                  ]   11.7MB/907.7MB
+ eb77aa907276 Extracting [=>                                                 ]  25.07MB/907.7MB
+ d686b50ce172 Extracting [======================>                            ]  5.636MB/12.47MB
+ e0d55fdb4d15 Extracting [===================>                               ]  41.78MB/109MB
+ eb77aa907276 Extracting [==>                                                ]  37.88MB/907.7MB
+ e0d55fdb4d15 Extracting [=====================>                             ]  47.91MB/109MB
+ d686b50ce172 Extracting [==========================>                        ]  6.685MB/12.47MB
+ eb77aa907276 Extracting [==>                                                ]  49.58MB/907.7MB
+ e0d55fdb4d15 Extracting [========================>                          ]  52.36MB/109MB
+ d686b50ce172 Extracting [===============================>                   ]  7.864MB/12.47MB
+ eb77aa907276 Extracting [===>                                               ]  64.62MB/907.7MB
+ e0d55fdb4d15 Extracting [=========================>                         ]  55.71MB/109MB
+ d686b50ce172 Extracting [=======================================>           ]   9.83MB/12.47MB
+ eb77aa907276 Extracting [====>                                              ]  76.87MB/907.7MB
+ e0d55fdb4d15 Extracting [===========================>                       ]   59.6MB/109MB
+ d686b50ce172 Extracting [===========================================>       ]  10.88MB/12.47MB
+ eb77aa907276 Extracting [====>                                              ]  81.89MB/907.7MB
+ e0d55fdb4d15 Extracting [==============================>                    ]  65.73MB/109MB
+ d686b50ce172 Extracting [==================================================>]  12.47MB/12.47MB
+ eb77aa907276 Extracting [====>                                              ]  89.69MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================>                 ]  72.42MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]   94.7MB/907.7MB
+ e0d55fdb4d15 Extracting [====================================>              ]  78.54MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  101.9MB/907.7MB
+ e0d55fdb4d15 Extracting [======================================>            ]  84.12MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  106.4MB/907.7MB
+ e0d55fdb4d15 Extracting [========================================>          ]  87.46MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  113.6MB/907.7MB
+ e0d55fdb4d15 Extracting [==========================================>        ]  92.47MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  120.3MB/907.7MB
+ e0d55fdb4d15 Extracting [===========================================>       ]  95.26MB/109MB
+ d686b50ce172 Pull complete 
+ rabbitmq Pulled 
+ eb77aa907276 Extracting [======>                                            ]    127MB/907.7MB
+ e0d55fdb4d15 Extracting [============================================>      ]  96.93MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  134.3MB/907.7MB
+ e0d55fdb4d15 Extracting [=============================================>     ]  99.16MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  140.4MB/907.7MB
+ e0d55fdb4d15 Extracting [===============================================>   ]  102.5MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  145.9MB/907.7MB
+ e0d55fdb4d15 Extracting [===============================================>   ]  103.6MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  153.2MB/907.7MB
+ e0d55fdb4d15 Extracting [================================================>  ]  105.3MB/109MB
+ eb77aa907276 Extracting [========>                                          ]    161MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]    107MB/109MB
+ eb77aa907276 Extracting [=========>                                         ]  178.3MB/907.7MB
+ eb77aa907276 Extracting [==========>                                        ]  197.2MB/907.7MB
+ eb77aa907276 Extracting [===========>                                       ]  211.7MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  107.5MB/109MB
+ eb77aa907276 Extracting [============>                                      ]  222.3MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  108.6MB/109MB
+ eb77aa907276 Extracting [============>                                      ]  231.7MB/907.7MB
+ e0d55fdb4d15 Extracting [==================================================>]    109MB/109MB
+ eb77aa907276 Extracting [=============>                                     ]  239.5MB/907.7MB
+ eb77aa907276 Extracting [=============>                                     ]  253.5MB/907.7MB
+ eb77aa907276 Extracting [===============>                                   ]    273MB/907.7MB
+ eb77aa907276 Extracting [================>                                  ]  297.5MB/907.7MB
+ eb77aa907276 Extracting [=================>                                 ]  318.1MB/907.7MB
+ eb77aa907276 Extracting [==================>                                ]  339.2MB/907.7MB
+ eb77aa907276 Extracting [===================>                               ]  358.2MB/907.7MB
+ eb77aa907276 Extracting [====================>                              ]    366MB/907.7MB
+ eb77aa907276 Extracting [====================>                              ]  373.8MB/907.7MB
+ e0d55fdb4d15 Pull complete 
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ eb77aa907276 Extracting [=====================>                             ]  385.5MB/907.7MB
+ c1cb13b19080 Pull complete 
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ eb77aa907276 Extracting [======================>                            ]  406.1MB/907.7MB
+ 873532e5f8c7 Pull complete 
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Pull complete 
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Pull complete 
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ eb77aa907276 Extracting [======================>                            ]  417.2MB/907.7MB
+ cb628c265f09 Pull complete 
+ postgresql Pulled 
+ eb77aa907276 Extracting [========================>                          ]  442.3MB/907.7MB
+ eb77aa907276 Extracting [=========================>                         ]  470.2MB/907.7MB
+ eb77aa907276 Extracting [===========================>                       ]    498MB/907.7MB
+ eb77aa907276 Extracting [============================>                      ]  526.4MB/907.7MB
+ eb77aa907276 Extracting [==============================>                    ]  554.8MB/907.7MB
+ eb77aa907276 Extracting [================================>                  ]  582.1MB/907.7MB
+ eb77aa907276 Extracting [=================================>                 ]  608.3MB/907.7MB
+ eb77aa907276 Extracting [===================================>               ]  635.6MB/907.7MB
+ eb77aa907276 Extracting [====================================>              ]  663.5MB/907.7MB
+ eb77aa907276 Extracting [======================================>            ]  690.7MB/907.7MB
+ eb77aa907276 Extracting [=======================================>           ]  715.8MB/907.7MB
+ eb77aa907276 Extracting [========================================>          ]  742.6MB/907.7MB
+ eb77aa907276 Extracting [==========================================>        ]  764.3MB/907.7MB
+ eb77aa907276 Extracting [===========================================>       ]    786MB/907.7MB
+ eb77aa907276 Extracting [============================================>      ]  807.2MB/907.7MB
+ eb77aa907276 Extracting [=============================================>     ]  828.3MB/907.7MB
+ eb77aa907276 Extracting [==============================================>    ]  850.6MB/907.7MB
+ eb77aa907276 Extracting [===============================================>   ]  871.2MB/907.7MB
+ eb77aa907276 Extracting [=================================================> ]  894.6MB/907.7MB
+ eb77aa907276 Extracting [==================================================>]  907.7MB/907.7MB
+ eb77aa907276 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Pull complete 
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Pull complete 
+ opensearch Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-minio-1  Creating
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-minio-1  Created
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-minio-1  Starting
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-rabbitmq-1  Started
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-minio-1  Started
+ Container docker_services_cli-opensearch-1  Started
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py,line=64::Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py,line=65::Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py,line=66::Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py,line=1218::The 'missing' argument to fields is deprecated. Use 'load_default' instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/services/facets.py,line=76::subject_nested is deprecated. Use subject_combined instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py,line=1218::The 'missing' argument to fields is deprecated. Use 'load_default' instead.
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched
+configfile: pyproject.toml
+testpaths: tests
+plugins: pydocstyle-2.4.0, pycodestyle-2.5.0, Faker-40.12.0, cov-7.1.0, github-actions-annotate-failures-0.4.0, invenio-4.0.1, flask-1.3.0, isort-4.0.0
+collected 60 items
+
+tests/test_component_paths.py .                                          [  1%]
+tests/test_deposit_create.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/oarepo-ui/patched/oarepo_ui/ext.py,line=75::JinjaX default loader should be an instance of FileSystemLoader but is <class 'invenio_app.helpers.ThemeJinjaLoader'>. Expect problems.
+.::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+E.::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                                        [  8%]
+tests/test_deposit_edit.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=120::using object_key in context is deprecated, use class object_key instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py,line=631::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/oarepo_ui/ext.py,line=75::JinjaX default loader should be an instance of FileSystemLoader but is <class 'invenio_app.helpers.ThemeJinjaLoader'>. Expect problems.
+                                             [ 10%]
+tests/test_dump_empty.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+.                                              [ 13%]
+tests/test_export_json.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=334::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py,line=193::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                                              [ 15%]
+tests/test_export_rdm.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=334::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py,line=193::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=120::using object_key in context is deprecated, use class object_key instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py,line=631::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+                                               [ 16%]
+tests/test_export_undefined.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=334::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py,line=193::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                                         [ 18%]
+tests/test_fielddata.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+...............                                 [ 45%]
+tests/test_frontpage.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+                                                [ 46%]
+tests/test_jinjax_render.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/oarepo_ui/ext.py,line=75::JinjaX default loader should be an instance of FileSystemLoader but is <class 'invenio_app.helpers.ThemeJinjaLoader'>. Expect problems.
+                                            [ 48%]
+tests/test_multiple_http_methods.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+                                    [ 50%]
+tests/test_record_detail.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=334::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py,line=193::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=120::using object_key in context is deprecated, use class object_key instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py,line=631::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/oarepo_ui/ext.py,line=75::JinjaX default loader should be an instance of FileSystemLoader but is <class 'invenio_app.helpers.ThemeJinjaLoader'>. Expect problems.
+                                            [ 51%]
+tests/test_record_latest.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=334::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py,line=193::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                                            [ 53%]
+tests/test_record_preview.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=120::using object_key in context is deprecated, use class object_key instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py,line=631::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/oarepo_ui/ext.py,line=75::JinjaX default loader should be an instance of FileSystemLoader but is <class 'invenio_app.helpers.ThemeJinjaLoader'>. Expect problems.
+                                           [ 55%]
+tests/test_sidebar.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=334::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py,line=193::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=120::using object_key in context is deprecated, use class object_key instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py,line=631::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/oarepo_ui/ext.py,line=75::JinjaX default loader should be an instance of FileSystemLoader but is <class 'invenio_app.helpers.ThemeJinjaLoader'>. Expect problems.
+.::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=334::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py,line=193::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=120::using object_key in context is deprecated, use class object_key instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py,line=631::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+.::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py,line=334::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py,line=193::nested transaction already deassociated from connection
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=120::using object_key in context is deprecated, use class object_key instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py,line=631::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+                                                [ 60%]
+tests/test_ui_resource_config.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+....::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=56::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py,line=59::Relying on context is deprecated, please look for different solutions!
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py,line=61::The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+........                           [ 81%]
+tests/test_ui_webpack.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+.....                                          [ 91%]
+tests/test_uploads_new.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+.::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                                            [ 96%]
+tests/test_uploads_new_multi_model.py .::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=188::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=135::The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py,line=141::The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+.::warning file=workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py,line=77::Remember me support has been removed.
+                                 [100%]
+
+==================================== ERRORS ====================================
+_____________ ERROR at setup of test_deposit_create_with_community _____________
+
+community_owner = <pytest_invenio.user.UserFixtureBase object at 0x7f25cff56810>
+slug = 'public'
+community_dict = {'access': {'record_policy': 'open', 'visibility': 'public'}, 'metadata': {'title': 'My Community'}, 'slug': 'public'}
+workflow = None, allowed_workflows = None
+
+    def _get_or_create(
+        community_owner: UserFixtureBase,
+        slug: str | None = None,
+        community_dict: dict[str, Any] | None = None,
+        workflow: str | None = None,
+        allowed_workflows: list[str] | None = None,
+    ) -> Community:
+        """Util to get or create community, to avoid duplicate error."""
+        community_dict = community_dict or minimal_community
+        slug = slug or community_dict["slug"]
+        if not isinstance(slug, str):
+            raise TypeError("Slug must be a string")
+        community_dict["slug"] = slug
+        try:
+>           c = current_communities.service.record_cls.pid.resolve(slug)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.venv/lib/python3.14/site-packages/pytest_oarepo/communities/fixtures.py:122: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <invenio_communities.communities.records.systemfields.pidslug.PIDSlugFieldContext object at 0x7f25cfee1be0>
+pid_value = 'public', registered_only = True
+
+    def resolve(self, pid_value, registered_only=True):
+        """Resolve identifier (either uuid or slug)."""
+        pid_value = self.parse_pid(pid_value)
+    
+        if isinstance(pid_value, UUID):
+            field_name = self.field._id_field
+        else:
+            field_name = self.field._slug_field
+            # Edge case since we allow nullable slug in the database table.
+            if not pid_value:
+                raise PIDDoesNotExistError("comid", "")
+    
+        with db.session.no_autoflush:  # avoid flushing the current session
+            model = self.record_cls.model_cls.query.filter_by(
+                **{field_name: pid_value}
+            ).one_or_none()
+            if model is None:
+>               raise PIDDoesNotExistError("comid", str(pid_value))
+E               invenio_pidstore.errors.PIDDoesNotExistError
+
+.venv/lib/python3.14/site-packages/invenio_communities/communities/records/systemfields/pidslug.py:48: PIDDoesNotExistError
+
+During handling of the above exception, another exception occurred:
+
+app = <Flask 'invenio'>
+community_owner = <pytest_invenio.user.UserFixtureBase object at 0x7f25cff56810>
+community_get_or_create = <function community_get_or_create.<locals>._get_or_create at 0x7f25cfe871c0>
+
+    @pytest.fixture
+    def community(
+        app: Flask,  # noqa ARG001
+        community_owner: UserFixtureBase,
+        community_get_or_create: CommunityGetOrCreateFn,
+    ) -> Community:
+        """Return basic community."""
+>       return community_get_or_create(community_owner)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.venv/lib/python3.14/site-packages/pytest_oarepo/communities/fixtures.py:76: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+.venv/lib/python3.14/site-packages/pytest_oarepo/communities/fixtures.py:124: in _get_or_create
+    c = current_communities.service.create(
+.venv/lib/python3.14/site-packages/invenio_db/uow.py:251: in inner
+    res = f(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py:338: in create
+    return self._create(
+.venv/lib/python3.14/site-packages/invenio_db/uow.py:255: in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py:362: in _create
+    data, errors = self.schema.load(
+.venv/lib/python3.14/site-packages/invenio_records_resources/services/records/schema.py:97: in load
+    valid_data = self.schema(**schema_args).load(data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.venv/lib/python3.14/site-packages/marshmallow/schema.py:792: in load
+    return self._do_load(
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <CommunitySchema(many=False)>
+data = {'access': {'record_policy': 'open', 'visibility': 'public'}, 'custom_fields': {'allowed_workflows': ['default'], 'workflow': 'default'}, 'metadata': {'title': 'My Community'}, 'slug': 'public'}
+
+    def _do_load(
+        self,
+        data: (
+            typing.Mapping[str, typing.Any]
+            | typing.Iterable[typing.Mapping[str, typing.Any]]
+        ),
+        *,
+        many: bool | None = None,
+        partial: bool | types.StrSequenceOrSet | None = None,
+        unknown: str | None = None,
+        postprocess: bool = True,
+    ):
+        """Deserialize `data`, returning the deserialized result.
+        This method is private API.
+    
+        :param data: The data to deserialize.
+        :param many: Whether to deserialize `data` as a collection. If `None`, the
+            value for `self.many` is used.
+        :param partial: Whether to validate required fields. If its
+            value is an iterable, only fields listed in that iterable will be
+            ignored will be allowed missing. If `True`, all fields will be allowed missing.
+            If `None`, the value for `self.partial` is used.
+        :param unknown: Whether to exclude, include, or raise an error for unknown
+            fields in the data. Use `EXCLUDE`, `INCLUDE` or `RAISE`.
+            If `None`, the value for `self.unknown` is used.
+        :param postprocess: Whether to run post_load methods..
+        :return: Deserialized data
+        """
+        error_store = ErrorStore()
+        errors: dict[str, list[str]] = {}
+        many = self.many if many is None else bool(many)
+        unknown = (
+            self.unknown
+            if unknown is None
+            else validate_unknown_parameter_value(unknown)
+        )
+        if partial is None:
+            partial = self.partial
+        # Run preprocessors
+        if self._hooks[PRE_LOAD]:
+            try:
+                processed_data = self._invoke_load_processors(
+                    PRE_LOAD, data, many=many, original_data=data, partial=partial
+                )
+            except ValidationError as err:
+                errors = err.normalized_messages()
+                result: list | dict | None = None
+        else:
+            processed_data = data
+        if not errors:
+            # Deserialize data
+            result = self._deserialize(
+                processed_data,
+                error_store=error_store,
+                many=many,
+                partial=partial,
+                unknown=unknown,
+            )
+            # Run field-level validation
+            self._invoke_field_validators(
+                error_store=error_store, data=result, many=many
+            )
+            # Run schema-level validation
+            if self._hooks[VALIDATES_SCHEMA]:
+                field_errors = bool(error_store.errors)
+                self._invoke_schema_validators(
+                    error_store=error_store,
+                    pass_many=True,
+                    data=result,
+                    original_data=data,
+                    many=many,
+                    partial=partial,
+                    field_errors=field_errors,
+                )
+                self._invoke_schema_validators(
+                    error_store=error_store,
+                    pass_many=False,
+                    data=result,
+                    original_data=data,
+                    many=many,
+                    partial=partial,
+                    field_errors=field_errors,
+                )
+            errors = error_store.errors
+            # Run post processors
+            if not errors and postprocess and self._hooks[POST_LOAD]:
+                try:
+                    result = self._invoke_load_processors(
+                        POST_LOAD,
+                        result,
+                        many=many,
+                        original_data=data,
+                        partial=partial,
+                    )
+                except ValidationError as err:
+                    errors = err.normalized_messages()
+        if errors:
+            exc = ValidationError(errors, data=data, valid_data=result)
+            self.handle_error(exc, data, many=many, partial=partial)
+>           raise exc
+E           marshmallow.exceptions.ValidationError: {'custom_fields': {'workflow': ['Unknown field.'], 'allowed_workflows': ['Unknown field.']}}
+
+.venv/lib/python3.14/site-packages/marshmallow/schema.py:999: ValidationError
+=============================== warnings summary ===============================
+.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:64
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:64: DeprecationWarning: Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+    "self": RequestFileLink("{+api}/requests/{request_id}/files/{key}"),
+
+.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:65
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:65: DeprecationWarning: Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+    "content": RequestFileLink("{+api}/requests/{request_id}/files/{key}/content"),
+
+.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:66
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:66: DeprecationWarning: Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+    "download_html": RequestFileLink("{+ui}/requests/{request_id}/files/{key}"),
+
+.venv/lib/python3.14/site-packages/marshmallow/fields.py:1218
+.venv/lib/python3.14/site-packages/marshmallow/fields.py:1218
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py:1218: RemovedInMarshmallow4Warning: The 'missing' argument to fields is deprecated. Use 'load_default' instead.
+    super().__init__(**kwargs)
+
+.venv/lib/python3.14/site-packages/invenio_rdm_records/services/facets.py:76
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/services/facets.py:76: DeprecationWarning: subject_nested is deprecated. Use subject_combined instead.
+    warn(
+
+tests/test_deposit_create.py: 2 warnings
+tests/test_deposit_edit.py: 2 warnings
+tests/test_dump_empty.py: 2 warnings
+tests/test_export_json.py: 2 warnings
+tests/test_export_rdm.py: 2 warnings
+tests/test_export_undefined.py: 2 warnings
+tests/test_fielddata.py: 2 warnings
+tests/test_frontpage.py: 2 warnings
+tests/test_jinjax_render.py: 2 warnings
+tests/test_multiple_http_methods.py: 2 warnings
+tests/test_record_detail.py: 2 warnings
+tests/test_record_latest.py: 2 warnings
+tests/test_record_preview.py: 2 warnings
+tests/test_sidebar.py: 2 warnings
+tests/test_ui_resource_config.py: 2 warnings
+tests/test_ui_webpack.py: 2 warnings
+tests/test_uploads_new.py: 2 warnings
+tests/test_uploads_new_multi_model.py: 2 warnings
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py:188: UserWarning: Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:
+    warnings.warn(
+
+tests/test_deposit_create.py: 2 warnings
+tests/test_deposit_edit.py: 2 warnings
+tests/test_dump_empty.py: 2 warnings
+tests/test_export_json.py: 2 warnings
+tests/test_export_rdm.py: 2 warnings
+tests/test_export_undefined.py: 2 warnings
+tests/test_fielddata.py: 2 warnings
+tests/test_frontpage.py: 2 warnings
+tests/test_jinjax_render.py: 2 warnings
+tests/test_multiple_http_methods.py: 2 warnings
+tests/test_record_detail.py: 2 warnings
+tests/test_record_latest.py: 2 warnings
+tests/test_record_preview.py: 2 warnings
+tests/test_sidebar.py: 2 warnings
+tests/test_ui_resource_config.py: 2 warnings
+tests/test_ui_webpack.py: 2 warnings
+tests/test_uploads_new.py: 2 warnings
+tests/test_uploads_new_multi_model.py: 2 warnings
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py:135: DeprecationWarning: The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).
+    warn(
+
+tests/test_deposit_create.py: 2 warnings
+tests/test_deposit_edit.py: 2 warnings
+tests/test_dump_empty.py: 2 warnings
+tests/test_export_json.py: 2 warnings
+tests/test_export_rdm.py: 2 warnings
+tests/test_export_undefined.py: 2 warnings
+tests/test_fielddata.py: 2 warnings
+tests/test_frontpage.py: 2 warnings
+tests/test_jinjax_render.py: 2 warnings
+tests/test_multiple_http_methods.py: 2 warnings
+tests/test_record_detail.py: 2 warnings
+tests/test_record_latest.py: 2 warnings
+tests/test_record_preview.py: 2 warnings
+tests/test_sidebar.py: 2 warnings
+tests/test_ui_resource_config.py: 2 warnings
+tests/test_ui_webpack.py: 2 warnings
+tests/test_uploads_new.py: 2 warnings
+tests/test_uploads_new_multi_model.py: 2 warnings
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rdm_records/ext.py:141: DeprecationWarning: The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).
+    warn(
+
+tests/test_deposit_create.py: 2 warnings
+tests/test_deposit_edit.py: 2 warnings
+tests/test_dump_empty.py: 2 warnings
+tests/test_export_json.py: 2 warnings
+tests/test_export_rdm.py: 2 warnings
+tests/test_export_undefined.py: 2 warnings
+tests/test_fielddata.py: 2 warnings
+tests/test_frontpage.py: 2 warnings
+tests/test_jinjax_render.py: 2 warnings
+tests/test_multiple_http_methods.py: 2 warnings
+tests/test_record_detail.py: 2 warnings
+tests/test_record_latest.py: 2 warnings
+tests/test_record_preview.py: 2 warnings
+tests/test_sidebar.py: 2 warnings
+tests/test_ui_resource_config.py: 2 warnings
+tests/test_ui_webpack.py: 2 warnings
+tests/test_uploads_new.py: 2 warnings
+tests/test_uploads_new_multi_model.py: 2 warnings
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/ext.py:171: UserWarning: It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+    warnings.warn(
+
+tests/test_deposit_create.py: 1 warning
+tests/test_deposit_edit.py: 1 warning
+tests/test_dump_empty.py: 1 warning
+tests/test_export_json.py: 1 warning
+tests/test_export_rdm.py: 1 warning
+tests/test_export_undefined.py: 1 warning
+tests/test_fielddata.py: 1 warning
+tests/test_frontpage.py: 1 warning
+tests/test_jinjax_render.py: 1 warning
+tests/test_multiple_http_methods.py: 1 warning
+tests/test_record_detail.py: 1 warning
+tests/test_record_latest.py: 1 warning
+tests/test_record_preview.py: 1 warning
+tests/test_sidebar.py: 1 warning
+tests/test_ui_resource_config.py: 1 warning
+tests/test_ui_webpack.py: 1 warning
+tests/test_uploads_new.py: 1 warning
+tests/test_uploads_new_multi_model.py: 1 warning
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_rest/ext.py:29: FutureWarning: CSRF validation will be enabled by default in the version 1.3.x
+    self.init_app(app)
+
+tests/test_deposit_create.py: 3 warnings
+tests/test_deposit_edit.py: 1 warning
+tests/test_export_json.py: 1 warning
+tests/test_export_rdm.py: 1 warning
+tests/test_export_undefined.py: 1 warning
+tests/test_record_detail.py: 1 warning
+tests/test_record_latest.py: 1 warning
+tests/test_record_preview.py: 1 warning
+tests/test_sidebar.py: 3 warnings
+tests/test_uploads_new.py: 2 warnings
+tests/test_uploads_new_multi_model.py: 2 warnings
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_security/utils.py:77: DeprecationWarning: Remember me support has been removed.
+    warnings.warn("Remember me support has been removed.", DeprecationWarning)
+
+tests/test_deposit_create.py::test_deposit_create
+tests/test_deposit_edit.py::test_deposit_edit
+tests/test_jinjax_render.py::test_jinjax_render
+tests/test_record_detail.py::test_record_detail
+tests/test_record_preview.py::test_record_preview
+tests/test_sidebar.py::test_sidebar_model_specific_template
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/oarepo_ui/ext.py:75: UserWarning: JinjaX default loader should be an instance of FileSystemLoader but is <class 'invenio_app.helpers.ThemeJinjaLoader'>. Expect problems.
+    self._catalog_config(self._catalog, self.app.jinja_env)
+
+tests/test_deposit_edit.py: 1 warning
+tests/test_export_rdm.py: 1 warning
+tests/test_record_detail.py: 1 warning
+tests/test_record_preview.py: 1 warning
+tests/test_sidebar.py: 13 warnings
+tests/test_ui_resource_config.py: 3 warnings
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py:56: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+    self.object_schema = object_schema_cls(
+
+tests/test_deposit_edit.py: 1 warning
+tests/test_export_rdm.py: 1 warning
+tests/test_record_detail.py: 1 warning
+tests/test_record_preview.py: 1 warning
+tests/test_sidebar.py: 13 warnings
+tests/test_ui_resource_config.py: 3 warnings
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py:59: DeprecationWarning: Relying on context is deprecated, please look for different solutions!
+    warn(
+
+tests/test_deposit_edit.py: 1 warning
+tests/test_export_rdm.py: 1 warning
+tests/test_record_detail.py: 1 warning
+tests/test_record_preview.py: 1 warning
+tests/test_sidebar.py: 13 warnings
+tests/test_ui_resource_config.py: 3 warnings
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py:61: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+    super().__init__(**kwargs)
+
+tests/test_deposit_edit.py::test_deposit_edit
+tests/test_export_rdm.py::test_export_ui_json
+tests/test_record_detail.py::test_record_detail
+tests/test_record_preview.py::test_record_preview
+tests/test_sidebar.py::test_sidebar_model_specific_template
+tests/test_sidebar.py::test_sidebar_default_fallback
+tests/test_sidebar.py::test_sidebar_model_specific_config
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py:120: DeprecationWarning: using object_key in context is deprecated, use class object_key instead.
+    warn(
+
+tests/test_deposit_edit.py::test_deposit_edit
+tests/test_export_rdm.py::test_export_ui_json
+tests/test_record_detail.py::test_record_detail
+tests/test_record_preview.py::test_record_preview
+tests/test_sidebar.py::test_sidebar_model_specific_template
+tests/test_sidebar.py::test_sidebar_default_fallback
+tests/test_sidebar.py::test_sidebar_model_specific_config
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py:631: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.
+    self._schema = schema_class(
+
+tests/test_export_json.py::test_export
+tests/test_export_rdm.py::test_export_ui_json
+tests/test_export_undefined.py::test_nonexistent_format
+tests/test_record_detail.py::test_record_detail
+tests/test_record_latest.py::test_record_latest_redirect
+tests/test_sidebar.py::test_sidebar_model_specific_template
+tests/test_sidebar.py::test_sidebar_default_fallback
+tests/test_sidebar.py::test_sidebar_model_specific_config
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py:334: SAWarning: nested transaction already deassociated from connection
+    with db.session.begin_nested():
+
+tests/test_export_json.py::test_export
+tests/test_export_rdm.py::test_export_ui_json
+tests/test_export_undefined.py::test_nonexistent_format
+tests/test_record_detail.py::test_record_detail
+tests/test_record_latest.py::test_record_latest_redirect
+tests/test_sidebar.py::test_sidebar_model_specific_template
+tests/test_sidebar.py::test_sidebar_default_fallback
+tests/test_sidebar.py::test_sidebar_model_specific_config
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py:193: SAWarning: nested transaction already deassociated from connection
+    self.session.commit()
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ============================
+ERROR tests/test_deposit_create.py::test_deposit_create_with_community - marshmallow.exceptions.ValidationError: {'custom_fields': {'workflow': ['Unknown field.'], 'allowed_workflows': ['Unknown field.']}}
+============ 59 passed, 281 warnings, 1 error in 124.12s (0:02:04) =============

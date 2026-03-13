@@ -1,0 +1,334 @@
+Downloading .runner.sh from oarepo repository
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100 34864  100 34864    0     0   860k      0 --:--:-- --:--:-- --:--:--  872k
+No test-setup.sh found, skipping extra test setup
+Installed 3 packages in 10ms
+ opensearch Pulling 
+ redis Pulling 
+ rabbitmq Pulling 
+ minio Pulling 
+ postgresql Pulling 
+ minio Pulled 
+ redis Pulled 
+ rabbitmq Pulled 
+ postgresql Pulled 
+ opensearch Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-minio-1  Creating
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-minio-1  Created
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-minio-1  Starting
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-rabbitmq-1  Started
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-minio-1  Started
+ Container docker_services_cli-opensearch-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched
+configfile: pyproject.toml
+testpaths: tests
+plugins: pydocstyle-2.4.0, pycodestyle-2.5.0, Faker-40.12.0, cov-7.1.0, github-actions-annotate-failures-0.4.0, invenio-4.0.1, flask-1.3.0, isort-4.0.0
+collected 60 items
+tests/test_component_paths.py .                                          [  1%]
+tests/test_deposit_create.py 
+E
+                                        [  8%]
+tests/test_deposit_edit.py 
+                                             [ 10%]
+tests/test_dump_empty.py 
+                                              [ 13%]
+tests/test_export_json.py 
+                                              [ 15%]
+tests/test_export_rdm.py 
+                                               [ 16%]
+tests/test_export_undefined.py 
+                                         [ 18%]
+tests/test_fielddata.py 
+                                 [ 45%]
+tests/test_frontpage.py 
+                                                [ 46%]
+tests/test_jinjax_render.py 
+                                            [ 48%]
+tests/test_multiple_http_methods.py 
+                                    [ 50%]
+tests/test_record_detail.py 
+                                            [ 51%]
+tests/test_record_latest.py 
+                                            [ 53%]
+tests/test_record_preview.py 
+                                           [ 55%]
+tests/test_sidebar.py 
+                                                [ 60%]
+tests/test_ui_resource_config.py 
+                           [ 81%]
+tests/test_ui_webpack.py 
+                                          [ 91%]
+tests/test_uploads_new.py 
+                                            [ 96%]
+tests/test_uploads_new_multi_model.py 
+                                 [100%]
+==================================== ERRORS ====================================
+_____________ ERROR at setup of test_deposit_create_with_community _____________
+community_owner = <pytest_invenio.user.UserFixtureBase object at 0x7f25cff56810>
+slug = 'public'
+community_dict = {'access': {'record_policy': 'open', 'visibility': 'public'}, 'metadata': {'title': 'My Community'}, 'slug': 'public'}
+workflow = None, allowed_workflows = None
+    def _get_or_create(
+        community_owner: UserFixtureBase,
+        slug: str | None = None,
+        community_dict: dict[str, Any] | None = None,
+        workflow: str | None = None,
+        allowed_workflows: list[str] | None = None,
+    ) -> Community:
+        """Util to get or create community, to avoid duplicate error."""
+        community_dict = community_dict or minimal_community
+        slug = slug or community_dict["slug"]
+        if not isinstance(slug, str):
+            raise TypeError("Slug must be a string")
+        community_dict["slug"] = slug
+        try:
+>           c = current_communities.service.record_cls.pid.resolve(slug)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/pytest_oarepo/communities/fixtures.py:122: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+self = <invenio_communities.communities.records.systemfields.pidslug.PIDSlugFieldContext object at 0x7f25cfee1be0>
+pid_value = 'public', registered_only = True
+    def resolve(self, pid_value, registered_only=True):
+        """Resolve identifier (either uuid or slug)."""
+        pid_value = self.parse_pid(pid_value)
+        if isinstance(pid_value, UUID):
+            field_name = self.field._id_field
+        else:
+            field_name = self.field._slug_field
+            # Edge case since we allow nullable slug in the database table
+            if not pid_value:
+                raise PIDDoesNotExistError("comid", "")
+        with db.session.no_autoflush:  # avoid flushing the current session
+            model = self.record_cls.model_cls.query.filter_by(
+                **{field_name: pid_value}
+            ).one_or_none()
+            if model is None:
+>               raise PIDDoesNotExistError("comid", str(pid_value))
+E               invenio_pidstore.errors.PIDDoesNotExistError
+venv/lib/python3.14/site-packages/invenio_communities/communities/records/systemfields/pidslug.py:48: PIDDoesNotExistError
+During handling of the above exception, another exception occurred:
+app = <Flask 'invenio'>
+community_owner = <pytest_invenio.user.UserFixtureBase object at 0x7f25cff56810>
+community_get_or_create = <function community_get_or_create.<locals>._get_or_create at 0x7f25cfe871c0>
+    @pytest.fixture
+    def community(
+        app: Flask,  # noqa ARG001
+        community_owner: UserFixtureBase,
+        community_get_or_create: CommunityGetOrCreateFn,
+    ) -> Community:
+        """Return basic community."""
+>       return community_get_or_create(community_owner)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/pytest_oarepo/communities/fixtures.py:76: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+venv/lib/python3.14/site-packages/pytest_oarepo/communities/fixtures.py:124: in _get_or_create
+    c = current_communities.service.create(
+venv/lib/python3.14/site-packages/invenio_db/uow.py:251: in inner
+    res = f(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py:338: in create
+    return self._create(
+venv/lib/python3.14/site-packages/invenio_db/uow.py:255: in inner
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/invenio_records_resources/services/records/service.py:362: in _create
+    data, errors = self.schema.load(
+venv/lib/python3.14/site-packages/invenio_records_resources/services/records/schema.py:97: in load
+    valid_data = self.schema(**schema_args).load(data)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+venv/lib/python3.14/site-packages/marshmallow/schema.py:792: in load
+    return self._do_load(
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+self = <CommunitySchema(many=False)>
+data = {'access': {'record_policy': 'open', 'visibility': 'public'}, 'custom_fields': {'allowed_workflows': ['default'], 'workflow': 'default'}, 'metadata': {'title': 'My Community'}, 'slug': 'public'}
+    def _do_load(
+        self,
+        data: (
+            typing.Mapping[str, typing.Any]
+            | typing.Iterable[typing.Mapping[str, typing.Any]]
+        ),
+        *,
+        many: bool | None = None,
+        partial: bool | types.StrSequenceOrSet | None = None,
+        unknown: str | None = None,
+        postprocess: bool = True,
+    ):
+        """Deserialize `data`, returning the deserialized result
+        This method is private API
+        :param data: The data to deserialize
+        :param many: Whether to deserialize `data` as a collection. If `None`, the
+            value for `self.many` is used
+        :param partial: Whether to validate required fields. If its
+            value is an iterable, only fields listed in that iterable will be
+            ignored will be allowed missing. If `True`, all fields will be allowed missing
+            If `None`, the value for `self.partial` is used
+        :param unknown: Whether to exclude, include, or raise an error for unknown
+            fields in the data. Use `EXCLUDE`, `INCLUDE` or `RAISE`
+            If `None`, the value for `self.unknown` is used
+        :param postprocess: Whether to run post_load methods
+        :return: Deserialized data
+        """
+        error_store = ErrorStore()
+        errors: dict[str, list[str]] = {}
+        many = self.many if many is None else bool(many)
+        unknown = (
+            self.unknown
+            if unknown is None
+            else validate_unknown_parameter_value(unknown)
+        )
+        if partial is None:
+            partial = self.partial
+        # Run preprocessors
+        if self._hooks[PRE_LOAD]:
+            try:
+                processed_data = self._invoke_load_processors(
+                    PRE_LOAD, data, many=many, original_data=data, partial=partial
+                )
+            except ValidationError as err:
+                errors = err.normalized_messages()
+                result: list | dict | None = None
+        else:
+            processed_data = data
+        if not errors:
+            # Deserialize data
+            result = self._deserialize(
+                processed_data,
+                error_store=error_store,
+                many=many,
+                partial=partial,
+                unknown=unknown,
+            )
+            # Run field-level validation
+            self._invoke_field_validators(
+                error_store=error_store, data=result, many=many
+            )
+            # Run schema-level validation
+            if self._hooks[VALIDATES_SCHEMA]:
+                field_errors = bool(error_store.errors)
+                self._invoke_schema_validators(
+                    error_store=error_store,
+                    pass_many=True,
+                    data=result,
+                    original_data=data,
+                    many=many,
+                    partial=partial,
+                    field_errors=field_errors,
+                )
+                self._invoke_schema_validators(
+                    error_store=error_store,
+                    pass_many=False,
+                    data=result,
+                    original_data=data,
+                    many=many,
+                    partial=partial,
+                    field_errors=field_errors,
+                )
+            errors = error_store.errors
+            # Run post processors
+            if not errors and postprocess and self._hooks[POST_LOAD]:
+                try:
+                    result = self._invoke_load_processors(
+                        POST_LOAD,
+                        result,
+                        many=many,
+                        original_data=data,
+                        partial=partial,
+                    )
+                except ValidationError as err:
+                    errors = err.normalized_messages()
+        if errors:
+            exc = ValidationError(errors, data=data, valid_data=result)
+            self.handle_error(exc, data, many=many, partial=partial)
+>           raise exc
+E           marshmallow.exceptions.ValidationError: {'custom_fields': {'workflow': ['Unknown field.'], 'allowed_workflows': ['Unknown field.']}}
+venv/lib/python3.14/site-packages/marshmallow/schema.py:999: ValidationError
+=============================== warnings summary ===============================
+venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:64
+    "self": RequestFileLink("{+api}/requests/{request_id}/files/{key}"),
+venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:65
+    "content": RequestFileLink("{+api}/requests/{request_id}/files/{key}/content"),
+venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:66
+    "download_html": RequestFileLink("{+ui}/requests/{request_id}/files/{key}"),
+venv/lib/python3.14/site-packages/marshmallow/fields.py:1218
+venv/lib/python3.14/site-packages/marshmallow/fields.py:1218
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py:1218: RemovedInMarshmallow4Warning: The 'missing' argument to fields is deprecated. Use 'load_default' instead
+    super().__init__(**kwargs)
+venv/lib/python3.14/site-packages/invenio_rdm_records/services/facets.py:76
+    warn(
+    warnings.warn(
+    warn(
+    warn(
+    warnings.warn(
+    self.init_app(app)
+tests/test_deposit_create.py::test_deposit_create
+tests/test_deposit_edit.py::test_deposit_edit
+tests/test_jinjax_render.py::test_jinjax_render
+tests/test_record_detail.py::test_record_detail
+tests/test_record_preview.py::test_record_preview
+tests/test_sidebar.py::test_sidebar_model_specific_template
+    self._catalog_config(self._catalog, self.app.jinja_env)
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py:56: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    self.object_schema = object_schema_cls(
+    warn(
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py:61: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    super().__init__(**kwargs)
+tests/test_deposit_edit.py::test_deposit_edit
+tests/test_export_rdm.py::test_export_ui_json
+tests/test_record_detail.py::test_record_detail
+tests/test_record_preview.py::test_record_preview
+tests/test_sidebar.py::test_sidebar_model_specific_template
+tests/test_sidebar.py::test_sidebar_default_fallback
+tests/test_sidebar.py::test_sidebar_model_specific_config
+    warn(
+tests/test_deposit_edit.py::test_deposit_edit
+tests/test_export_rdm.py::test_export_ui_json
+tests/test_record_detail.py::test_record_detail
+tests/test_record_preview.py::test_record_preview
+tests/test_sidebar.py::test_sidebar_model_specific_template
+tests/test_sidebar.py::test_sidebar_default_fallback
+tests/test_sidebar.py::test_sidebar_model_specific_config
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py:631: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    self._schema = schema_class(
+tests/test_export_json.py::test_export
+tests/test_export_rdm.py::test_export_ui_json
+tests/test_export_undefined.py::test_nonexistent_format
+tests/test_record_detail.py::test_record_detail
+tests/test_record_latest.py::test_record_latest_redirect
+tests/test_sidebar.py::test_sidebar_model_specific_template
+tests/test_sidebar.py::test_sidebar_default_fallback
+tests/test_sidebar.py::test_sidebar_model_specific_config
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py:334: SAWarning: nested transaction already deassociated from connection
+    with db.session.begin_nested():
+tests/test_export_json.py::test_export
+tests/test_export_rdm.py::test_export_ui_json
+tests/test_export_undefined.py::test_nonexistent_format
+tests/test_record_detail.py::test_record_detail
+tests/test_record_latest.py::test_record_latest_redirect
+tests/test_sidebar.py::test_sidebar_model_specific_template
+tests/test_sidebar.py::test_sidebar_default_fallback
+tests/test_sidebar.py::test_sidebar_model_specific_config
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-ui/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py:193: SAWarning: nested transaction already deassociated from connection
+    self.session.commit()
+=========================== short test summary info ============================
+ERROR tests/test_deposit_create.py::test_deposit_create_with_community - marshmallow.exceptions.ValidationError: {'custom_fields': {'workflow': ['Unknown field.'], 'allowed_workflows': ['Unknown field.']}}
+============ 59 passed, 281 warnings, 1 error in 124.12s (0:02:04) =============

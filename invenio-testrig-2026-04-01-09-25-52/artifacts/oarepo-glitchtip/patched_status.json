@@ -1,0 +1,73 @@
+{
+  "dependencies": [],
+  "package": {
+    "github_entry": {
+      "_extra": {},
+      "default_branch": null,
+      "exclude": [
+        "oarepo-reference-repo"
+      ],
+      "extras": [
+        "tests",
+        "oarepo14"
+      ],
+      "freeze": [
+        "setuptools<82.0.0"
+      ],
+      "include": [
+        "oarepo-.*",
+        "pytest-oarepo"
+      ],
+      "install": [
+        "./run.sh",
+        "venv"
+      ],
+      "org": "oarepo",
+      "package_map": {
+        "oarepo-invenio-typing-stubs": "invenio-typing-stubs"
+      },
+      "slow_packages": {},
+      "test": [
+        "./run.sh",
+        "test"
+      ]
+    },
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "1.1.1",
+      "base": null,
+      "branch": "v1.1.1",
+      "commit": "92746e22045d342ca9cc3216775d4a0a2df10975",
+      "commits_from_version": [],
+      "org": "oarepo",
+      "package": "oarepo-glitchtip",
+      "pr": null,
+      "pr_info": null,
+      "repo": "oarepo-glitchtip"
+    },
+    "unpatched_reference": {
+      "actual_version": "1.1.1",
+      "base": null,
+      "branch": null,
+      "commit": "b4b6f4a36e93579fa331a4ba271a9a37186c1add",
+      "commits_from_version": [
+        "c08c78af7cfb918b3465ab12bfe0bf3ca99aa452",
+        "de2dfddfba4cdf037dfec99d19674975edbe2094",
+        "6e8f5a3f6f0cdb3669aa19b0c61d14f85b188540",
+        "f118a059d2b2caebf83354d830f3bb3c93480e40",
+        "b8e35ac208ce22380e2bb3748cef2e3cbe8a21b6",
+        "107d3d4df913eff313081dc85c6cf45d62ae5db7",
+        "7178603bfd726164fab3d14aba779a93fbf36b03",
+        "92746e22045d342ca9cc3216775d4a0a2df10975",
+        "b4b6f4a36e93579fa331a4ba271a9a37186c1add"
+      ],
+      "org": "oarepo",
+      "package": "oarepo-glitchtip",
+      "pr": null,
+      "pr_info": null,
+      "repo": "oarepo-glitchtip"
+    }
+  },
+  "status": "skipped"
+}

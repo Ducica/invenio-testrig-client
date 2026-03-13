@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "73522b2",
+    "message": "chore: release train for new major version of oarepo"
+  },
+  {
+    "hash": "b048cc3",
+    "message": "[skip ci] Bump version to v7.0.1"
+  },
+  {
+    "hash": "248b36c",
+    "message": "fix: forgotten bump to python 3.14"
+  },
+  {
+    "hash": "acd376e",
+    "message": "UserGenerator moved"
+  },
+  {
+    "hash": "f387574",
+    "message": "Major version bump"
+  },
+  {
+    "hash": "e85d703",
+    "message": "using community_get_or_create_in_default_workflow in another tests"
+  },
+  {
+    "hash": "7d432fc",
+    "message": "using community_get_or_create_in_default_workflow in tests"
+  },
+  {
+    "hash": "4c35b89",
+    "message": "trying to remove dependency on communities"
+  },
+  {
+    "hash": "89c7a02",
+    "message": "fix: tests"
+  },
+  {
+    "hash": "2e5cfb2",
+    "message": "chore(lint): removed extra entrypoint, format"
+  },
+  {
+    "hash": "301853d",
+    "message": "Removed fake endpoint"
+  },
+  {
+    "hash": "84a4731",
+    "message": "version bump to 6.1.0"
+  },
+  {
+    "hash": "8b92596",
+    "message": "fix: removed communities for the new oarepo package"
+  },
+  {
+    "hash": "5375be5",
+    "message": "[skip ci] Bump version to 6.0.0dev9"
+  },
+  {
+    "hash": "b4e02f1",
+    "message": "using is_draft"
+  },
+  {
+    "hash": "ca7eec6",
+    "message": "adding links to record review"
+  },
+  {
+    "hash": "0eec6a9",
+    "message": "[skip ci] Bump version to 6.0.0dev8"
+  },
+  {
+    "hash": "7982822",
+    "message": "simplified getting community record default workflow"
+  },
+  {
+    "hash": "6836705",
+    "message": "self review"
+  },
+  {
+    "hash": "a0fdc14",
+    "message": "format"
+  },
+  {
+    "hash": "337eb3d",
+    "message": "ui test fix"
+  },
+  {
+    "hash": "714ba09",
+    "message": "savepoint"
+  },
+  {
+    "hash": "1099325",
+    "message": "InAnyCommunityWorkflow generator, tests"
+  },
+  {
+    "hash": "a531d9c",
+    "message": "minor issues"
+  },
+  {
+    "hash": "b01075c",
+    "message": "reverted community_submission request entrypoint; should come from invenio"
+  },
+  {
+    "hash": "336199b",
+    "message": "format; lint; tests; refactors"
+  },
+  {
+    "hash": "93fab1c",
+    "message": "v1"
+  },
+  {
+    "hash": "0bb3481",
+    "message": "[skip ci] Bump version to 6.0.0dev7"
+  },
+  {
+    "hash": "e803f8d",
+    "message": "format"
+  },
+  {
+    "hash": "5f80f91",
+    "message": "extract_user_email_data import fix"
+  },
+  {
+    "hash": "c0b6455",
+    "message": "feat: added communities ui"
+  },
+  {
+    "hash": "c6e9803",
+    "message": "[skip ci] Bump version to 6.0.0dev5"
+  },
+  {
+    "hash": "1ce83fe",
+    "message": "Model API change and readme"
+  },
+  {
+    "hash": "8ac1aef",
+    "message": "[skip ci] Bump version to 6.0.0dev4"
+  },
+  {
+    "hash": "5e2aaaf",
+    "message": "Python 3.14"
+  },
+  {
+    "hash": "36dea89",
+    "message": "Bump version to 6.0.0dev3"
+  },
+  {
+    "hash": "eac40cb",
+    "message": "format"
+  },
+  {
+    "hash": "6072bc3",
+    "message": "no cover on require draft record"
+  },
+  {
+    "hash": "303f39b",
+    "message": "moved allowed communities check outside ui and deleted ui dependencies"
+  },
+  {
+    "hash": "d4f6f1b",
+    "message": "Bump version to 6.0.0dev2"
+  },
+  {
+    "hash": "528461d",
+    "message": "Removed community ui elements"
+  },
+  {
+    "hash": "25f520b",
+    "message": "Bump version to 6.0.0dev1"
+  },
+  {
+    "hash": "192c89f",
+    "message": "review"
+  },
+  {
+    "hash": "c9dcb1b",
+    "message": "after review"
+  },
+  {
+    "hash": "88dfbd7",
+    "message": "test pass fix"
+  },
+  {
+    "hash": "8ad95a2",
+    "message": "after self-review"
+  },
+  {
+    "hash": "b721f8c",
+    "message": "savepoint"
+  },
+  {
+    "hash": "aac1c19",
+    "message": "package.json deleted"
+  },
+  {
+    "hash": "be7c2f1",
+    "message": "oarepo dependency bug fix"
+  },
+  {
+    "hash": "1f409eb",
+    "message": "pytest plugin bug fix"
+  }
+]

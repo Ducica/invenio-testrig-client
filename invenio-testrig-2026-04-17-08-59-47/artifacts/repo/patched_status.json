@@ -1,0 +1,34 @@
+{
+  "dependencies": [],
+  "package": {
+    "github_entry": {
+      "_extra": {},
+      "default_branch": null,
+      "exclude": [],
+      "extras": [],
+      "freeze": [],
+      "include": [],
+      "install": [],
+      "org": "",
+      "package_map": {},
+      "slow_packages": {},
+      "test": []
+    },
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": null,
+      "base": null,
+      "branch": "main",
+      "commit": "94a9dfb63fa1982cfac27daa4a3495138ecd0bee",
+      "commits_from_version": [],
+      "org": "oarepo",
+      "package": "oarepo-reference-repo",
+      "pr": null,
+      "pr_info": null,
+      "repo": "oarepo-reference-repo"
+    },
+    "unpatched_reference": null
+  },
+  "status": "skipped"
+}

@@ -1,0 +1,5 @@
+{
+  "DeprecationWarning: Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.": 3,
+  "RemovedInMarshmallow4Warning: The 'missing' argument to fields is deprecated. Use 'load_default' instead.": 1,
+  "DeprecationWarning: subject_nested is deprecated. Use subject_combined instead.": 1
+}

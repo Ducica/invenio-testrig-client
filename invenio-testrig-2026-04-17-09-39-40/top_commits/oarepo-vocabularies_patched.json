@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "7cde15e",
+    "message": "Bump version to 5.0.0 and update dependencies for compatibility"
+  },
+  {
+    "hash": "f4f9d28",
+    "message": "Major version bump (#255)"
+  },
+  {
+    "hash": "7d5c2df",
+    "message": "Add margin to breadcumbs; move from default to rdm theme folder"
+  },
+  {
+    "hash": "433f0b6",
+    "message": "fixed tests"
+  },
+  {
+    "hash": "023679e",
+    "message": "Refactor breadcrumb and search components for improved navigation; remove unused vocabulary results list item styles"
+  },
+  {
+    "hash": "6983e05",
+    "message": "Enhance vocabulary breadcrumb and title components for better display and usability"
+  },
+  {
+    "hash": "96f56ca",
+    "message": "Refactor VocabularyResultsListItem component and add custom styles for vocabulary results"
+  },
+  {
+    "hash": "2565e32",
+    "message": "[skip ci] Bump version to 3.0.0dev9"
+  },
+  {
+    "hash": "15d5a46",
+    "message": "fixed test"
+  },
+  {
+    "hash": "86b3a0e",
+    "message": "oarepo-ui dependency"
+  },
+  {
+    "hash": "87e64bb",
+    "message": "[skip ci] Bump version to 3.0.0dev8"
+  },
+  {
+    "hash": "18e1321",
+    "message": "i18n suggest parser (#252)"
+  },
+  {
+    "hash": "66d5b8e",
+    "message": "Add record ID in VocabulariesMain template (#248)"
+  },
+  {
+    "hash": "7a21ab9",
+    "message": "[skip ci] Bump version to 3.0.0dev7"
+  },
+  {
+    "hash": "6d7cbec",
+    "message": "Alembic (#247)"
+  },
+  {
+    "hash": "b0d7984",
+    "message": "README (#246)"
+  },
+  {
+    "hash": "0ef9091",
+    "message": "[skip ci] Bump version to 3.0.0dev6"
+  },
+  {
+    "hash": "ea06494",
+    "message": "Python 3.14 (#245)"
+  },
+  {
+    "hash": "ff1aa27",
+    "message": "Bump version to 3.0.0dev5"
+  },
+  {
+    "hash": "68e3e0d",
+    "message": "removed export js entry point from detail template"
+  },
+  {
+    "hash": "ee95295",
+    "message": "Bump version to 3.0.0dev4"
+  },
+  {
+    "hash": "2880b0d",
+    "message": "feat: update record export endpoint (#241)"
+  },
+  {
+    "hash": "769bffc",
+    "message": "Bump version to 3.0.0dev3"
+  },
+  {
+    "hash": "f40ffa9",
+    "message": "added UI for vocabularies (#240)"
+  },
+  {
+    "hash": "ee83ce8",
+    "message": "Bump version to 3.0.0dev2"
+  },
+  {
+    "hash": "d93f442",
+    "message": "Making the package release compatible (#239)"
+  },
+  {
+    "hash": "9708382",
+    "message": "Bump version to 3.0.0dev1"
+  },
+  {
+    "hash": "2c9a00e",
+    "message": "Change version from 4.0.0 to 3.0.0dev0"
+  },
+  {
+    "hash": "d9d4e5a",
+    "message": "Permission + ui changes (#238)"
+  },
+  {
+    "hash": "b657777",
+    "message": "RDM13 compatibilty changes"
+  },
+  {
+    "hash": "5e86e1c",
+    "message": "Merge pull request #233 from oarepo/linting-fixes"
+  },
+  {
+    "hash": "fdeb779",
+    "message": "removed react-query as a dependency"
+  },
+  {
+    "hash": "df4c414",
+    "message": "fixed linter errors"
+  },
+  {
+    "hash": "d8b249e",
+    "message": "version bump"
+  },
+  {
+    "hash": "86440bb",
+    "message": "tests: fixed failing test * now the UI schema is used for prefetched vocabs it is necessary to fix the test for dumping options"
+  },
+  {
+    "hash": "4c117b6",
+    "message": "feat: vocabulary field implementation"
+  },
+  {
+    "hash": "c7fa653",
+    "message": "unifying local and remote select"
+  },
+  {
+    "hash": "41ceefa",
+    "message": "Merge pull request #228 from oarepo/ror-tasks"
+  },
+  {
+    "hash": "382019a",
+    "message": "refactored ror cli to shared task"
+  },
+  {
+    "hash": "5968b56",
+    "message": "Merge pull request #227 from oarepo/stojanovic/ntk-223-vkladaci-formularoborove-trideni"
+  },
+  {
+    "hash": "8438a23",
+    "message": "Merge pull request #226 from oarepo/stojanovic/fe-395-languageselectfield-to-support-remote-selection"
+  },
+  {
+    "hash": "c06c512",
+    "message": "i18n: wrapped strings in i18next.t"
+  },
+  {
+    "hash": "79e4d15",
+    "message": "fix: getting field metadata from UI json"
+  },
+  {
+    "hash": "cded4db",
+    "message": "Merge pull request #225 from oarepo/Alzpeta-patch-3"
+  },
+  {
+    "hash": "85b7ea1",
+    "message": "Update setup.cfg"
+  },
+  {
+    "hash": "1905cf4",
+    "message": "Merge pull request #224 from oarepo/specialized_service_for_search"
+  },
+  {
+    "hash": "d2157ed",
+    "message": "cached type fix"
+  },
+  {
+    "hash": "8137271",
+    "message": "specialized service for search many"
+  },
+  {
+    "hash": "0da59f8",
+    "message": "Merge pull request #223 from oarepo/stojanovic/ntk-160-nelze-vytvorit-nova-slovnikova-polozka"
+  },
+  {
+    "hash": "014a2e7",
+    "message": "iterating over one list"
+  }
+]

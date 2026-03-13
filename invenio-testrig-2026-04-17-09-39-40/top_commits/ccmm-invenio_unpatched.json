@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "d8023ff",
+    "message": "[skip ci] Bump version to v1.1.1"
+  },
+  {
+    "hash": "3c613d3",
+    "message": "added ui resource and config for ccmm specific repos (#22)"
+  },
+  {
+    "hash": "b30c2d2",
+    "message": "Version bump to 1.0.0"
+  },
+  {
+    "hash": "6971c39",
+    "message": "[skip ci] Bump version to 1.1.0a13"
+  },
+  {
+    "hash": "2da4430",
+    "message": "added ccmm related ui (#19)"
+  },
+  {
+    "hash": "65aae1a",
+    "message": "dataset title is required (#18)"
+  },
+  {
+    "hash": "c7f82c7",
+    "message": "[skip ci] Bump version to 1.1.0a12"
+  },
+  {
+    "hash": "7a1b2f2",
+    "message": "fixed typo"
+  },
+  {
+    "hash": "491e65f",
+    "message": "fixed titletypes vocabulary and required fields as per rdm"
+  },
+  {
+    "hash": "672f6f3",
+    "message": "removed empty title/description from language items"
+  },
+  {
+    "hash": "b0da545",
+    "message": "implement tags/icon from RDM resource type vocabulary"
+  },
+  {
+    "hash": "3a117ab",
+    "message": "added tags to licenses"
+  },
+  {
+    "hash": "f0390db",
+    "message": "tests"
+  },
+  {
+    "hash": "8982b76",
+    "message": "ccmm top level field component"
+  },
+  {
+    "hash": "600d769",
+    "message": "set custom ccmm parser"
+  },
+  {
+    "hash": "8dbe55e",
+    "message": "example json"
+  },
+  {
+    "hash": "5dc5b8d",
+    "message": "[skip ci] Bump version to 1.1.0a11"
+  },
+  {
+    "hash": "fcf6abe",
+    "message": "deserializer"
+  },
+  {
+    "hash": "d454944",
+    "message": "test file rename"
+  },
+  {
+    "hash": "4c054f8",
+    "message": "lint"
+  },
+  {
+    "hash": "19cfb06",
+    "message": "tests"
+  },
+  {
+    "hash": "df1c93b",
+    "message": "ccmm test"
+  },
+  {
+    "hash": "4a58af0",
+    "message": "parser"
+  },
+  {
+    "hash": "fe9e02c",
+    "message": "new version"
+  },
+  {
+    "hash": "c919431",
+    "message": "ccmm changes from the diff"
+  },
+  {
+    "hash": "2652585",
+    "message": "fields rename"
+  },
+  {
+    "hash": "8e18d58",
+    "message": "metadata update"
+  },
+  {
+    "hash": "9219c44",
+    "message": "rdm metadata update"
+  },
+  {
+    "hash": "40b831b",
+    "message": "metadata rdm update"
+  },
+  {
+    "hash": "9740b01",
+    "message": "metadata rdm update"
+  },
+  {
+    "hash": "e6cb4f0",
+    "message": "[skip ci] Bump version to 1.1.0a9"
+  },
+  {
+    "hash": "9c41b55",
+    "message": "Model API change, Python 3.14"
+  },
+  {
+    "hash": "ea79c37",
+    "message": "Bump version to 1.1.0a8"
+  },
+  {
+    "hash": "30b63d6",
+    "message": "ignoring locations"
+  },
+  {
+    "hash": "affed2e",
+    "message": "Bump version to 1.1.0a7"
+  },
+  {
+    "hash": "a90e1a6",
+    "message": "linter"
+  },
+  {
+    "hash": "c0e4a0c",
+    "message": "Fixed problems"
+  },
+  {
+    "hash": "cd8c0f8",
+    "message": "Fixed problems"
+  },
+  {
+    "hash": "2dc3e31",
+    "message": "gitignore"
+  },
+  {
+    "hash": "aafbc2d",
+    "message": "linting"
+  },
+  {
+    "hash": "6875a16",
+    "message": "datacite"
+  },
+  {
+    "hash": "d795b0c",
+    "message": "updated ccmm model"
+  },
+  {
+    "hash": "9573daf",
+    "message": "parsers"
+  },
+  {
+    "hash": "39fd56c",
+    "message": "Loading test works"
+  },
+  {
+    "hash": "2493874",
+    "message": "Bump version to 1.1.0a6"
+  },
+  {
+    "hash": "71f4092",
+    "message": "fix: wheel build is empty"
+  },
+  {
+    "hash": "cf472d3",
+    "message": "Bump version to 1.1.0a5"
+  },
+  {
+    "hash": "3741934",
+    "message": "Removed empty translations"
+  },
+  {
+    "hash": "2e1e257",
+    "message": "Parser and tests for CCMM 1.1.0 - version 2025-11-03"
+  },
+  {
+    "hash": "efc8e24",
+    "message": "Fixed distribution"
+  }
+]

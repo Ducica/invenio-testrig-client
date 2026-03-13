@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "9dae6cf2",
+    "message": "major version bump"
+  },
+  {
+    "hash": "6cb29f2c",
+    "message": "[skip ci] Bump version to v8.0.2"
+  },
+  {
+    "hash": "1abf1a2e",
+    "message": "Remove unused workflows extra to fix circular dependency"
+  },
+  {
+    "hash": "a8ce5762",
+    "message": "[skip ci] Bump version to v8.0.1"
+  },
+  {
+    "hash": "5bbc7a59",
+    "message": "skip to main appears sometimes in header when you use tab to navigate"
+  },
+  {
+    "hash": "4d879c90",
+    "message": "html5backend"
+  },
+  {
+    "hash": "749361d1",
+    "message": "fix: added better namespacing for panel extra content"
+  },
+  {
+    "hash": "fb4dcc15",
+    "message": "test invenio dependencies, readme version fix"
+  },
+  {
+    "hash": "55bb4e6c",
+    "message": "Major version bump"
+  },
+  {
+    "hash": "926c3b5b",
+    "message": "Changing the community fixture not to use workflows"
+  },
+  {
+    "hash": "15e9b8b8",
+    "message": "Removed/skipped RDM stuff"
+  },
+  {
+    "hash": "a57cdaa3",
+    "message": "Freezing python version"
+  },
+  {
+    "hash": "bbee2f39",
+    "message": "removed workflow/requests dependency"
+  },
+  {
+    "hash": "4d1cb0c5",
+    "message": "Bumping version of pytest-oarepo"
+  },
+  {
+    "hash": "5875ed45",
+    "message": "fix: remove communities circular dependency"
+  },
+  {
+    "hash": "15a3f6dc",
+    "message": "chore(format): linter upgrade"
+  },
+  {
+    "hash": "3bbe8a35",
+    "message": "fix: tests"
+  },
+  {
+    "hash": "b373627d",
+    "message": "copilog suggestions"
+  },
+  {
+    "hash": "3c85fd3a",
+    "message": "fixed more inputs"
+  },
+  {
+    "hash": "9dd1f918",
+    "message": "fixed overriding model data with explicit prop passing"
+  },
+  {
+    "hash": "79b1a6f4",
+    "message": "Potential fix for pull request finding"
+  },
+  {
+    "hash": "e9fa7d96",
+    "message": "communities memberships on detail"
+  },
+  {
+    "hash": "3d20e79c",
+    "message": "[skip ci] Bump version to 7.0.0dev9"
+  },
+  {
+    "hash": "ee9a0671",
+    "message": "fixed tests"
+  },
+  {
+    "hash": "d1124119",
+    "message": "Extract DataciteSerializer to module level"
+  },
+  {
+    "hash": "a425f33b",
+    "message": "Add per-model sidebar configuration support"
+  },
+  {
+    "hash": "a557dc31",
+    "message": "[skip ci] Bump version to 7.0.0dev8"
+  },
+  {
+    "hash": "7c7529ca",
+    "message": "returning null instead of undefined"
+  },
+  {
+    "hash": "b1ad0f6e",
+    "message": "[skip ci] Bump version to 7.0.0dev7"
+  },
+  {
+    "hash": "31cd091b",
+    "message": "Rename THEME_FRONTPAGE_RECORDS_LIST_SEARCH_MORE_ENDPOINT to THEME_SEARCH_ENDPOINT"
+  },
+  {
+    "hash": "668ce64b",
+    "message": "added back form title as used in vocabularies"
+  },
+  {
+    "hash": "0a83d13d",
+    "message": "added tests"
+  },
+  {
+    "hash": "484af59b",
+    "message": "using oarepo-pytest"
+  },
+  {
+    "hash": "c0735be9",
+    "message": "added tests"
+  },
+  {
+    "hash": "f06252ab",
+    "message": "setting preselected community properly"
+  },
+  {
+    "hash": "41bbd5b7",
+    "message": "fixed up decorator"
+  },
+  {
+    "hash": "5476638b",
+    "message": "pass draft community"
+  },
+  {
+    "hash": "d39dbd32",
+    "message": "Update oarepo_ui/resources/decorators/pass_draft_community.py"
+  },
+  {
+    "hash": "62fbdc8e",
+    "message": "added communities to deposit_create/edit"
+  },
+  {
+    "hash": "342270f8",
+    "message": "[skip ci] Bump version to 7.0.0dev6"
+  },
+  {
+    "hash": "c395cb4c",
+    "message": "Stojanovic/fe 454 oarepo UI create a generic uploadnew page (#415)"
+  },
+  {
+    "hash": "ab0bed1b",
+    "message": "[skip ci] Bump version to 7.0.0dev5"
+  },
+  {
+    "hash": "a700993a",
+    "message": "removed uploads redirect - it will be in oarepo-rdm"
+  },
+  {
+    "hash": "fd433da7",
+    "message": "[skip ci] Bump version to 7.0.0dev4"
+  },
+  {
+    "hash": "4af0936d",
+    "message": "Testing form wizard (#376)"
+  },
+  {
+    "hash": "4a1eafa6",
+    "message": "Remove super() from javascript blocks in deposit templates"
+  },
+  {
+    "hash": "0f4af7c4",
+    "message": "safer contributor role serialization"
+  },
+  {
+    "hash": "8503663d",
+    "message": "Apply suggestions from code review"
+  },
+  {
+    "hash": "6f0addad",
+    "message": "modifications proven necessary while working on datarepo form"
+  },
+  {
+    "hash": "2d00a941",
+    "message": "[skip ci] Bump version to 7.0.0dev3"
+  }
+]

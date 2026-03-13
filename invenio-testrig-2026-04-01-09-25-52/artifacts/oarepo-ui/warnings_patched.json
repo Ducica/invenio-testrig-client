@@ -1,0 +1,16 @@
+{
+  "DeprecationWarning: Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.": 3,
+  "RemovedInMarshmallow4Warning: The 'missing' argument to fields is deprecated. Use 'load_default' instead.": 1,
+  "DeprecationWarning: subject_nested is deprecated. Use subject_combined instead.": 1,
+  "UserWarning: Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmrg6be:": 1,
+  "DeprecationWarning: The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).": 1,
+  "DeprecationWarning: The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).": 1,
+  "UserWarning: It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.": 1,
+  "FutureWarning: CSRF validation will be enabled by default in the version 1.3.x": 1,
+  "DeprecationWarning: Remember me support has been removed.": 1,
+  "UserWarning: JinjaX default loader should be an instance of FileSystemLoader but is <class 'invenio_app.helpers.ThemeJinjaLoader'>. Expect problems.": 1,
+  "RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.": 3,
+  "DeprecationWarning: Relying on context is deprecated, please look for different solutions!": 1,
+  "DeprecationWarning: using object_key in context is deprecated, use class object_key instead.": 1,
+  "SAWarning: nested transaction already deassociated from connection": 2
+}

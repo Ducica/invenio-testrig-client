@@ -1,0 +1,180 @@
+Downloading .runner.sh from oarepo repository
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100 34864  100 34864    0     0   210k      0 --:--:-- --:--:-- --:--:--  211k
+Sourcing test setup script
+Installing mock-module to the current environment
+warning: Skipping mock-module as it is not installed
+warning: No packages to uninstall
+Resolved 1 package in 1ms
+   Building mock-module @ file:///home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/mock-module
+      Built mock-module @ file:///home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/mock-module
+Prepared 1 package in 348ms
+Installed 1 package in 1ms
+ + mock-module==0.1.0 (from file:///home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/mock-module)
+Installed 3 packages in 10ms
+ opensearch Pulling 
+ rabbitmq Pulling 
+ redis Pulling 
+ postgresql Pulling 
+ minio Pulling 
+ minio Pulled 
+ redis Pulled 
+ rabbitmq Pulled 
+ postgresql Pulled 
+ opensearch Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-minio-1  Creating
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-minio-1  Created
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-minio-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-rabbitmq-1  Started
+ Container docker_services_cli-opensearch-1  Started
+ Container docker_services_cli-minio-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched
+configfile: pyproject.toml
+testpaths: tests
+plugins: invenio-4.0.1, isort-4.0.0, pycodestyle-2.5.0, cov-7.1.0, Faker-40.13.0, flask-1.3.0, pydocstyle-2.4.0, github-actions-annotate-failures-0.4.0
+collected 417 items
+tests/service_components/test_component_data.py ..................       [  4%]
+tests/service_components/test_component_ordering.py ..........           [  6%]
+tests/service_components/test_deduplication.py ......                    [  8%]
+tests/service_components/test_propagate_dependencies.py ......           [  9%]
+tests/service_components/test_topo_graph.py .....                        [ 10%]
+tests/test_action_query_filter.py ....                                   [ 11%]
+tests/test_api.py 
+                   [ 20%]
+tests/test_arbitrary_relations.py 
+                        [ 23%]
+tests/test_cli.py 
+                                                      [ 24%]
+tests/test_config.py 
+                                                   [ 24%]
+tests/test_datacite_signposting.py 
+                               [ 26%]
+tests/test_ext.py 
+                                         [ 29%]
+tests/test_facet_dates.py 
+                                              [ 29%]
+tests/test_facets.py 
+                                     [ 33%]
+tests/test_generators.py .....                                           [ 34%]
+tests/test_i18n.py ...............................                       [ 41%]
+tests/test_i18n_ui.py 
+      [ 52%]
+tests/test_if_draft_generator.py 
+                               [ 54%]
+tests/test_info_endpoints.py 
+                                          [ 55%]
+tests/test_link_permissions.py 
+                                         [ 55%]
+tests/test_locale.py 
+                                                [ 56%]
+tests/test_luqum_transformer.py ........................................ [ 66%]
+              [ 80%]
+tests/test_mapping_systemfield.py ...                                    [ 81%]
+tests/test_pagination_endpoint_links.py 
+                              [ 81%]
+tests/test_pid_providers.py 
+                                       [ 83%]
+tests/test_publication_status_systemfield.py ..........                  [ 85%]
+tests/test_records_drafts.py 
+                                  [ 88%]
+tests/test_records_mapping.py 
+                                  [ 90%]
+tests/test_records_mapping_relations.py ....                             [ 91%]
+tests/test_response_handlers.py ....                                     [ 92%]
+tests/test_selectors.py ........                                         [ 94%]
+tests/test_service.py 
+                                                  [ 94%]
+tests/test_service_results.py .............                              [ 97%]
+tests/test_services_records_mapping.py .....                             [ 98%]
+tests/test_services_records_mapping_relations.py .....                   [ 99%]
+tests/test_typing.py .                                                   [100%]
+=============================== warnings summary ===============================
+tests/service_components/test_topo_graph.py:57
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/service_components/test_topo_graph.py:57: PytestCollectionWarning: cannot collect test class 'TestService' because it has a __init__ constructor (from: tests/service_components/test_topo_graph.py)
+    class TestService(ComponentsOrderingMixin):
+tests/test_arbitrary_relations.py:29
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_arbitrary_relations.py:29: PytestCollectionWarning: cannot collect test class 'TestRecord' because it has a __init__ constructor (from: tests/test_arbitrary_relations.py)
+    class TestRecord(Record):
+tests/test_locale.py:25
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_locale.py:25: PytestCollectionWarning: cannot collect test class 'TestSchema' because it has a __init__ constructor (from: tests/test_locale.py)
+    class TestSchema(ma.Schema):
+tests/test_pid_providers.py:23
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_pid_providers.py:23: PytestCollectionWarning: cannot collect test class 'TestUniversalPIDProvider' because it has a __init__ constructor (from: tests/test_pid_providers.py)
+    class TestUniversalPIDProvider(UniversalPIDMixin, RecordIdProviderV2):
+    warnings.warn(
+    self.init_app(app)
+    warnings.warn(
+tests/test_i18n_ui.py::test_i18n_localized_ui_schema_serialize_empty
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_i18n_ui.py:323: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = schema_class(context={"locale": mock_locale})
+tests/test_i18n_ui.py::test_i18n_localized_ui_schema_serialize_with_matching_language
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_i18n_ui.py:342: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = schema_class(context={"locale": mock_locale})
+tests/test_i18n_ui.py::test_i18n_localized_ui_schema_serialize_without_matching_language
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_i18n_ui.py:361: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = schema_class(context={"locale": mock_locale})
+tests/test_i18n_ui.py::test_i18n_localized_ui_schema_serialize_single_item
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_i18n_ui.py:381: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = schema_class(context={"locale": mock_locale})
+tests/test_i18n_ui.py::test_i18n_localized_ui_schema_serialize_custom_field_names
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_i18n_ui.py:396: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = schema_class(context={"locale": mock_locale})
+tests/test_i18n_ui.py::test_multilingual_localized_ui_field_dumping
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_i18n_ui.py:451: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = TestSchema(context={"locale": mock_locale})
+tests/test_i18n_ui.py::test_multilingual_localized_ui_field_dumping
+tests/test_i18n_ui.py::test_schema_with_multiple_ui_fields
+tests/test_i18n_ui.py::test_schema_with_multiple_ui_fields
+tests/test_i18n_ui.py::test_schema_with_multiple_ui_fields
+tests/test_i18n_ui.py::test_complex_nested_ui_scenario
+tests/test_i18n_ui.py::test_complex_nested_ui_scenario
+tests/test_i18n_ui.py::test_complex_nested_ui_scenario
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py:631: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    self._schema = schema_class(
+tests/test_i18n_ui.py::test_schema_with_multiple_ui_fields
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_i18n_ui.py:534: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = DocumentUISchema(context={"locale": mock_locale})
+tests/test_i18n_ui.py::test_complex_nested_ui_scenario
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_i18n_ui.py:584: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = ComplexUISchema(context={"locale": mock_locale})
+tests/test_i18n_ui.py::test_localized_schema_edge_cases
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_i18n_ui.py:692: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema_invalid_locale = schema_class(context={"locale": mock_locale})
+tests/test_i18n_ui.py::test_many_parameter_ignored
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_i18n_ui.py:705: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = schema_class(context={"locale": mock_locale})
+tests/test_info_endpoints.py::test_info_repository_endpoint
+    from pkg_resources import get_distribution
+tests/test_locale.py::test_localized_date
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_locale.py:41: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    assert replace_ws(TestSchema(context={"locale": Locale("en")}).dump(input_data)) == {
+tests/test_locale.py::test_localized_date
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_locale.py:47: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    assert replace_ws(TestSchema(context={"locale": Locale("cs")}).dump(input_data)) == {
+tests/test_locale.py::test_localized_date_timezone
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_locale.py:57: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    assert replace_ws(TestSchema(context={"locale": Locale("en")}).dump(input_data)) == {
+tests/test_locale.py::test_localized_date_timezone
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-runtime/patched/tests/test_locale.py:63: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    assert replace_ws(TestSchema(context={"locale": Locale("en")}).dump(input_data)) == {
+================= 417 passed, 77 warnings in 117.72s (0:01:57) =================

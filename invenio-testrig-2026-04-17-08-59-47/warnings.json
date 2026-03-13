@@ -1,0 +1,200 @@
+{
+  "config_name": "Invenio Testrig",
+  "patch_mode": "Upstream baseline (patches rebased on upstream, unpatched are upstream)",
+  "test_mode": "Test patched first, retry unpatched on failure",
+  "test_scope": "All packages",
+  "started_at": "2026-04-17 08:58:49 UTC",
+  "python_version": "3.14.2",
+  "last_updated": "2026-04-17 09:07:58 UTC",
+  "total_unique_warnings": 16,
+  "total_packages_with_warnings": 2,
+  "total_warning_occurrences": 34,
+  "warnings": [
+    {
+      "text": "RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead.",
+      "total_count": 15,
+      "packages": [
+        {
+          "name": "oarepo-runtime",
+          "count": 15,
+          "link": "artifacts/oarepo-runtime/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "DeprecationWarning: Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.",
+      "total_count": 3,
+      "packages": [
+        {
+          "name": "ccmm-invenio",
+          "count": 3,
+          "link": "artifacts/ccmm-invenio/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "FutureWarning: CSRF validation will be enabled by default in the version 1.3.x",
+      "total_count": 2,
+      "packages": [
+        {
+          "name": "ccmm-invenio",
+          "count": 1,
+          "link": "artifacts/ccmm-invenio/patched_log.log"
+        },
+        {
+          "name": "oarepo-runtime",
+          "count": 1,
+          "link": "artifacts/oarepo-runtime/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "UserWarning: It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.",
+      "total_count": 2,
+      "packages": [
+        {
+          "name": "ccmm-invenio",
+          "count": 1,
+          "link": "artifacts/ccmm-invenio/patched_log.log"
+        },
+        {
+          "name": "oarepo-runtime",
+          "count": 1,
+          "link": "artifacts/oarepo-runtime/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "DeprecationWarning: The configuration value 'RDM_FILES_DEFAULT_MAX_FILE_SIZE' is not set. In future, please set it explicitly to define your max file size, or be aware that the default value used i.e. FILES_REST_DEFAULT_MAX_FILE_SIZE will be 10 * (10**9) (10 GB).",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "ccmm-invenio",
+          "count": 1,
+          "link": "artifacts/ccmm-invenio/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "DeprecationWarning: The configuration value 'RDM_FILES_DEFAULT_QUOTA_SIZE' is not set. In future, please set it explicitly to define your quota size, or be aware that the default value used i.e. FILES_REST_DEFAULT_QUOTA_SIZE will be 10 * (10**9) (10 GB).",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "ccmm-invenio",
+          "count": 1,
+          "link": "artifacts/ccmm-invenio/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "DeprecationWarning: subject_nested is deprecated. Use subject_combined instead.",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "ccmm-invenio",
+          "count": 1,
+          "link": "artifacts/ccmm-invenio/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "PytestCollectionWarning: cannot collect test class 'TestRecord' because it has a __init__ constructor (from: tests/test_arbitrary_relations.py)",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "oarepo-runtime",
+          "count": 1,
+          "link": "artifacts/oarepo-runtime/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "PytestCollectionWarning: cannot collect test class 'TestSchema' because it has a __init__ constructor (from: tests/test_locale.py)",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "oarepo-runtime",
+          "count": 1,
+          "link": "artifacts/oarepo-runtime/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "PytestCollectionWarning: cannot collect test class 'TestService' because it has a __init__ constructor (from: tests/service_components/test_topo_graph.py)",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "oarepo-runtime",
+          "count": 1,
+          "link": "artifacts/oarepo-runtime/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "PytestCollectionWarning: cannot collect test class 'TestUniversalPIDProvider' because it has a __init__ constructor (from: tests/test_pid_providers.py)",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "oarepo-runtime",
+          "count": 1,
+          "link": "artifacts/oarepo-runtime/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "RemovedInMarshmallow4Warning: Passing field metadata as keyword arguments is deprecated. Use the explicit `metadata=...` argument instead. Additional metadata: {'strict': True}",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "ccmm-invenio",
+          "count": 1,
+          "link": "artifacts/ccmm-invenio/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "RemovedInMarshmallow4Warning: The 'missing' argument to fields is deprecated. Use 'load_default' instead.",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "ccmm-invenio",
+          "count": 1,
+          "link": "artifacts/ccmm-invenio/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "UserWarning: Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm35a4x:",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "oarepo-runtime",
+          "count": 1,
+          "link": "artifacts/oarepo-runtime/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "UserWarning: Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervmeorf1:",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "ccmm-invenio",
+          "count": 1,
+          "link": "artifacts/ccmm-invenio/patched_log.log"
+        }
+      ]
+    },
+    {
+      "text": "UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.",
+      "total_count": 1,
+      "packages": [
+        {
+          "name": "oarepo-runtime",
+          "count": 1,
+          "link": "artifacts/oarepo-runtime/patched_log.log"
+        }
+      ]
+    }
+  ]
+}

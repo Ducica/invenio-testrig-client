@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "225d174",
+    "message": "chore: bump version to 3.0.0 and update dependencies"
+  },
+  {
+    "hash": "7b2a08d",
+    "message": "fix: removing RDM entrypoints (#74)"
+  },
+  {
+    "hash": "12da5a5",
+    "message": "APP_RDM_RECORD_LANDING_PAGE_EXTERNAL_LINKS config variable default"
+  },
+  {
+    "hash": "c4c6a5f",
+    "message": "using same routes for reqeusts as in invenio"
+  },
+  {
+    "hash": "cab3cc1",
+    "message": "added tests"
+  },
+  {
+    "hash": "861e9e2",
+    "message": "added ui resource config to hold ui components"
+  },
+  {
+    "hash": "a1df3b9",
+    "message": "[skip ci] Bump version to 1.0.0dev46"
+  },
+  {
+    "hash": "6b449f3",
+    "message": "Config refactor (#56)"
+  },
+  {
+    "hash": "e4016e8",
+    "message": "using rdm resource configs for file resources (#68)"
+  },
+  {
+    "hash": "8110209",
+    "message": "[skip ci] Bump version to 1.0.0dev45"
+  },
+  {
+    "hash": "f6b1db6",
+    "message": "oai properties in exports; oai serializer for single model bug fix (#71)"
+  },
+  {
+    "hash": "cf69d69",
+    "message": "corrected tests to run with new invenio dependencies; format (#72)"
+  },
+  {
+    "hash": "4fd6a17",
+    "message": "[skip ci] Bump version to 1.0.0dev44"
+  },
+  {
+    "hash": "04ef373",
+    "message": "fully delegating methods in main service subservices too (#65)"
+  },
+  {
+    "hash": "55b0829",
+    "message": "[skip ci] Bump version to 1.0.0dev43"
+  },
+  {
+    "hash": "0abe500",
+    "message": "fixed tests"
+  },
+  {
+    "hash": "3f514b5",
+    "message": "deposit_edit route added"
+  },
+  {
+    "hash": "8a05dfa",
+    "message": "[skip ci] Bump version to 1.0.0dev42"
+  },
+  {
+    "hash": "b7b9169",
+    "message": "added test for components"
+  },
+  {
+    "hash": "33dcd2e",
+    "message": "test coverage"
+  },
+  {
+    "hash": "c828e97",
+    "message": "moved components from datarepo"
+  },
+  {
+    "hash": "8beeefc",
+    "message": "fixed linter issues"
+  },
+  {
+    "hash": "1e817d5",
+    "message": "added field labels for dates"
+  },
+  {
+    "hash": "f609303",
+    "message": "added test"
+  },
+  {
+    "hash": "15b20f9",
+    "message": "using appropriate multiplexing schema"
+  },
+  {
+    "hash": "7e1ab7e",
+    "message": "[skip ci] Bump version to 1.0.0dev41"
+  },
+  {
+    "hash": "cfa3182",
+    "message": "extra field test (#61)"
+  },
+  {
+    "hash": "1652f16",
+    "message": "Specialized services delegation (#58)"
+  },
+  {
+    "hash": "d040cd6",
+    "message": "Update oarepo_rdm/initial_config.py"
+  },
+  {
+    "hash": "41bab2d",
+    "message": "Add sidebar templates to initial RDM configuration"
+  },
+  {
+    "hash": "f50c78e",
+    "message": "[skip ci] Bump version to 1.0.0dev40"
+  },
+  {
+    "hash": "8d0412c",
+    "message": "added request routes config"
+  },
+  {
+    "hash": "960f76b",
+    "message": "[skip ci] Bump version to 1.0.0dev39"
+  },
+  {
+    "hash": "db7e5f7",
+    "message": "RDM UI serializer for complete profile (#53)"
+  },
+  {
+    "hash": "a6b9214",
+    "message": "[skip ci] Bump version to 1.0.0dev38"
+  },
+  {
+    "hash": "aa96c8f",
+    "message": "fixed csv mimetype"
+  },
+  {
+    "hash": "336be50",
+    "message": "[skip ci] Bump version to 1.0.0dev37"
+  },
+  {
+    "hash": "110cd6e",
+    "message": "Analyzers in percolation (#51)"
+  },
+  {
+    "hash": "7ab4834",
+    "message": "[skip ci] Bump version to 1.0.0dev36"
+  },
+  {
+    "hash": "46942f6",
+    "message": "added required tag for creators"
+  },
+  {
+    "hash": "2cac519",
+    "message": "[skip ci] Bump version to 1.0.0dev35"
+  },
+  {
+    "hash": "b76bd0c",
+    "message": "Default exports for rdm-complete preset (#49)"
+  },
+  {
+    "hash": "029c0c5",
+    "message": "[skip ci] Bump version to 1.0.0dev34"
+  },
+  {
+    "hash": "ae9a58e",
+    "message": "Remove UI subjects (#48)"
+  },
+  {
+    "hash": "05395af",
+    "message": "[skip ci] Bump version to 1.0.0dev33"
+  },
+  {
+    "hash": "786c443",
+    "message": "Removing empty elements from ui serialization (#47)"
+  },
+  {
+    "hash": "2308362",
+    "message": "[skip ci] Bump version to 1.0.0dev32"
+  },
+  {
+    "hash": "de8e3d0",
+    "message": "Fixed rights: added link (#46)"
+  },
+  {
+    "hash": "58d43c4",
+    "message": "[skip ci] Bump version to 1.0.0dev31"
+  },
+  {
+    "hash": "9c31c20",
+    "message": "rights as a vocabulary (#45)"
+  }
+]

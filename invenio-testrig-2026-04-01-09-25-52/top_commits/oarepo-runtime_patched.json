@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "5d419d3",
+    "message": "major version bump"
+  },
+  {
+    "hash": "39e1059",
+    "message": "[skip ci] Bump version to 2.0.0dev59"
+  },
+  {
+    "hash": "78fa007",
+    "message": "added not link condition and is_drat (#397)"
+  },
+  {
+    "hash": "16d1a94",
+    "message": "[skip ci] Bump version to 2.0.0dev58"
+  },
+  {
+    "hash": "ee7e2e8",
+    "message": "setuptools version < 82"
+  },
+  {
+    "hash": "4e63cb6",
+    "message": "[skip ci] Bump version to 2.0.0dev57"
+  },
+  {
+    "hash": "514778b",
+    "message": "unnecessary-lambda (PLW0108) fixes"
+  },
+  {
+    "hash": "0d77fa3",
+    "message": "AdministrationWithQueryFilter moved from oarepo-oai-pmh-harverster"
+  },
+  {
+    "hash": "e191961",
+    "message": "[skip ci] Bump version to 2.0.0dev56"
+  },
+  {
+    "hash": "8d01115",
+    "message": "fix: Check for empty value when signposting license URL."
+  },
+  {
+    "hash": "3ab0671",
+    "message": "[skip ci] Bump version to 2.0.0dev55"
+  },
+  {
+    "hash": "a5b06bc",
+    "message": "escaping quotes in urls"
+  },
+  {
+    "hash": "7d725dd",
+    "message": "refactor"
+  },
+  {
+    "hash": "34e462a",
+    "message": "refactor redundant new_tree variable"
+  },
+  {
+    "hash": "cc91b31",
+    "message": "calling visit only once"
+  },
+  {
+    "hash": "87996b7",
+    "message": "codecov bot complaint"
+  },
+  {
+    "hash": "5ad61e2",
+    "message": "tests and http url bug fix"
+  },
+  {
+    "hash": "2c518e9",
+    "message": "special case url queries"
+  },
+  {
+    "hash": "970ea23",
+    "message": "using luqum.tree.Phrase on words with illegal elasticsearch characters"
+  },
+  {
+    "hash": "7282831",
+    "message": "[skip ci] Bump version to 2.0.0dev54"
+  },
+  {
+    "hash": "a89ebd2",
+    "message": "More tests"
+  },
+  {
+    "hash": "f3d9823",
+    "message": "feat: IfDraftType generator"
+  },
+  {
+    "hash": "b89884a",
+    "message": "[skip ci] Bump version to 2.0.0dev53"
+  },
+  {
+    "hash": "4c16a8a",
+    "message": "Added luqum transformer that raises exception on invalid characters"
+  },
+  {
+    "hash": "f73f4cb",
+    "message": "[skip ci] Bump version to 2.0.0dev52"
+  },
+  {
+    "hash": "61dce84",
+    "message": "Separated facet path and name, added facet kwargs (#387)"
+  },
+  {
+    "hash": "5407b93",
+    "message": "[skip ci] Bump version to 2.0.0dev51"
+  },
+  {
+    "hash": "d2395d7",
+    "message": "tests"
+  },
+  {
+    "hash": "a87d56b",
+    "message": "fix: translated facet labels"
+  },
+  {
+    "hash": "578d14d",
+    "message": "[skip ci] Bump version to 2.0.0dev50"
+  },
+  {
+    "hash": "cdd4b44",
+    "message": "fix: return empty linkset during signposting error"
+  },
+  {
+    "hash": "7eae4a2",
+    "message": "[skip ci] Bump version to 2.0.0dev49"
+  },
+  {
+    "hash": "c04e38c",
+    "message": "Optional OAI name"
+  },
+  {
+    "hash": "149eed9",
+    "message": "[skip ci] Bump version to 2.0.0dev48"
+  },
+  {
+    "hash": "b722720",
+    "message": "Fixed tests"
+  },
+  {
+    "hash": "a1a498d",
+    "message": "format changes"
+  },
+  {
+    "hash": "72a83f3",
+    "message": "Fix model features - renamed in model"
+  },
+  {
+    "hash": "d5c5d3b",
+    "message": "Reworked readme"
+  },
+  {
+    "hash": "694881f",
+    "message": "Bump version to 2.0.0dev47"
+  },
+  {
+    "hash": "b68dd87",
+    "message": "fix: add missing blueprint"
+  },
+  {
+    "hash": "a516d83",
+    "message": "python version increased to 3.14"
+  },
+  {
+    "hash": "e7bea6b",
+    "message": "Bump version to 2.0.0dev46"
+  },
+  {
+    "hash": "b09106b",
+    "message": "fix: Add parameter include_reverse_relations to create_linkset to allow not including inverse relations in generated linkset. Replace special characters in signposted URLs of filenames. Include DOI if it's present in the datacite dictionary."
+  },
+  {
+    "hash": "95be5ba",
+    "message": "Bump version to 2.0.0dev45"
+  },
+  {
+    "hash": "3932712",
+    "message": "fix: Split mimetype correctly during extension guessing."
+  },
+  {
+    "hash": "70e4eaf",
+    "message": "Bump version to 2.0.0dev44"
+  },
+  {
+    "hash": "ab10c53",
+    "message": "feat: Add a generalized function to OARepoRuntime to retrieve export of a record item in a correct format based on representation parameter. Add extension property to Export class and try to guess extension in __post_init__."
+  },
+  {
+    "hash": "066530f",
+    "message": "Bump version to 2.0.0dev43"
+  },
+  {
+    "hash": "254a0f6",
+    "message": "feat: added oarepo-model's namespace to API"
+  },
+  {
+    "hash": "77c20ac",
+    "message": "Bump version to 2.0.0dev42"
+  }
+]

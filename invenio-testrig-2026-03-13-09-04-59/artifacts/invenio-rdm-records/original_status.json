@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "s3",
+      "devs",
+      "s3fs",
+      "oaipmh",
+      "rdf",
+      "sparql",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "22.7.3",
+      "base": null,
+      "branch": "v22.7.3",
+      "commit": "0c89a21d81fbdd185982b76faf6b0055e9efca70",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-rdm-records",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-rdm-records"
+    },
+    "slow": true,
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "25.0.0",
+      "base": null,
+      "branch": null,
+      "commit": "5052c102b3acf2cbdcda21f9d15efc89a194ca22",
+      "commits_from_version": [
+        "5052c102b3acf2cbdcda21f9d15efc89a194ca22"
+      ],
+      "org": "inveniosoftware",
+      "package": "invenio-rdm-records",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-rdm-records"
+    }
+  },
+  "status": "success"
+}

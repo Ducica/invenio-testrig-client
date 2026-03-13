@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "f4c2977",
+    "message": "Major bump induced by invenio-rdm-records major bump"
+  },
+  {
+    "hash": "43a94b1",
+    "message": "Major version bump"
+  },
+  {
+    "hash": "07df76b",
+    "message": "Removed invenio entrypoints"
+  },
+  {
+    "hash": "7af507f",
+    "message": "[skip ci] Bump version to 2.0.0dev4"
+  },
+  {
+    "hash": "e68a660",
+    "message": "modified oarepo-ui dependency"
+  },
+  {
+    "hash": "03e4f94",
+    "message": "[skip ci] Bump version to 2.0.0dev3"
+  },
+  {
+    "hash": "4a2f2bd",
+    "message": "feat: adding itself to main manu configurable via invenio.cfg"
+  },
+  {
+    "hash": "2833265",
+    "message": "Bump version to 2.0.0dev2"
+  },
+  {
+    "hash": "0e3f44c",
+    "message": "fix: typing"
+  },
+  {
+    "hash": "4e73c82",
+    "message": "use ci-controlled package manager"
+  },
+  {
+    "hash": "875198b",
+    "message": "chore(deps): add oarepo14 optional dep"
+  },
+  {
+    "hash": "ad47d27",
+    "message": "chore(deps): update deps"
+  },
+  {
+    "hash": "9b6c110",
+    "message": "Bump version to 2.0.0dev1"
+  },
+  {
+    "hash": "12d9074",
+    "message": "using RDM dashboard"
+  },
+  {
+    "hash": "e0aa526",
+    "message": "fixed linter issues (#31)"
+  },
+  {
+    "hash": "c3a1d08",
+    "message": "Merge pull request #30 from oarepo/stojanovic/fe-404-changed-filename-in-oarepo-ui-searchappsearchbarelement"
+  },
+  {
+    "hash": "ae78eb5",
+    "message": "fix: removed import from non existing file"
+  },
+  {
+    "hash": "801ec29",
+    "message": "Merge pull request #29 from oarepo/origin/stojanovic/fe-380-opravit-nestandardni-chovani-filtru-pres-klicove-slovo"
+  },
+  {
+    "hash": "59bd69d",
+    "message": "fix: added ignored filters to requests search app"
+  },
+  {
+    "hash": "fec76f6",
+    "message": "Merge pull request #28 from oarepo/stojanovic/be-808-historie-zadosti-zaznamu-v-zadostech"
+  },
+  {
+    "hash": "ed204d2",
+    "message": "fix: using all filter for open/closed button grou"
+  },
+  {
+    "hash": "6ef7fbb",
+    "message": "refactor: moved components from oarepo-dasbhoard * oarepo-dashboard depends on both requests and communities and therefore the components should be in those respective repositories and imported to dashboard/elsewhere"
+  },
+  {
+    "hash": "8ed8380",
+    "message": "added request topic label to request list item (#27)"
+  },
+  {
+    "hash": "6414595",
+    "message": "community list item pointing to community landing page (#26)"
+  },
+  {
+    "hash": "9427e4d",
+    "message": "draft-sort-options-on-me-route (#25)"
+  },
+  {
+    "hash": "b0c5c16",
+    "message": "Merge pull request #24 from oarepo/stojanovic/fe-121-refactor-resultlistitem-for-requests"
+  },
+  {
+    "hash": "6913c3e",
+    "message": "dynamic item for requests app"
+  },
+  {
+    "hash": "66a323c",
+    "message": "Merge pull request #23 from oarepo/not-displaying-new-button-if-config-missing"
+  },
+  {
+    "hash": "76cff0e",
+    "message": "not rendering new record btn when config variable not present"
+  },
+  {
+    "hash": "7069261",
+    "message": "Merge pull request #22 from oarepo/stojanovic/fe-320-fix-multiple-receivers-in-request-list-items"
+  },
+  {
+    "hash": "51c79bb",
+    "message": "fixed code smells"
+  },
+  {
+    "hash": "6a5ce76",
+    "message": "fixed translations"
+  },
+  {
+    "hash": "239f7c3",
+    "message": "multiple recepients for request"
+  },
+  {
+    "hash": "ac89504",
+    "message": "Merge pull request #21 from oarepo/miroslavsimek/fe-303-implicitne-nezobrazene-zadosti-na-schvaleni-na-dashboardu"
+  },
+  {
+    "hash": "764fd64",
+    "message": "feat: \"filter\" for \"all\" requests, made default"
+  },
+  {
+    "hash": "c3e043e",
+    "message": "translations"
+  },
+  {
+    "hash": "a06de83",
+    "message": "Added all requests - needs oarepo-requests changes to work"
+  },
+  {
+    "hash": "0573d09",
+    "message": "Merge pull request #20 from oarepo/fix-permission-checking"
+  },
+  {
+    "hash": "2fd6ff0",
+    "message": "fixed taking permission from session"
+  },
+  {
+    "hash": "3863860",
+    "message": "Merge pull request #19 from oarepo/stojanovic/ep-138-new-record-creation-dashboard"
+  },
+  {
+    "hash": "bd62d80",
+    "message": "correct permission check for new draft button on records page"
+  },
+  {
+    "hash": "7d5258f",
+    "message": "Release 1.0.14"
+  },
+  {
+    "hash": "b28f328",
+    "message": "Merge pull request #18 from oarepo/assign-doi-specific-cmp"
+  },
+  {
+    "hash": "633d277",
+    "message": "version bmp"
+  },
+  {
+    "hash": "80404ce",
+    "message": "added assign doi specific cmps"
+  },
+  {
+    "hash": "985e179",
+    "message": "Merge pull request #17 from oarepo/escaped-strings-from-server-i18next"
+  },
+  {
+    "hash": "6a43d46",
+    "message": "added html component to ui resources"
+  },
+  {
+    "hash": "e88de40",
+    "message": "fixed escaped rendering of strings coming from srvr"
+  },
+  {
+    "hash": "32d8c28",
+    "message": "Merge pull request #16 from oarepo/stojanovic/fe-259-dashboard-requests"
+  },
+  {
+    "hash": "315a392",
+    "message": "Merge remote-tracking branch 'origin/main' into stojanovic/fe-259-dashboard-requests"
+  }
+]

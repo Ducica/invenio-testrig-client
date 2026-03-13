@@ -1,0 +1,179 @@
+Downloading .runner.sh from oarepo repository
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100 34864  100 34864    0     0   399k      0 --:--:-- --:--:-- --:--:--  400k
+No test-setup.sh found, skipping extra test setup
+Installed 3 packages in 10ms
+ redis Pulling 
+ opensearch Pulling 
+ postgresql Pulling 
+ rabbitmq Pulling 
+ minio Pulling 
+ redis Pulled 
+ minio Pulled 
+ rabbitmq Pulled 
+ postgresql Pulled 
+ opensearch Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-minio-1  Creating
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-rabbitmq-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-minio-1  Created
+ Container docker_services_cli-rabbitmq-1  Created
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-minio-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-rabbitmq-1  Starting
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-minio-1  Started
+ Container docker_services_cli-opensearch-1  Started
+ Container docker_services_cli-rabbitmq-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched
+configfile: pyproject.toml
+plugins: pydocstyle-2.4.0, pycodestyle-2.5.0, Faker-40.12.0, cov-7.1.0, github-actions-annotate-failures-0.4.0, invenio-4.0.1, flask-1.3.0, isort-4.0.0
+collected 70 items
+tests/test_delegating.py 
+                                            [  5%]
+tests/test_extra_top_level_field.py 
+                                   [  8%]
+tests/test_info_component.py 
+                                           [ 10%]
+tests/test_invenio_index_init.py 
+                                       [ 11%]
+tests/test_mapping.py 
+                                                  [ 12%]
+tests/test_multiplexing_schema.py 
+                                   [ 18%]
+tests/test_parent_indexing.py 
+                                         [ 21%]
+tests/test_pid.py 
+                                                     [ 24%]
+tests/test_rdm_crud.py 
+                                             [ 31%]
+tests/test_resources.py 
+                                          [ 41%]
+tests/test_runtime_model.py 
+                                            [ 42%]
+tests/test_schema.py 
+                                                  [ 45%]
+tests/test_search.py 
+                                          [ 60%]
+tests/test_search_drafts.py 
+                                            [ 61%]
+tests/test_secret_links.py s                                             [ 62%]
+tests/test_service.py 
+                                             [ 71%]
+tests/test_service_tasks.py 
+                                         [ 77%]
+tests/test_ui/test_oai.py 
+                                      [ 90%]
+tests/test_ui/test_ui_components.py 
+                                  [ 94%]
+tests/test_ui/test_views.py 
+                                         [100%]
+=============================== warnings summary ===============================
+venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:64
+    "self": RequestFileLink("{+api}/requests/{request_id}/files/{key}"),
+venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:65
+    "content": RequestFileLink("{+api}/requests/{request_id}/files/{key}/content"),
+venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:66
+    "download_html": RequestFileLink("{+ui}/requests/{request_id}/files/{key}"),
+venv/lib/python3.14/site-packages/marshmallow/fields.py:1218
+venv/lib/python3.14/site-packages/marshmallow/fields.py:1218
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py:1218: RemovedInMarshmallow4Warning: The 'missing' argument to fields is deprecated. Use 'load_default' instead
+    super().__init__(**kwargs)
+venv/lib/python3.14/site-packages/invenio_rdm_records/services/facets.py:76
+    warn(
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py:334: SAWarning: nested transaction already deassociated from connection
+    with db.session.begin_nested():
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/.venv/lib/python3.14/site-packages/invenio_db/uow.py:193: SAWarning: nested transaction already deassociated from connection
+    self.session.commit()
+    warnings.warn(
+    warn(
+    warn(
+    self.init_app(app)
+    warnings.warn(
+tests/test_invenio_index_init.py::test_index_init
+    warnings.warn(message)
+tests/test_multiplexing_schema.py::test_multiplexing_schema_load_single
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/tests/test_multiplexing_schema.py:36: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = MultiplexingSchema(context={"identity": identity_simple})
+tests/test_multiplexing_schema.py::test_multiplexing_schema_load_many
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/tests/test_multiplexing_schema.py:56: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = MultiplexingSchema(context={"identity": identity_simple})
+tests/test_multiplexing_schema.py::test_multiplexing_schema_dump_single
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/tests/test_multiplexing_schema.py:79: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = MultiplexingSchema(context={"identity": identity_simple})
+tests/test_multiplexing_schema.py::test_multiplexing_schema_dump_many
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/tests/test_multiplexing_schema.py:110: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    schema = MultiplexingSchema(context={"identity": identity_simple})
+tests/test_rdm_crud.py::test_delete
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py:495: SAWarning: nested transaction already deassociated from connection
+    with db.session.begin_nested():
+tests/test_resources.py::test_list_with_model_a_and_b
+tests/test_resources.py::test_list_with_model_a_and_b_and_c
+tests/test_resources.py::test_read
+tests/test_resources.py::test_read
+tests/test_resources.py::test_draft_file_ui_serialization
+tests/test_resources.py::test_file_ui_serialization
+tests/test_resources.py::test_file_ui_serialization
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py:61: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    super().__init__(**kwargs)
+tests/test_resources.py::test_list_with_model_a_and_b
+tests/test_resources.py::test_list_with_model_a_and_b_and_c
+    warn(
+tests/test_resources.py::test_list_with_model_a_and_b
+tests/test_resources.py::test_list_with_model_a_and_b_and_c
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/.venv/lib/python3.14/site-packages/flask_resources/parsers/schema.py:76: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    object_schema = object_schema_cls(context=self.context)
+tests/test_resources.py::test_list_with_model_a_and_b
+tests/test_resources.py::test_list_with_model_a_and_b_and_c
+    warn(
+tests/test_resources.py::test_read
+tests/test_resources.py::test_read
+tests/test_resources.py::test_draft_file_ui_serialization
+tests/test_resources.py::test_file_ui_serialization
+tests/test_resources.py::test_file_ui_serialization
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/.venv/lib/python3.14/site-packages/flask_resources/serializers/base.py:56: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    self.object_schema = object_schema_cls(
+tests/test_resources.py::test_read
+tests/test_resources.py::test_read
+tests/test_resources.py::test_draft_file_ui_serialization
+tests/test_resources.py::test_file_ui_serialization
+tests/test_resources.py::test_file_ui_serialization
+    warn(
+tests/test_resources.py::test_read
+tests/test_resources.py::test_read
+tests/test_resources.py::test_draft_file_ui_serialization
+tests/test_resources.py::test_file_ui_serialization
+tests/test_resources.py::test_file_ui_serialization
+    warn(
+tests/test_resources.py::test_read
+tests/test_resources.py::test_read
+tests/test_resources.py::test_read
+tests/test_resources.py::test_read
+tests/test_resources.py::test_read
+tests/test_resources.py::test_read
+tests/test_resources.py::test_draft_file_ui_serialization
+tests/test_resources.py::test_file_ui_serialization
+tests/test_resources.py::test_file_ui_serialization
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/.venv/lib/python3.14/site-packages/marshmallow/fields.py:631: RemovedInMarshmallow4Warning: The `context` parameter is deprecated and will be removed in marshmallow 4.0. Use `contextvars.ContextVar` to pass context instead
+    self._schema = schema_class(
+tests/test_service_tasks.py::test_embargo_lift_without_draft
+tests/test_service_tasks.py::test_embargo_lift_with_draft
+tests/test_service_tasks.py::test_embargo_lift_with_updated_draft
+tests/test_service_tasks.py::test_embargo_lift_multiple_models
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/oarepo-rdm/patched/.venv/lib/python3.14/site-packages/invenio_records/api.py:442: SAWarning: nested transaction already deassociated from connection
+    with db.session.begin_nested():
+=========== 69 passed, 1 skipped, 240 warnings in 299.83s (0:04:59) ============

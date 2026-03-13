@@ -1,0 +1,74 @@
+[
+  {
+    "hash": "4e954fb",
+    "message": "Merge pull request #9 from oarepo/temporary-14.1.1"
+  },
+  {
+    "hash": "27ca28c",
+    "message": "chore: update to InvenioRDM 14"
+  },
+  {
+    "hash": "5ff70b9",
+    "message": "using pat to trigger workflow"
+  },
+  {
+    "hash": "290fd44",
+    "message": "ignoring .bin"
+  },
+  {
+    "hash": "fced552",
+    "message": "PR build workflow"
+  },
+  {
+    "hash": "b58506b",
+    "message": "PR build workflow"
+  },
+  {
+    "hash": "ef77ea2",
+    "message": "release workflow"
+  },
+  {
+    "hash": "afeb4aa",
+    "message": "Better PR body"
+  },
+  {
+    "hash": "8dcf96e",
+    "message": "Filtering for open PRs"
+  },
+  {
+    "hash": "9aa3c68",
+    "message": "renamed start, added after merge"
+  },
+  {
+    "hash": "f687623",
+    "message": "Extra libraries"
+  },
+  {
+    "hash": "9328628",
+    "message": "Extra libraries"
+  },
+  {
+    "hash": "fbb3042",
+    "message": "Better build system"
+  },
+  {
+    "hash": "703b134",
+    "message": "Better build system"
+  },
+  {
+    "hash": "b8a6f13",
+    "message": "oarepo-app-build link"
+  },
+  {
+    "hash": "32d6f4e",
+    "message": "workflow parameter"
+  },
+  {
+    "hash": "4ec82c3",
+    "message": "initial implementation of oarepo-app builder"
+  },
+  {
+    "hash": "a1e2f6a",
+    "message": "Initial commit"
+  }
+]

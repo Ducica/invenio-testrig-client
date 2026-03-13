@@ -1,0 +1,11 @@
+Downloading .runner.sh from oarepo repository
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100 34864  100 34864    0     0  1043k      0 --:--:-- --:--:-- --:--:-- 1063k
+No test-setup.sh found, skipping extra test setup
+ Container docker_services_cli-minio-1  Running
+ Container docker_services_cli-opensearch-1  Running
+ Container docker_services_cli-redis-1  Running
+ Container docker_services_cli-rabbitmq-1  Running
+ Container docker_services_cli-postgresql-1  Running

@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "b373627d",
+    "message": "copilog suggestions"
+  },
+  {
+    "hash": "3c85fd3a",
+    "message": "fixed more inputs"
+  },
+  {
+    "hash": "9dd1f918",
+    "message": "fixed overriding model data with explicit prop passing"
+  },
+  {
+    "hash": "79b1a6f4",
+    "message": "Potential fix for pull request finding"
+  },
+  {
+    "hash": "e9fa7d96",
+    "message": "communities memberships on detail"
+  },
+  {
+    "hash": "3d20e79c",
+    "message": "[skip ci] Bump version to 7.0.0dev9"
+  },
+  {
+    "hash": "ee9a0671",
+    "message": "fixed tests"
+  },
+  {
+    "hash": "d1124119",
+    "message": "Extract DataciteSerializer to module level"
+  },
+  {
+    "hash": "a425f33b",
+    "message": "Add per-model sidebar configuration support"
+  },
+  {
+    "hash": "a557dc31",
+    "message": "[skip ci] Bump version to 7.0.0dev8"
+  },
+  {
+    "hash": "7c7529ca",
+    "message": "returning null instead of undefined"
+  },
+  {
+    "hash": "b1ad0f6e",
+    "message": "[skip ci] Bump version to 7.0.0dev7"
+  },
+  {
+    "hash": "31cd091b",
+    "message": "Rename THEME_FRONTPAGE_RECORDS_LIST_SEARCH_MORE_ENDPOINT to THEME_SEARCH_ENDPOINT"
+  },
+  {
+    "hash": "668ce64b",
+    "message": "added back form title as used in vocabularies"
+  },
+  {
+    "hash": "0a83d13d",
+    "message": "added tests"
+  },
+  {
+    "hash": "484af59b",
+    "message": "using oarepo-pytest"
+  },
+  {
+    "hash": "c0735be9",
+    "message": "added tests"
+  },
+  {
+    "hash": "f06252ab",
+    "message": "setting preselected community properly"
+  },
+  {
+    "hash": "41bbd5b7",
+    "message": "fixed up decorator"
+  },
+  {
+    "hash": "5476638b",
+    "message": "pass draft community"
+  },
+  {
+    "hash": "d39dbd32",
+    "message": "Update oarepo_ui/resources/decorators/pass_draft_community.py"
+  },
+  {
+    "hash": "62fbdc8e",
+    "message": "added communities to deposit_create/edit"
+  },
+  {
+    "hash": "342270f8",
+    "message": "[skip ci] Bump version to 7.0.0dev6"
+  },
+  {
+    "hash": "c395cb4c",
+    "message": "Stojanovic/fe 454 oarepo UI create a generic uploadnew page (#415)"
+  },
+  {
+    "hash": "ab0bed1b",
+    "message": "[skip ci] Bump version to 7.0.0dev5"
+  },
+  {
+    "hash": "a700993a",
+    "message": "removed uploads redirect - it will be in oarepo-rdm"
+  },
+  {
+    "hash": "fd433da7",
+    "message": "[skip ci] Bump version to 7.0.0dev4"
+  },
+  {
+    "hash": "4af0936d",
+    "message": "Testing form wizard (#376)"
+  },
+  {
+    "hash": "4a1eafa6",
+    "message": "Remove super() from javascript blocks in deposit templates"
+  },
+  {
+    "hash": "0f4af7c4",
+    "message": "safer contributor role serialization"
+  },
+  {
+    "hash": "8503663d",
+    "message": "Apply suggestions from code review"
+  },
+  {
+    "hash": "6f0addad",
+    "message": "modifications proven necessary while working on datarepo form"
+  },
+  {
+    "hash": "2d00a941",
+    "message": "[skip ci] Bump version to 7.0.0dev3"
+  },
+  {
+    "hash": "5e605bc5",
+    "message": "fix: fixed main.html to just contain article *due to changed structure, it does not make sense for main.html to *contain also sidebar. The detail page renders sidebar inside of main *content and also on the right hand side"
+  },
+  {
+    "hash": "31ccbea7",
+    "message": "[skip ci] Bump version to 7.0.0dev2"
+  },
+  {
+    "hash": "b7e9d5c7",
+    "message": "major version bump"
+  },
+  {
+    "hash": "dd057f62",
+    "message": "fix(types): add type ignore for mypy arg-type inference on dict unpacking"
+  },
+  {
+    "hash": "bf17effb",
+    "message": "feat(config): add tombstone and not_found to default templates"
+  },
+  {
+    "hash": "e06dc213",
+    "message": "fix(tests): update test_default_templates_config for new template config"
+  },
+  {
+    "hash": "fa1d903c",
+    "message": "refactor(templating): implement JinjaX page component pattern"
+  },
+  {
+    "hash": "6d720228",
+    "message": "refactor: wip implement review feedback"
+  },
+  {
+    "hash": "874ed326",
+    "message": "feat(templating): runtime JinjaX page component generation"
+  },
+  {
+    "hash": "d7c0e477",
+    "message": "removed custom less components"
+  },
+  {
+    "hash": "b527614a",
+    "message": "redirection from uploads/pid_value (#406)"
+  },
+  {
+    "hash": "2abdb76e",
+    "message": "feat: add localized filter for multilingual FieldData values (#404)"
+  },
+  {
+    "hash": "7c5bc060",
+    "message": "[skip ci] Bump version to 6.0.0dev33"
+  },
+  {
+    "hash": "b7facdae",
+    "message": "fix: remove record_management.js from RecordDetail.jinja (#405)"
+  },
+  {
+    "hash": "50efd0ff",
+    "message": "[skip ci] Bump version to 6.0.0dev32"
+  },
+  {
+    "hash": "9cf61fe5",
+    "message": "fix(record-detail): add page_body block"
+  },
+  {
+    "hash": "202fcc17",
+    "message": "[skip ci] Bump version to 6.0.0dev31"
+  }
+]

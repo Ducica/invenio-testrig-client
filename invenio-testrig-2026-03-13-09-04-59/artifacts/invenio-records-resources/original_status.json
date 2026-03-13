@@ -1,0 +1,57 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "s3",
+      "devs",
+      "s3fs",
+      "oaipmh",
+      "rdf",
+      "sparql",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "8.7.1",
+      "base": null,
+      "branch": "fix-read-many",
+      "commit": "5911e5bba6dcd750fd8ba86584ddb5e940a7a3de",
+      "commits_from_version": [
+        "a5c2ecb7f22b873523277847b82b7330787b00ea",
+        "c6b973a14802e2a7f73100ab4e32cb0c36bd4672",
+        "5911e5bba6dcd750fd8ba86584ddb5e940a7a3de"
+      ],
+      "org": "inveniosoftware",
+      "package": "invenio-records-resources",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-records-resources"
+    },
+    "slow": false,
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "9.1.0",
+      "base": null,
+      "branch": null,
+      "commit": "1a772dd198dcf474948f627613a541f0f3328c38",
+      "commits_from_version": [
+        "1a772dd198dcf474948f627613a541f0f3328c38"
+      ],
+      "org": "inveniosoftware",
+      "package": "invenio-records-resources",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-records-resources"
+    }
+  },
+  "status": "success"
+}

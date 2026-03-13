@@ -1,0 +1,126 @@
+{
+  "config_name": "Invenio Testrig",
+  "patch_mode": "Upstream baseline (patches rebased on upstream, unpatched are upstream)",
+  "test_mode": "Test patched first, retry unpatched on failure",
+  "test_scope": "All packages",
+  "started_at": "2026-04-01 09:22:41 UTC",
+  "python_version": "3.14.2",
+  "last_updated": "2026-04-01 09:23:14 UTC",
+  "status": "In Progress",
+  "status_class": "in-progress",
+  "status_icon": "\ud83d\udd04",
+  "completed": false,
+  "has_errors": false,
+  "packages": [],
+  "repository": {
+    "info": {
+      "reference": {
+        "org": "oarepo",
+        "repo": "oarepo-reference-repo",
+        "package": "oarepo-reference-repo",
+        "branch": "main",
+        "pr": null,
+        "base": null,
+        "pr_info": null,
+        "commit": "94a9dfb63fa1982cfac27daa4a3495138ecd0bee",
+        "actual_version": null,
+        "commits_from_version": []
+      },
+      "github_entry": {
+        "_extra": {},
+        "org": "oarepo",
+        "test": [],
+        "install": [],
+        "include": [],
+        "exclude": [],
+        "package_map": {},
+        "extras": [],
+        "freeze": [],
+        "slow_packages": {},
+        "default_branch": null
+      },
+      "patches": [],
+      "unpatched_reference": null,
+      "patched_reference": null
+    },
+    "artefact_dir": "artifacts/repo",
+    "patched": {
+      "status": "pending",
+      "package": {
+        "reference": {
+          "org": "oarepo",
+          "repo": "oarepo-reference-repo",
+          "package": "oarepo-reference-repo",
+          "branch": "main",
+          "pr": null,
+          "base": null,
+          "pr_info": null,
+          "commit": "94a9dfb63fa1982cfac27daa4a3495138ecd0bee",
+          "actual_version": null,
+          "commits_from_version": []
+        },
+        "github_entry": {
+          "_extra": {},
+          "org": "oarepo",
+          "test": [],
+          "install": [],
+          "include": [],
+          "exclude": [],
+          "package_map": {},
+          "extras": [],
+          "freeze": [],
+          "slow_packages": {},
+          "default_branch": null
+        },
+        "patches": [],
+        "unpatched_reference": null,
+        "patched_reference": null
+      },
+      "dependencies": []
+    },
+    "original": {
+      "status": "pending",
+      "package": {
+        "reference": {
+          "org": "oarepo",
+          "repo": "oarepo-reference-repo",
+          "package": "oarepo-reference-repo",
+          "branch": "main",
+          "pr": null,
+          "base": null,
+          "pr_info": null,
+          "commit": "94a9dfb63fa1982cfac27daa4a3495138ecd0bee",
+          "actual_version": null,
+          "commits_from_version": []
+        },
+        "github_entry": {
+          "_extra": {},
+          "org": "oarepo",
+          "test": [],
+          "install": [],
+          "include": [],
+          "exclude": [],
+          "package_map": {},
+          "extras": [],
+          "freeze": [],
+          "slow_packages": {},
+          "default_branch": null
+        },
+        "patches": [],
+        "unpatched_reference": null,
+        "patched_reference": null
+      },
+      "dependencies": []
+    }
+  },
+  "repository_e2e": null,
+  "regression_count": 0,
+  "still_failing_count": 0,
+  "total_packages_count": 0,
+  "patched_packages_count": 0,
+  "unpatched_packages_count": 0,
+  "ok_count": 0,
+  "packages_without_patches": [],
+  "patched_packages": [],
+  "packages_with_patched_dependencies": []
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "67dd03e",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b10.dev6+1.rdm.14.0.0b10.dev6"
+  },
+  {
+    "hash": "bc8822e",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b10.dev5+1.rdm.14.0.0b10.dev5"
+  },
+  {
+    "hash": "fd0ba7a",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b9.dev0+6.rdm.14.0.0b9.dev0"
+  },
+  {
+    "hash": "674aff2",
+    "message": "test runner script (#223)"
+  },
+  {
+    "hash": "e3a0db2",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b9.dev0+5.rdm.14.0.0b9.dev0"
+  },
+  {
+    "hash": "c14f8cb",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b9.dev0+4.rdm.14.0.0b9.dev0"
+  },
+  {
+    "hash": "4f48085",
+    "message": "Moved rdm initial config to oarepo package (#222)"
+  },
+  {
+    "hash": "6c9d860",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b9.dev0+3.rdm.14.0.0b9.dev0"
+  },
+  {
+    "hash": "784d6f2",
+    "message": "merging collections along config construction (#208)"
+  },
+  {
+    "hash": "205f123",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b9.dev0+2.rdm.14.0.0b9.dev0"
+  },
+  {
+    "hash": "1fc02c1",
+    "message": "OAISERVER_REPOSITORY_NAME configuration (#219)"
+  },
+  {
+    "hash": "64944ee",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b9.dev0+1.rdm.14.0.0b9.dev0"
+  },
+  {
+    "hash": "5ba8944",
+    "message": "fix: moved imports inside of the function to prevent crashing in context of libraries (#217)"
+  },
+  {
+    "hash": "5f2823f",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b8.dev0+2.rdm.14.0.0b8.dev0"
+  },
+  {
+    "hash": "2eba61c",
+    "message": "upload to cesnet pypi (#216)"
+  },
+  {
+    "hash": "17b31db",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b8.dev0+1.rdm.14.0.0b8.dev0"
+  },
+  {
+    "hash": "fb3d653",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b5.dev4+5.rdm.14.0.0b5.dev4"
+  },
+  {
+    "hash": "13ab320",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b5.dev4+4.rdm.14.0.0b5.dev4"
+  },
+  {
+    "hash": "90c8461",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b5.dev4+3.rdm.14.0.0b5.dev4"
+  },
+  {
+    "hash": "60915f5",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.2.1b5.dev4+2.rdm.14.0.0b5.dev4"
+  },
+  {
+    "hash": "39c4489",
+    "message": "Update version to 14"
+  },
+  {
+    "hash": "c4b801d",
+    "message": "Bump version to 14.2.0dev0 (#205)"
+  },
+  {
+    "hash": "3104b03",
+    "message": "Update Python version and author details in pyproject.toml (#204)"
+  },
+  {
+    "hash": "7e32c98",
+    "message": "Update branch references from rdm-13 to rdm-14 (#203)"
+  },
+  {
+    "hash": "35ecb73",
+    "message": "dawda"
+  },
+  {
+    "hash": "3c4e94a",
+    "message": "Update oarepo/config/generic_parameters.py"
+  },
+  {
+    "hash": "6927ae7",
+    "message": "Update download_translations.sh"
+  },
+  {
+    "hash": "bb79901",
+    "message": "Update README.md"
+  },
+  {
+    "hash": "4edd110",
+    "message": "Update .github/workflows/from_travis.yml"
+  },
+  {
+    "hash": "e5ac9b5",
+    "message": "fixed oai server prefix variable"
+  },
+  {
+    "hash": "c32f9c2",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.1.1"
+  },
+  {
+    "hash": "d7fe587",
+    "message": "Moved imports into the respective functions (#201)"
+  },
+  {
+    "hash": "a468297",
+    "message": "minor version bump - changes in rdm records entrypoints (#200)"
+  },
+  {
+    "hash": "b835687",
+    "message": "fixed workflows config (#199)"
+  },
+  {
+    "hash": "4479ebb",
+    "message": "Config (#198)"
+  },
+  {
+    "hash": "3ca31ac",
+    "message": "identifier schemes (#195)"
+  },
+  {
+    "hash": "ee7fd22",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.24"
+  },
+  {
+    "hash": "9d3dee7",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.23"
+  },
+  {
+    "hash": "b7749c6",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.22"
+  },
+  {
+    "hash": "5d66cb9",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.21"
+  },
+  {
+    "hash": "0c03a5b",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.20"
+  },
+  {
+    "hash": "9a7047f",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.19"
+  },
+  {
+    "hash": "6e12f61",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.18"
+  },
+  {
+    "hash": "2a21ead",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.17"
+  },
+  {
+    "hash": "6e715a6",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.16"
+  },
+  {
+    "hash": "4bc063f",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.15"
+  },
+  {
+    "hash": "cd85fa2",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.14"
+  },
+  {
+    "hash": "4c367b9",
+    "message": "[invenio-integration-tests] update requirements inside pyproject.toml to make release 14.0.13"
+  },
+  {
+    "hash": "c10bd29",
+    "message": "version bump (#186)"
+  },
+  {
+    "hash": "38850d3",
+    "message": "feat: add support contact config (#185)"
+  }
+]

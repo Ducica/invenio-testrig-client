@@ -1,0 +1,142 @@
+[
+  {
+    "hash": "fd6e0f8",
+    "message": "major version bump"
+  },
+  {
+    "hash": "d9f4991",
+    "message": "Major version bump"
+  },
+  {
+    "hash": "1882d5b",
+    "message": "[skip ci] Bump version to 1.0.0dev7"
+  },
+  {
+    "hash": "4ed4137",
+    "message": "Revert \"using rdm theme for all cmps\""
+  },
+  {
+    "hash": "05bcc3d",
+    "message": "[skip ci] Bump version to 1.0.0dev6"
+  },
+  {
+    "hash": "14f0289",
+    "message": "using rdm theme for all cmps"
+  },
+  {
+    "hash": "96c9ba6",
+    "message": "[skip ci] Bump version to 1.0.0dev5"
+  },
+  {
+    "hash": "9a9e6c7",
+    "message": "fix: duplicate less overrides import"
+  },
+  {
+    "hash": "24720eb",
+    "message": "fix: remove unnecessary misleading examples"
+  },
+  {
+    "hash": "0914b07",
+    "message": "feat: refine info in README"
+  },
+  {
+    "hash": "d4f30bf",
+    "message": "Generated readme"
+  },
+  {
+    "hash": "ba01b31",
+    "message": "[skip ci] Bump version to 1.0.0dev4"
+  },
+  {
+    "hash": "45f6d7a",
+    "message": "python 3.14"
+  },
+  {
+    "hash": "7104806",
+    "message": "fix: linting deps"
+  },
+  {
+    "hash": "65e8e13",
+    "message": "fix: theme config import"
+  },
+  {
+    "hash": "5d2cf8e",
+    "message": "chore: rename package to oarepo-theme"
+  },
+  {
+    "hash": "8ace873",
+    "message": "fix: remove oarepo ui less cmps * these will be automatically added instead of hardcoded"
+  },
+  {
+    "hash": "08f7db4",
+    "message": "Bump version to 1.0.0dev3"
+  },
+  {
+    "hash": "4a26dd3",
+    "message": "fix(format): errors"
+  },
+  {
+    "hash": "4d606e0",
+    "message": "fix(tests): enumerate assets"
+  },
+  {
+    "hash": "ecb5275",
+    "message": "update oarepo dependency to rdm-14"
+  },
+  {
+    "hash": "bc1553f",
+    "message": "Bump version to 1.0.0dev2"
+  },
+  {
+    "hash": "4f67d19",
+    "message": "fix: fixing issue with site overrides being overwritten by semantic ui defaults"
+  },
+  {
+    "hash": "f18e5f2",
+    "message": "Bump version to 1.0.0dev1"
+  },
+  {
+    "hash": "8873324",
+    "message": "add autoreg todos"
+  },
+  {
+    "hash": "035fd3d",
+    "message": "fix: add missing annotations"
+  },
+  {
+    "hash": "bbad2c9",
+    "message": "chore: add license heeaders"
+  },
+  {
+    "hash": "c3b54bb",
+    "message": "chore: code reformat"
+  },
+  {
+    "hash": "abb6e87",
+    "message": "test: setup tests for webpack"
+  },
+  {
+    "hash": "d8bd5cc",
+    "message": "formatting theme.less"
+  },
+  {
+    "hash": "85bfda7",
+    "message": "custom app_theme overlay not needed"
+  },
+  {
+    "hash": "f5e78de",
+    "message": "figured out correct theme settings"
+  },
+  {
+    "hash": "66325ce",
+    "message": "add theme config"
+  },
+  {
+    "hash": "8ce3fd8",
+    "message": "initialize repository"
+  },
+  {
+    "hash": "c76dac0",
+    "message": "Initial commit"
+  }
+]

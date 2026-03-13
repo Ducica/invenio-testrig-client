@@ -1,0 +1,38 @@
+[
+  {
+    "hash": "b4b6f4a",
+    "message": "Fake test runner (#5)"
+  },
+  {
+    "hash": "92746e2",
+    "message": "Added stack traces and local variables (#4)"
+  },
+  {
+    "hash": "7178603",
+    "message": "Glitchtip logging integration (#3)"
+  },
+  {
+    "hash": "107d3d4",
+    "message": "Add glitchtip tracing performance (#2)"
+  },
+  {
+    "hash": "b8e35ac",
+    "message": "github action (#1)"
+  },
+  {
+    "hash": "f118a05",
+    "message": "github action"
+  },
+  {
+    "hash": "6e8f5a3",
+    "message": "Tests"
+  },
+  {
+    "hash": "de2dfdd",
+    "message": "Initial version"
+  },
+  {
+    "hash": "c08c78a",
+    "message": "first commit"
+  }
+]

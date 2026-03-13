@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "054e589",
+    "message": "chore: release train for new major version of oarepo"
+  },
+  {
+    "hash": "fa8b306",
+    "message": "krist/be-1001-have-a-look-at-pytest-oarepo (#178)"
+  },
+  {
+    "hash": "9c2dd3b",
+    "message": "rdm-14 removed code (#170)"
+  },
+  {
+    "hash": "42a6a5d",
+    "message": "added individual workflow into test workflows (#179)"
+  },
+  {
+    "hash": "779becd",
+    "message": "[skip ci] Bump version to 3.0.0dev5"
+  },
+  {
+    "hash": "23e93e6",
+    "message": "changes in oarepo requests service to correctly create invenio requests (#177)"
+  },
+  {
+    "hash": "e4e2ba3",
+    "message": "[skip ci] Bump version to 3.0.0dev4"
+  },
+  {
+    "hash": "ae98827",
+    "message": "General request participants fix (#175)"
+  },
+  {
+    "hash": "f056541",
+    "message": "Notifications (#168)"
+  },
+  {
+    "hash": "67a6d7d",
+    "message": "Readme (#173)"
+  },
+  {
+    "hash": "f588a0a",
+    "message": "[skip ci] Bump version to 3.0.0dev3"
+  },
+  {
+    "hash": "5f63f29",
+    "message": "Python 3.14"
+  },
+  {
+    "hash": "a63d997",
+    "message": "Bump version to 3.0.0dev2"
+  },
+  {
+    "hash": "ed4a59d",
+    "message": "Temporarily disabled ui"
+  },
+  {
+    "hash": "cf9227c",
+    "message": "removed todo"
+  },
+  {
+    "hash": "aa4f777",
+    "message": "temporary fix for invenio loading event types from entrypoints into request type registry"
+  },
+  {
+    "hash": "7576690",
+    "message": "format"
+  },
+  {
+    "hash": "ec2b0bf",
+    "message": "test event type entrypoint registration"
+  },
+  {
+    "hash": "80a6ca6",
+    "message": "format"
+  },
+  {
+    "hash": "cb2f411",
+    "message": "event types from entrypoints"
+  },
+  {
+    "hash": "62cba5e",
+    "message": "Bump version to 3.0.0dev1"
+  },
+  {
+    "hash": "6b29802",
+    "message": "deleted setup.cfg"
+  },
+  {
+    "hash": "8b93725",
+    "message": "using serialization links in list requests for record tests"
+  },
+  {
+    "hash": "959b26f",
+    "message": "format"
+  },
+  {
+    "hash": "96542a3",
+    "message": "after review"
+  },
+  {
+    "hash": "74a539a",
+    "message": "temp"
+  },
+  {
+    "hash": "0ec6c88",
+    "message": "format"
+  },
+  {
+    "hash": "a100bea",
+    "message": "edit, new_version fixes and publish tests"
+  },
+  {
+    "hash": "2ad9b8b",
+    "message": "cosmetics"
+  },
+  {
+    "hash": "2b9e35d",
+    "message": "remade actions"
+  },
+  {
+    "hash": "bb72efe",
+    "message": "overriding invenio resource"
+  },
+  {
+    "hash": "1e3af20",
+    "message": "ghost record test edit"
+  },
+  {
+    "hash": "778547e",
+    "message": "service create does not expect None return"
+  },
+  {
+    "hash": "8ba4b05",
+    "message": "savepoint"
+  },
+  {
+    "hash": "63e9842",
+    "message": "polishing actiond"
+  },
+  {
+    "hash": "6119e19",
+    "message": "savepoint"
+  },
+  {
+    "hash": "f0694e7",
+    "message": "savepoint"
+  },
+  {
+    "hash": "727b316",
+    "message": "savepoint"
+  },
+  {
+    "hash": "84f2e38",
+    "message": "correction"
+  },
+  {
+    "hash": "c92d76e",
+    "message": "savepoint"
+  },
+  {
+    "hash": "7d63fe3",
+    "message": "version string fix"
+  },
+  {
+    "hash": "653759f",
+    "message": "format"
+  },
+  {
+    "hash": "3f37154",
+    "message": "deleted jsonschema customization"
+  },
+  {
+    "hash": "3d14b09",
+    "message": "skipping param interpreters tests"
+  },
+  {
+    "hash": "971e68a",
+    "message": "moved service and service config class to initial_config"
+  },
+  {
+    "hash": "fa6cc41",
+    "message": "savepoint"
+  },
+  {
+    "hash": "0c9bd18",
+    "message": "Delete published notification translation fix (#162)"
+  },
+  {
+    "hash": "04d6b59",
+    "message": "changed refresh test due to non-deterministic behavior"
+  },
+  {
+    "hash": "9dd1e41",
+    "message": "topic can't be none in actions"
+  },
+  {
+    "hash": "6e1a4d0",
+    "message": "fixed error handlers"
+  }
+]

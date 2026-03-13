@@ -1,0 +1,51 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "s3",
+      "devs",
+      "s3fs",
+      "oaipmh",
+      "rdf",
+      "sparql",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "3.4.2",
+      "base": null,
+      "branch": "v3.4.2",
+      "commit": "c58a52a739f54742f85dcdb1fa0b3da6d5f45194",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "pytest-invenio",
+      "pr": null,
+      "pr_info": null,
+      "repo": "pytest-invenio"
+    },
+    "slow": false,
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "4.0.0",
+      "base": null,
+      "branch": null,
+      "commit": "f4dedee45cfb0d5eff4a5a2b543b263f6a17eff1",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "pytest-invenio",
+      "pr": null,
+      "pr_info": null,
+      "repo": "pytest-invenio"
+    }
+  },
+  "status": "success"
+}

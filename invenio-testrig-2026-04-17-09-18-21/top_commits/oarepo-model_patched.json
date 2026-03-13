@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "5b80587",
+    "message": "major bump"
+  },
+  {
+    "hash": "c3f57b0",
+    "message": "[skip ci] Bump version to v1.0.1"
+  },
+  {
+    "hash": "24bdf7f",
+    "message": "chore: Major version bump (#98)"
+  },
+  {
+    "hash": "7d6356a",
+    "message": "[skip ci] Bump version to 0.1.0dev53"
+  },
+  {
+    "hash": "a61fe3a",
+    "message": "removed incorrect oarepo version (#97)"
+  },
+  {
+    "hash": "c9f61ad",
+    "message": "[skip ci] Bump version to 0.1.0dev52"
+  },
+  {
+    "hash": "027be12",
+    "message": "model field on record parent (#94)"
+  },
+  {
+    "hash": "a54723c",
+    "message": "[skip ci] Bump version to 0.1.0dev51"
+  },
+  {
+    "hash": "499a10f",
+    "message": "local params fix (#91)"
+  },
+  {
+    "hash": "c40188a",
+    "message": "[skip ci] Bump version to 0.1.0dev50"
+  },
+  {
+    "hash": "91fe637",
+    "message": "fixed record metadata being overwritten in ui model (#90)"
+  },
+  {
+    "hash": "49eb02d",
+    "message": "[skip ci] Bump version to 0.1.0dev49"
+  },
+  {
+    "hash": "b101c19",
+    "message": "fix: At least a single preset is required (#87)"
+  },
+  {
+    "hash": "b67b047",
+    "message": "array facets fix (#89)"
+  },
+  {
+    "hash": "0acb99d",
+    "message": "[skip ci] Bump version to 0.1.0dev48"
+  },
+  {
+    "hash": "6f4f191",
+    "message": "fix: adding draft link even if draft does not exist but user has edit right - invenio rdm compatibility (#88)"
+  },
+  {
+    "hash": "b686ce9",
+    "message": "[skip ci] Bump version to 0.1.0dev47"
+  },
+  {
+    "hash": "de69c9b",
+    "message": "is_published field on record (#86)"
+  },
+  {
+    "hash": "b2717fb",
+    "message": "[skip ci] Bump version to 0.1.0dev46"
+  },
+  {
+    "hash": "921e59a",
+    "message": "More permissive query string parsing (#85)"
+  },
+  {
+    "hash": "3b6ce7d",
+    "message": "[skip ci] Bump version to 0.1.0dev45"
+  },
+  {
+    "hash": "a6cbb7a",
+    "message": "Vocabulary facets, changed facet helper API (#84)"
+  },
+  {
+    "hash": "0b975dd",
+    "message": "[skip ci] Bump version to 0.1.0dev44"
+  },
+  {
+    "hash": "41b3ea2",
+    "message": "feat: PatchIndexMapping, PatchIndexPropertyMapping (#83)"
+  },
+  {
+    "hash": "1d73465",
+    "message": "[skip ci] Bump version to 0.1.0dev43"
+  },
+  {
+    "hash": "e7f6361",
+    "message": "Miroslavsimek/sta 51 show relevant facets on datasets (#82)"
+  },
+  {
+    "hash": "6b39570",
+    "message": "[skip ci] Bump version to 0.1.0dev42"
+  },
+  {
+    "hash": "4249922",
+    "message": "resolve voc keys (#81)"
+  },
+  {
+    "hash": "488ba22",
+    "message": "[skip ci] Bump version to 0.1.0dev41"
+  },
+  {
+    "hash": "761b0b8",
+    "message": "Added AddLink high level customization that adds a Link to item links (#80)"
+  },
+  {
+    "hash": "af70316",
+    "message": "[skip ci] Bump version to 0.1.0dev40"
+  },
+  {
+    "hash": "cc59b07",
+    "message": "metadata schema from runtime dependencies (#79)"
+  },
+  {
+    "hash": "9fc23f0",
+    "message": "[skip ci] Bump version to 0.1.0dev39"
+  },
+  {
+    "hash": "7678ded",
+    "message": "Fix: Use record_type instead of metadata_type on RecordFacetsPreset. Return an empty dict in create_ui_model for an empty path (#78)"
+  },
+  {
+    "hash": "08a13d5",
+    "message": "[skip ci] Bump version to 0.1.0dev38"
+  },
+  {
+    "hash": "cf1c719",
+    "message": "Service component customization (#77)"
+  },
+  {
+    "hash": "6ba29cd",
+    "message": "Separate PID field for parent record (#76)"
+  },
+  {
+    "hash": "c26f16f",
+    "message": "[skip ci] Bump version to 0.1.0dev37"
+  },
+  {
+    "hash": "8be82e2",
+    "message": "Added oai_name to metadata import (#75)"
+  },
+  {
+    "hash": "d72c805",
+    "message": "[skip ci] Bump version to 0.1.0dev36"
+  },
+  {
+    "hash": "4ae29bb",
+    "message": "Added parent model to features - previously overwritten, should be merged (#74)"
+  },
+  {
+    "hash": "0f7917a",
+    "message": "[skip ci] Bump version to 0.1.0dev35"
+  },
+  {
+    "hash": "9c02534",
+    "message": "Model dumper for debugging models (#73)"
+  },
+  {
+    "hash": "3702c1b",
+    "message": "[skip ci] Bump version to 0.1.0dev34"
+  },
+  {
+    "hash": "bcb8a71",
+    "message": "Changed AddBaseClasses to AddBaseClass, AddMixins to PrependMixin"
+  },
+  {
+    "hash": "0c41574",
+    "message": "Bump version to 0.1.0dev33"
+  },
+  {
+    "hash": "736e886",
+    "message": "Support for python 3.14 (#71)"
+  },
+  {
+    "hash": "873999a",
+    "message": "Bump version to 0.1.0dev32"
+  },
+  {
+    "hash": "7617ce7",
+    "message": "fix: date serialization (#70)"
+  },
+  {
+    "hash": "192ad76",
+    "message": "Bump version to 0.1.0dev31"
+  }
+]

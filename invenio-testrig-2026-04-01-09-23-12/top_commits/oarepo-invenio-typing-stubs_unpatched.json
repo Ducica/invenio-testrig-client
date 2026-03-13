@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "c04bb21",
+    "message": "oarepo-testrig compatibility"
+  },
+  {
+    "hash": "910d661",
+    "message": "fix: testrig build problems (#5)"
+  },
+  {
+    "hash": "d25d4f5",
+    "message": "Version bump"
+  },
+  {
+    "hash": "c691f32",
+    "message": "scoped_session seems not to be correctly typed, so replacing with Session"
+  },
+  {
+    "hash": "2d0d40c",
+    "message": "Added celery types"
+  },
+  {
+    "hash": "d2ae73e",
+    "message": "fix: facet label"
+  },
+  {
+    "hash": "b0d2d28",
+    "message": "fix: optional _params"
+  },
+  {
+    "hash": "1061bc9",
+    "message": "fix: components type"
+  },
+  {
+    "hash": "9125f73",
+    "message": "Lazy strings in labels"
+  },
+  {
+    "hash": "e98b0c2",
+    "message": "LabelledFacetsMixin typing"
+  },
+  {
+    "hash": "8699473",
+    "message": "Fix: SearchDumper typing"
+  },
+  {
+    "hash": "c93605c",
+    "message": "minor changes"
+  },
+  {
+    "hash": "4b2e14b",
+    "message": "version bump"
+  },
+  {
+    "hash": "01730f2",
+    "message": "schemes"
+  },
+  {
+    "hash": "0b746c3",
+    "message": "ghost record fix (#1)"
+  },
+  {
+    "hash": "6c67024",
+    "message": "service typing - rebuild_index inconsistency fix"
+  },
+  {
+    "hash": "4475512",
+    "message": "various typing fixes"
+  },
+  {
+    "hash": "27a3200",
+    "message": "parent schema"
+  },
+  {
+    "hash": "3020f7c",
+    "message": "community slug"
+  },
+  {
+    "hash": "ec183d2",
+    "message": "Better typing for rdm service"
+  },
+  {
+    "hash": "fc7a7b0",
+    "message": "included all packages"
+  },
+  {
+    "hash": "4c6e9a9",
+    "message": "fix: changed LinksTemplate's links to mapping"
+  },
+  {
+    "hash": "342f5cb",
+    "message": "tightened typing for record service"
+  },
+  {
+    "hash": "bde5851",
+    "message": "fix: ServiceSchemaWrapper typing"
+  },
+  {
+    "hash": "953b483",
+    "message": "systemfields and generics were way to hell, reverted"
+  },
+  {
+    "hash": "510f495",
+    "message": "Version bump"
+  },
+  {
+    "hash": "1254197",
+    "message": "Not making SystemField generic as it conflicts later"
+  },
+  {
+    "hash": "d6b2eb4",
+    "message": "Extra props for systemfield"
+  },
+  {
+    "hash": "305efc7",
+    "message": "version bump"
+  },
+  {
+    "hash": "bfed062",
+    "message": "links and components mapping"
+  },
+  {
+    "hash": "215060b",
+    "message": "Added generics for service configs"
+  },
+  {
+    "hash": "ca0d600",
+    "message": "generic parameters for services"
+  },
+  {
+    "hash": "6ff1cc9",
+    "message": "generics in services and resources"
+  },
+  {
+    "hash": "5094e19",
+    "message": "Generics for service & resource"
+  },
+  {
+    "hash": "8a83cf7",
+    "message": "Removing classvars"
+  },
+  {
+    "hash": "5645eac",
+    "message": "fixed mypy errors"
+  },
+  {
+    "hash": "c974e2f",
+    "message": "proxies"
+  },
+  {
+    "hash": "1d558c8",
+    "message": "working on jsonschemas"
+  },
+  {
+    "hash": "b415712",
+    "message": "Added flask_resources"
+  },
+  {
+    "hash": "bde7ba9",
+    "message": "version bump"
+  },
+  {
+    "hash": "de2f6a1",
+    "message": "fix: invenio-search"
+  },
+  {
+    "hash": "03ee696",
+    "message": "Version bump"
+  },
+  {
+    "hash": "c5540c1",
+    "message": "Better typing for cli"
+  },
+  {
+    "hash": "9ec578f",
+    "message": "version bump"
+  },
+  {
+    "hash": "04c384c",
+    "message": "manual tweaking"
+  },
+  {
+    "hash": "da3137f",
+    "message": "setter for descriptor"
+  },
+  {
+    "hash": "0f25410",
+    "message": "readme"
+  },
+  {
+    "hash": "a12674f",
+    "message": "Version bump"
+  },
+  {
+    "hash": "a249fc3",
+    "message": "Typed flask, schemas"
+  },
+  {
+    "hash": "367abba",
+    "message": "first iteration on RDM records"
+  }
+]

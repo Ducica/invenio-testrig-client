@@ -1,0 +1,99 @@
+{
+  "dependencies": [],
+  "package": {
+    "github_entry": {
+      "_extra": {},
+      "default_branch": null,
+      "exclude": [
+        "oarepo-reference-repo"
+      ],
+      "extras": [
+        "tests",
+        "oarepo14"
+      ],
+      "freeze": [
+        "setuptools<82.0.0"
+      ],
+      "include": [
+        "oarepo-.*",
+        "pytest-oarepo"
+      ],
+      "install": [
+        "./run.sh",
+        "venv"
+      ],
+      "org": "oarepo",
+      "package_map": {
+        "oarepo-invenio-typing-stubs": "invenio-typing-stubs"
+      },
+      "slow_packages": {},
+      "test": [
+        "./run.sh",
+        "test"
+      ]
+    },
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "1.0.0dev7",
+      "base": null,
+      "branch": "v1.0.0dev7",
+      "commit": "4ed4137a61debd717f297eb1b04042800bdd8d55",
+      "commits_from_version": [],
+      "org": "oarepo",
+      "package": "oarepo-theme",
+      "pr": null,
+      "pr_info": null,
+      "repo": "oarepo-theme"
+    },
+    "unpatched_reference": {
+      "actual_version": "3.0.0",
+      "base": null,
+      "branch": null,
+      "commit": "fd6e0f8546eb5c1fa2ba3f798368b0db3df09e6e",
+      "commits_from_version": [
+        "c76dac0716adfd44278ab8fc23a62d5a15c0cf1a",
+        "8ce3fd86b61995808476b8bdd6a90125bc4e2450",
+        "66325ce63228118f06cefb3c232397ac99bede71",
+        "f5e78deec56ca6948a5de90bf613fb9012998adc",
+        "85bfda7d723e320b2bbf7c93cd39c4702b5478bf",
+        "d8bd5cc3ccbfa2df2faaa902990785e819996330",
+        "abb6e872b9afc7c8a80eaea32b9bd1d235778069",
+        "c3b54bbf461f4c167d7ed9d5195b0838fd41122a",
+        "bbad2c9baeddacbbd96c984250db2cfd67239b69",
+        "035fd3d6da61717172c97732c884ea48b8296247",
+        "8873324ccb424ad4d0f89465d767a0eb6058e67d",
+        "f18e5f261fbe29139650b5e227609a14e7f1d05c",
+        "4f67d196a8b06c2a86676fb545034fc4a62da598",
+        "bc1553f53ef446c78fb6b921380c93461eb74bfa",
+        "ecb52759923342bbb548c8518d37977a8142655f",
+        "4d606e051e21964b3cc8aa8313bbf0356f2f4208",
+        "4a26dd315096ca7b2b852cd228f2bfb139fb04b3",
+        "08f7db40d6c49b76a4898e9ae27ec92d5937bc07",
+        "8ace873e50e6071453ff61e62f78b75361e1ddfc",
+        "5d2cf8ec5b543efcd8b13eae555e690972cb99da",
+        "65e8e131bd80c28b96b11760deb5deaceba0a325",
+        "7104806a6b4d5cd6f9a86c3800170025c5fcc1a4",
+        "45f6d7a4fc1dec4d94c12293b436f0c21ee9410d",
+        "ba01b31193b81d1d384950cca816995ee036457a",
+        "d4f30bf610ef5c11a2cac13101aaefb7f490d1da",
+        "0914b071e767553e7b3f6d28c501f8d82ccfd3ee",
+        "24720eb9d657a0f87f7847fe29231feb6e186f7f",
+        "9a9e6c7fcca3efb107233faa7337afcb382ff28f",
+        "96c9ba6fd8d69da9fdeb3f281c6ed52cb48c71ff",
+        "14f02898284461aafb4620c87085ba516237492c",
+        "05bcc3d92f12d76ec4a0a4817949cbac0708b414",
+        "4ed4137a61debd717f297eb1b04042800bdd8d55",
+        "1882d5bce6b414124dc31cbd8321f03c9b6c3857",
+        "d9f49914009abf5844b881148f64a19143d9d3d4",
+        "fd6e0f8546eb5c1fa2ba3f798368b0db3df09e6e"
+      ],
+      "org": "oarepo",
+      "package": "oarepo-theme",
+      "pr": null,
+      "pr_info": null,
+      "repo": "oarepo-theme"
+    }
+  },
+  "status": "success"
+}

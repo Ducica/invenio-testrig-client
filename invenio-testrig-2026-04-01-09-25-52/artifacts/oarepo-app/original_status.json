@@ -1,0 +1,82 @@
+{
+  "dependencies": [],
+  "package": {
+    "github_entry": {
+      "_extra": {},
+      "default_branch": null,
+      "exclude": [
+        "oarepo-reference-repo"
+      ],
+      "extras": [
+        "tests",
+        "oarepo14"
+      ],
+      "freeze": [
+        "setuptools<82.0.0"
+      ],
+      "include": [
+        "oarepo-.*",
+        "pytest-oarepo"
+      ],
+      "install": [
+        "./run.sh",
+        "venv"
+      ],
+      "org": "oarepo",
+      "package_map": {
+        "oarepo-invenio-typing-stubs": "invenio-typing-stubs"
+      },
+      "slow_packages": {},
+      "test": [
+        "./run.sh",
+        "test"
+      ]
+    },
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "14.1.1.1",
+      "base": null,
+      "branch": "v14.1.1.1",
+      "commit": "4e954fba901306eeaa3164033a981d73eb236e5d",
+      "commits_from_version": [],
+      "org": "oarepo",
+      "package": "oarepo-app",
+      "pr": null,
+      "pr_info": null,
+      "repo": "oarepo-app"
+    },
+    "unpatched_reference": {
+      "actual_version": "14.1.1.1",
+      "base": null,
+      "branch": null,
+      "commit": "4e954fba901306eeaa3164033a981d73eb236e5d",
+      "commits_from_version": [
+        "a1e2f6a3ea00f2e57e91136eb29b38d4b93204e1",
+        "4ec82c3a0314ed28a1b8051755625aee0d3736d5",
+        "32d6f4e13a46db714d8a7db640b985663bf251a1",
+        "b8a6f13c3b4ddb4da43e4fba8ff72917df5f4875",
+        "703b13401b8a3035ba8800b4d1bda2c265496a5f",
+        "fbb304233cc6161745843987fcd7109ac52e35f2",
+        "9328628749caaf33bad664d11e4edd24ddb06287",
+        "f6876234f912bdbcaa8ac4544f245871f990ddd0",
+        "9aa3c68680297b9a63039a7d7409dbb63a73dbf7",
+        "8dcf96ed261fc2b88aa44bdec55c70749a98075c",
+        "afeb4aa2e97239938b84b4babd44bf69ce1f3cba",
+        "ef77ea2a51eb4c412b601014dc0b6660615cbbcd",
+        "b58506b1ee2fc17f9f40dada87623b73dc4af88b",
+        "fced552e3bda904fa10d7ed71c490dec1c8cfe0e",
+        "290fd44bafb41e118889a666b0e4f6fd9c88be3f",
+        "5ff70b9f925c19f706daacad3322e5ba5b49d050",
+        "27ca28cc8b1d79441cd981d3691e7a4de1c28c64",
+        "4e954fba901306eeaa3164033a981d73eb236e5d"
+      ],
+      "org": "oarepo",
+      "package": "oarepo-app",
+      "pr": null,
+      "pr_info": null,
+      "repo": "oarepo-app"
+    }
+  },
+  "status": "failed"
+}

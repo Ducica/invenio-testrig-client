@@ -1,0 +1,146 @@
+[
+  {
+    "hash": "2a36bd3",
+    "message": "Major bump induced by invenio-rdm-records major bump"
+  },
+  {
+    "hash": "296f4d4",
+    "message": "Added gh_token env"
+  },
+  {
+    "hash": "b51d103",
+    "message": "Merge pull request #13 from oarepo/dependency-tree-upgrade"
+  },
+  {
+    "hash": "96842e1",
+    "message": "reworked dependency tree"
+  },
+  {
+    "hash": "eef3a6a",
+    "message": "Added version lock"
+  },
+  {
+    "hash": "5817aa7",
+    "message": "Using elkjs for layout"
+  },
+  {
+    "hash": "1751677",
+    "message": "graph"
+  },
+  {
+    "hash": "9e2b4d8",
+    "message": "graph"
+  },
+  {
+    "hash": "851e498",
+    "message": "plain html pages"
+  },
+  {
+    "hash": "9596ad5",
+    "message": "Merge pull request #12 from oarepo/dependency-tree"
+  },
+  {
+    "hash": "63f1072",
+    "message": "Add dependency tree tool and workflow"
+  },
+  {
+    "hash": "6579456",
+    "message": "Merge pull request #11 from oarepo/temporary-14.2.1b9.dev0-6.rdm.14.0.0b9.dev0"
+  },
+  {
+    "hash": "5c83310",
+    "message": "chore: update to InvenioRDM 14"
+  },
+  {
+    "hash": "a41cb72",
+    "message": "PR was too long, fixed"
+  },
+  {
+    "hash": "ddb3453",
+    "message": "Added token for gh client"
+  },
+  {
+    "hash": "fbc90f5",
+    "message": "Merge pull request #10 from oarepo/new-major-versioning"
+  },
+  {
+    "hash": "8844857",
+    "message": "initial version change"
+  },
+  {
+    "hash": "1326fc8",
+    "message": "Better tag reading, different oarepo-app versioning"
+  },
+  {
+    "hash": "4e954fb",
+    "message": "Merge pull request #9 from oarepo/temporary-14.1.1"
+  },
+  {
+    "hash": "27ca28c",
+    "message": "chore: update to InvenioRDM 14"
+  },
+  {
+    "hash": "5ff70b9",
+    "message": "using pat to trigger workflow"
+  },
+  {
+    "hash": "290fd44",
+    "message": "ignoring .bin"
+  },
+  {
+    "hash": "fced552",
+    "message": "PR build workflow"
+  },
+  {
+    "hash": "b58506b",
+    "message": "PR build workflow"
+  },
+  {
+    "hash": "ef77ea2",
+    "message": "release workflow"
+  },
+  {
+    "hash": "afeb4aa",
+    "message": "Better PR body"
+  },
+  {
+    "hash": "8dcf96e",
+    "message": "Filtering for open PRs"
+  },
+  {
+    "hash": "9aa3c68",
+    "message": "renamed start, added after merge"
+  },
+  {
+    "hash": "f687623",
+    "message": "Extra libraries"
+  },
+  {
+    "hash": "9328628",
+    "message": "Extra libraries"
+  },
+  {
+    "hash": "fbb3042",
+    "message": "Better build system"
+  },
+  {
+    "hash": "703b134",
+    "message": "Better build system"
+  },
+  {
+    "hash": "b8a6f13",
+    "message": "oarepo-app-build link"
+  },
+  {
+    "hash": "32d6f4e",
+    "message": "workflow parameter"
+  },
+  {
+    "hash": "4ec82c3",
+    "message": "initial implementation of oarepo-app builder"
+  },
+  {
+    "hash": "a1e2f6a",
+    "message": "Initial commit"
+  }
+]

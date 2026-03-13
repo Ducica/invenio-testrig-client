@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "0822037",
+    "message": "Bump to v4.0.0 - Major release (#39)"
+  },
+  {
+    "hash": "f9574b9",
+    "message": "[skip ci] Bump version to v3.0.1"
+  },
+  {
+    "hash": "9f678fb",
+    "message": "Switched to python 3.14 (#38)"
+  },
+  {
+    "hash": "d625d1a",
+    "message": "Major version bump (#37)"
+  },
+  {
+    "hash": "d8cbb9b",
+    "message": "[skip ci] Bump version to 2.0.0dev4"
+  },
+  {
+    "hash": "1d12305",
+    "message": "Delete community fix (#36)"
+  },
+  {
+    "hash": "4c75c5a",
+    "message": "[skip ci] Bump version to 2.0.0dev3"
+  },
+  {
+    "hash": "0cef440",
+    "message": "Added filtering by VO (#33) (#34)"
+  },
+  {
+    "hash": "23c582a",
+    "message": "[skip ci] Bump version to 2.0.0dev2"
+  },
+  {
+    "hash": "c1ce79a",
+    "message": "Python 3.14 (#32)"
+  },
+  {
+    "hash": "69d1f8e",
+    "message": "Bump version to 2.0.0dev1"
+  },
+  {
+    "hash": "7b458fd",
+    "message": "linter"
+  },
+  {
+    "hash": "9cb6655",
+    "message": "python version"
+  },
+  {
+    "hash": "cd2673f",
+    "message": "python version"
+  },
+  {
+    "hash": "d41e70e",
+    "message": "RDM-14 compatibility"
+  },
+  {
+    "hash": "260ee30",
+    "message": "Looking up user by the email as well"
+  },
+  {
+    "hash": "5183cf9",
+    "message": "Merge pull request #28 from oarepo/perun-api-change"
+  },
+  {
+    "hash": "8f9df33",
+    "message": "Test API change"
+  },
+  {
+    "hash": "7e332c8",
+    "message": "Version bump"
+  },
+  {
+    "hash": "7dc8705",
+    "message": "Selectable perun API prefix"
+  },
+  {
+    "hash": "4a562c5",
+    "message": "Merge pull request #27 from oarepo/miroslavsimek/be-871-muj-ucetnotifikace"
+  },
+  {
+    "hash": "f5b94d0",
+    "message": "Keeping props in user profile and settings if they are not from Perun"
+  },
+  {
+    "hash": "a7ebff6",
+    "message": "Merge pull request #26 from oarepo/add-username"
+  },
+  {
+    "hash": "99302ef",
+    "message": "feat: add username to e-infra synchronized account"
+  },
+  {
+    "hash": "49fc928",
+    "message": "Merge pull request #25 from oarepo/limit-calls-to-einfra"
+  },
+  {
+    "hash": "1203c91",
+    "message": "fix: not running einfra hooks if the backend is not e-infra"
+  },
+  {
+    "hash": "19e40e3",
+    "message": "Merge pull request #24 from oarepo/simplified-cli"
+  },
+  {
+    "hash": "f7cb37c",
+    "message": "fixed info messages"
+  },
+  {
+    "hash": "dd3977e",
+    "message": "fixed typing"
+  },
+  {
+    "hash": "cdb6652",
+    "message": "version bump"
+  },
+  {
+    "hash": "7bca2b2",
+    "message": "chore: simplified cli commands"
+  },
+  {
+    "hash": "2a1f865",
+    "message": "Merge pull request #23 from oarepo/simplified-invitation-accept"
+  },
+  {
+    "hash": "f06e7ae",
+    "message": "Version bump"
+  },
+  {
+    "hash": "83173e1",
+    "message": "i18n: translations"
+  },
+  {
+    "hash": "88f21d6",
+    "message": "Simplified accepting invitation, added user messages if things go wrong"
+  },
+  {
+    "hash": "f59a22e",
+    "message": "fix: membership in multiple communities, user notification on errors"
+  },
+  {
+    "hash": "9492193",
+    "message": "fix: not propagating synchronization back to AAI while logging"
+  },
+  {
+    "hash": "f523878",
+    "message": "Merge pull request #22 from oarepo/debug-and-orcid-coexistence"
+  },
+  {
+    "hash": "7994f19",
+    "message": "version bump"
+  },
+  {
+    "hash": "3efa89a",
+    "message": "debug messages"
+  },
+  {
+    "hash": "006dc88",
+    "message": "coexistence with orcid"
+  },
+  {
+    "hash": "e316b26",
+    "message": "Merge pull request #21 from oarepo/miroslavsimek/be-802-opravit-zobrazeni-jmena-v-zadostech-pro-prihlaseni-pres-aai"
+  },
+  {
+    "hash": "81241f1",
+    "message": "Indexing users immediatelly"
+  },
+  {
+    "hash": "6e00dbb",
+    "message": "Merge pull request #20 from oarepo/miroslavsimek/be-802-opravit-zobrazeni-jmena-v-zadostech-pro-prihlaseni-pres-aai"
+  },
+  {
+    "hash": "ae3ba3a",
+    "message": "translations"
+  },
+  {
+    "hash": "a543f5b",
+    "message": "fix: propagating profile settings from perun to repository"
+  },
+  {
+    "hash": "b2609b7",
+    "message": "fix: errors during login"
+  },
+  {
+    "hash": "0a6aa8a",
+    "message": "mo files"
+  },
+  {
+    "hash": "bd4e814",
+    "message": "translations & cast"
+  },
+  {
+    "hash": "b6ad439",
+    "message": "translations & cast"
+  }
+]
