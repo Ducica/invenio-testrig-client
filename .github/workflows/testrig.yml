@@ -64,11 +64,21 @@ on:
         description: "Override repository.e2e configuration (e.g., 'org/repo@branch' or GitHub URL)"
         required: false
         type: string
+      e2e-ui:
+        description: "Run thorough E2E UI tests. Default is smoketests only."
+        required: false
+        type: boolean
+        default: false
       ignore-uv-lock:
         description: "Ignore uv.lock files and use latest compatible versions"
         required: false
         type: boolean
         default: false
+      slow-test-splitting:
+        description: "Enable splitting of slow tests into multiple parts"
+        required: false
+        type: boolean
+        default: true
 
 permissions:
   contents: write # Required for pushing reports to the repository
@@ -94,4 +104,6 @@ jobs:
       config-file: ${{ inputs.config-file }}
       repository: ${{ inputs.repository }}
       e2e: ${{ inputs.e2e }}
+      e2e-ui: ${{ inputs.e2e-ui }}
       ignore-uv-lock: ${{ inputs.ignore-uv-lock }}
+      slow-test-splitting: ${{ inputs.slow-test-splitting }}
